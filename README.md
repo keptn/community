@@ -2,7 +2,7 @@
 
 Welcome to the keptn community!
 
-This is the starting point for joining and contributing to the keptn community - improving docs, improving code, discussing new features and use cases etc.
+This is the starting point for joining and contributing to the keptn community - improving docs, improving code, discussing new features and use cases etc. For all collaboration and communication going on in all keptn projects, please read and follow this [Code of Conduct](./CODE_OF_CONDUCT.md).
 
 ## Communication
 
