@@ -6,11 +6,10 @@ This is the starting point for joining and contributing to the keptn community -
 
 ## Communication
 
-Send an email: keptn@dynatrace.com
-
-Join us on Slack: [keptn.slack.com](https://join.slack.com/t/keptn/shared_invite/enQtNTUxMTQ1MzgzMzUxLTcxMzE0OWU1YzU5YjY3NjFhYTJlZTNjOTZjY2EwYzQyYWRkZThhY2I3ZDMzN2MzOThkZjIzOTdhOGViMDNiMzI)
-
-Or, participate in our community meetings
+- Send an email: keptn@dynatrace.com
+- Join us on Slack: [keptn.slack.com](https://join.slack.com/t/keptn/shared_invite/enQtNTUxMTQ1MzgzMzUxLTcxMzE0OWU1YzU5YjY3NjFhYTJlZTNjOTZjY2EwYzQyYWRkZThhY2I3ZDMzN2MzOThkZjIzOTdhOGViMDNiMzI)
+- Follow us on Twitter: [keptnProject](https://twitter.com/keptnProject)
+- Participate in our community meetings
 
 ## Community Meeting
 
