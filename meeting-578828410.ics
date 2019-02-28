@@ -1,0 +1,59 @@
+BEGIN:VCALENDAR
+PRODID:-//zoom.us//iCalendar Event//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+CLASS:PUBLIC
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20190228T093459Z
+DTSTART;TZID=Europe/Berlin:20190304T160000
+DTEND;TZID=Europe/Berlin:20190304T170000
+SUMMARY:keptn community meeting
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20191223T160000;INTERVAL=2;BYDAY=MO
+UID:ZOOM578828410
+TZID:Europe/Berlin
+DESCRIPTION:Hi there\, \n\nDirk Wallerstorfer is inviting you to a schedu
+ led Zoom meeting. \n\nJoin from PC\, Mac\, Linux\, iOS or Android: https
+ ://dynatrace.zoom.us/j/578828410\n\nOr iPhone one-tap :\n    US: +164655
+ 88656\,\,578828410#  or +16699006833\,\,578828410# \nOr Telephone：\n    
+ Dial(for higher quality\, dial a number based on your current location)：
+ \n        US: +1 646 558 8656  or +1 669 900 6833  or 877 369 0926 (Toll
+  Free) or 877 853 5247 (Toll Free)\n        Austria: +43 670 309 0165  o
+ r +43 72 011 5988  or 800 802 588 (Toll Free)\n        Poland: +48 22 30
+ 7 3488  or +48 22 398 7356  or 00 800 321 1464 (Toll Free)\n        Unit
+ ed Kingdom: +44 203 695 0088  or +44 203 966 3809  or 800 031 5717 (Toll
+  Free)\n    Meeting ID: 578 828 410\n    International numbers available
+ : https://zoom.us/u/acGYm8I1hZ\n\nOr an Polycomm/Cisco/Tanberg (H.323/SI
+ P) room system:\n    H.323: \n        162.255.37.11 (US West)\n        1
+ 62.255.36.11 (US East)\n        221.122.88.195 (China)\n        115.114.
+ 131.7 (India)\n        213.19.144.110 (EMEA)\n        202.177.207.158 (A
+ ustralia)\n        209.9.211.110 (Hong Kong)\n        64.211.144.160 (Br
+ azil)\n        69.174.57.160 (Canada)\n    Meeting ID: 578 828 410\n\n  
+   SIP: 578828410@zoomcrc.com\n\n
+LOCATION:https://dynatrace.zoom.us/j/578828410
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
