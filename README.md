@@ -13,7 +13,7 @@ This is the starting point for joining and contributing to the keptn community -
 
 ## Community Meeting
 
-This meeting will be held every other Monday at
+First meeting on Monday, March 4. From then on, this meeting will be held every other Monday at
 - 7 AM US Pacific Time
 - 10 AM US Eastern Time
 - 4 PM CET Centreal European Time
