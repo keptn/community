@@ -20,8 +20,6 @@ This meeting will be held every other Monday at
 
 Further information
 - [Zoom Meeting](https://dynatrace.zoom.us/j/578828410)
-  - [Meeting ICS](https://zoom.us/meeting/578828410/ics)
-  - [Add to Google Calendar](https://zoom.us/meeting/578828410/calendar/google/add)
 - [Meeting Notes](https://tinyurl.com/keptn-meeting-notes)
 - [Public Calendar](https://calendar.google.com/calendar/embed?src=dynatrace.com_abjrh1ukf18ih477tb1ekag2ag%40group.calendar.google.com)
 - [YouTube playlist of previous meetings](https://www.youtube.com/playlist?list=PL6i801Rjt9DZnx47VDHUFIBssSYR23_zu)
