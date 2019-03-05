@@ -22,5 +22,5 @@ Further information
 - [Zoom Meeting](https://dynatrace.zoom.us/j/578828410)
 - [Meeting Notes](https://tinyurl.com/keptn-meeting-notes)
 - [Public Calendar](https://calendar.google.com/calendar/embed?src=dynatrace.com_abjrh1ukf18ih477tb1ekag2ag%40group.calendar.google.com)
-- [YouTube playlist of previous meetings](https://www.youtube.com/playlist?list=PL6i801Rjt9DZnx47VDHUFIBssSYR23_zu)
+- [Community Meeting Recordings](https://drive.google.com/drive/folders/1nYaPPf7vygf_JInEA9q3YR90JUTWLCFl)
 - [Calendar in iCal format](https://calendar.google.com/calendar/ical/dynatrace.com_abjrh1ukf18ih477tb1ekag2ag%40group.calendar.google.com/public/basic.ics)
