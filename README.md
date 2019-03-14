@@ -8,7 +8,9 @@ This is the starting point for joining and contributing to the keptn community -
 
 - Send an email: keptn@dynatrace.com
 - Join us on Slack: [keptn.slack.com](https://join.slack.com/t/keptn/shared_invite/enQtNTUxMTQ1MzgzMzUxLTcxMzE0OWU1YzU5YjY3NjFhYTJlZTNjOTZjY2EwYzQyYWRkZThhY2I3ZDMzN2MzOThkZjIzOTdhOGViMDNiMzI)
-- Follow us on Twitter: [keptnProject](https://twitter.com/keptnProject)
+- Follow us on Twitter: <a href="https://twitter.com/intent/follow?screen_name=keptnProject">
+  <img src="https://img.shields.io/twitter/follow/keptnProject.svg?style=social&logo=twitter"
+      alt="follow on Twitter"></a>
 - Participate in our community meetings
 
 ## Community Meeting
