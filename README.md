@@ -18,7 +18,8 @@ This is the starting point for joining and contributing to the keptn community -
 First meeting on Monday, March 4. From then on, this meeting will be held every other Monday at
 - 7 AM US Pacific Time
 - 10 AM US Eastern Time
-- 4 PM CET Centreal European Time
+- 4 PM CET Central European Time
+- Midnight Australian Eastern Standard Time (AEST)
 
 Further information
 - [Zoom Meeting](https://dynatrace.zoom.us/j/578828410)
