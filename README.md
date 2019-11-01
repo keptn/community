@@ -1,8 +1,10 @@
-# keptn Community
+# Keptn Community
 
-Welcome to the keptn community!
+Welcome to the Keptn community!
 
-This is the starting point for joining and contributing to the keptn community - improving docs, improving code, discussing new features and use cases etc. For all collaboration and communication going on in all keptn projects, please read and follow this [Code of Conduct](./CODE_OF_CONDUCT.md).
+This is the starting point for joining and contributing to the Keptn community - improving docs, improving code, discussing new features and use cases etc. For all collaboration and communication going on in all keptn projects, please read and follow this [Code of Conduct](./CODE_OF_CONDUCT.md).
+
+For more information about the project, please visit [keptn.sh](https://keptn.sh) and the [keptn/keptn](https://github.com/keptn/keptn) GitHub repo.
 
 ## Communication
 
@@ -15,15 +17,21 @@ This is the starting point for joining and contributing to the keptn community -
 
 ## Community Meeting
 
-First meeting on Monday, March 4. From then on, this meeting will be held every other Monday at
+First meeting on Monday, March 4, 2019, via [Zoom](https://dynatrace.zoom.us/j/578828410). From then on, this meeting will be held every other Monday at
+
+- 4 PM CET Central European Time (CET)
+
+Please check [The Time Zone Converter](https://www.thetimezoneconverter.com/?t=04:00pm&tz=Vienna) to see what time this translates for the timezone you reside in, e.g.:
+
 - 7 AM US Pacific Time
 - 10 AM US Eastern Time
-- 4 PM CET Central European Time
 - Midnight Australian Eastern Standard Time (AEST)
 
+**Note**: The actual time for your timezone might change depending on local regulations (e.g., Daylight Saving Time).
+
+Please also check the [Public Calendar](https://calendar.google.com/calendar/embed?src=dynatrace.com_abjrh1ukf18ih477tb1ekag2ag%40group.calendar.google.com) or even better, import the [Calendar in iCal format](https://calendar.google.com/calendar/ical/dynatrace.com_abjrh1ukf18ih477tb1ekag2ag%40group.calendar.google.com/public/basic.ics).
+
 Further information
-- [Zoom Meeting](https://dynatrace.zoom.us/j/578828410)
-- [Meeting Notes](https://tinyurl.com/keptn-meeting-notes)
-- [Public Calendar](https://calendar.google.com/calendar/embed?src=dynatrace.com_abjrh1ukf18ih477tb1ekag2ag%40group.calendar.google.com)
+- [Zoom Meeting Link](https://dynatrace.zoom.us/j/578828410)
+- [Meeting Notes](https://tinyurl.com/keptn-meeting-notes) 
 - [Community Meeting Recordings](https://drive.google.com/drive/folders/1nYaPPf7vygf_JInEA9q3YR90JUTWLCFl)
-- [Calendar in iCal format](https://calendar.google.com/calendar/ical/dynatrace.com_abjrh1ukf18ih477tb1ekag2ag%40group.calendar.google.com/public/basic.ics)
