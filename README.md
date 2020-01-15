@@ -17,7 +17,7 @@ For more information about the project, please visit [keptn.sh](https://keptn.sh
 
 ## Community Meeting
 
-First meeting on Monday, March 4, 2019, via [Zoom](https://dynatrace.zoom.us/j/578828410). From then on, this meeting will be held every other Monday at
+First meeting on Monday, March 4, 2019, via [Zoom](https://dynatrace.zoom.us/j/451021860). From then on, this meeting will be held every other Monday at
 
 - 4 PM CET Central European Time (CET)
 
@@ -32,6 +32,7 @@ Please check [The Time Zone Converter](https://www.thetimezoneconverter.com/?t=0
 Please also check the [Public Calendar](https://calendar.google.com/calendar/embed?src=dynatrace.com_abjrh1ukf18ih477tb1ekag2ag%40group.calendar.google.com) or even better, import the [Calendar in iCal format](https://calendar.google.com/calendar/ical/dynatrace.com_abjrh1ukf18ih477tb1ekag2ag%40group.calendar.google.com/public/basic.ics).
 
 Further information
-- [Zoom Meeting Link](https://dynatrace.zoom.us/j/578828410)
+- [Meeting Link](https://dynatrace.zoom.us/j/451021860)
 - [Meeting Notes](https://tinyurl.com/keptn-meeting-notes) 
 - [Community Meeting Recordings](https://drive.google.com/drive/folders/1nYaPPf7vygf_JInEA9q3YR90JUTWLCFl)
+
