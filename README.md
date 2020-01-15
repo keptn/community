@@ -34,5 +34,5 @@ Please also check the [Public Calendar](https://calendar.google.com/calendar/emb
 Further information
 - [Meeting Link](https://dynatrace.zoom.us/j/451021860)
 - [Meeting Notes](https://tinyurl.com/keptn-meeting-notes) 
-- [Community Meeting Recordings](https://drive.google.com/drive/folders/1nYaPPf7vygf_JInEA9q3YR90JUTWLCFl)
-
+- [Community Meeting Recordings (Google Drive)](https://drive.google.com/drive/folders/1nYaPPf7vygf_JInEA9q3YR90JUTWLCFl)
+- [YouTube playlist with Community Meetings](https://www.youtube.com/playlist?list=PL6i801Rjt9DZLOPyNbHTDQur_QmMx98ak)
