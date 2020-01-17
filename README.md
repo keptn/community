@@ -15,7 +15,7 @@ For more information about the project, please visit [keptn.sh](https://keptn.sh
       alt="follow on Twitter"></a>
 - Participate in our community meetings
 
-## Community Meeting
+## Community Meetings
 
 First meeting on Monday, March 4, 2019, via [Zoom](https://dynatrace.zoom.us/j/451021860). From then on, this meeting will be held every other Monday at
 
@@ -29,10 +29,13 @@ Please check [The Time Zone Converter](https://www.thetimezoneconverter.com/?t=0
 
 **Note**: The actual time for your timezone might change depending on local regulations (e.g., Daylight Saving Time).
 
-Please also check the [Public Calendar](https://calendar.google.com/calendar/embed?src=dynatrace.com_abjrh1ukf18ih477tb1ekag2ag%40group.calendar.google.com) or even better, import the [Calendar in iCal format](https://calendar.google.com/calendar/ical/dynatrace.com_abjrh1ukf18ih477tb1ekag2ag%40group.calendar.google.com/public/basic.ics).
+### Meeting Calendar
 
-Further information
-- [Meeting Link](https://dynatrace.zoom.us/j/451021860)
-- [Meeting Notes](https://tinyurl.com/keptn-meeting-notes) 
-- [Community Meeting Recordings (Google Drive)](https://drive.google.com/drive/folders/1nYaPPf7vygf_JInEA9q3YR90JUTWLCFl)
-- [YouTube playlist with Community Meetings](https://www.youtube.com/playlist?list=PL6i801Rjt9DZLOPyNbHTDQur_QmMx98ak)
+- 🗓️ [Public Google Calendar](https://calendar.google.com/calendar/embed?src=dynatrace.com_abjrh1ukf18ih477tb1ekag2ag%40group.calendar.google.com) 
+- 🗓️ [Calendar in iCal format](https://calendar.google.com/calendar/ical/dynatrace.com_abjrh1ukf18ih477tb1ekag2ag%40group.calendar.google.com/public/basic.ics)
+
+### Further information
+- 💻 [Zoom Meeting - no registration needed](https://dynatrace.zoom.us/j/451021860)
+- 📃 [Meeting Notes in Google Docs](https://tinyurl.com/keptn-meeting-notes) 
+- 📺 [Community Meeting Recordings (Google Drive)](https://drive.google.com/drive/folders/1nYaPPf7vygf_JInEA9q3YR90JUTWLCFl)
+- 📹 [YouTube playlist with Community Meetings](https://www.youtube.com/playlist?list=PL6i801Rjt9DZLOPyNbHTDQur_QmMx98ak)
