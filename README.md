@@ -39,3 +39,4 @@ Please check [The Time Zone Converter](https://www.thetimezoneconverter.com/?t=0
 - 📃 [Meeting Notes in Google Docs](https://tinyurl.com/keptn-meeting-notes) 
 - 📺 [Community Meeting Recordings (Google Drive)](https://drive.google.com/drive/folders/1nYaPPf7vygf_JInEA9q3YR90JUTWLCFl)
 - 📹 [YouTube playlist with Community Meetings](https://www.youtube.com/playlist?list=PL6i801Rjt9DZLOPyNbHTDQur_QmMx98ak)
+- 📹 [YouTube channel with Explanations, Tutorials, and Community Meetings](https://www.youtube.com/channel/UCHMn9HyAMeb81bRlaOuZyuQ/featured)
