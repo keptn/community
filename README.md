@@ -16,18 +16,17 @@ For more information about the project, please visit [keptn.sh](https://keptn.sh
 - Participate in our community meetings
 
 ## Community Meetings
+<!--
+First meeting on Monday, March 4, 2019, via [Zoom](https://dynatrace.zoom.us/j/451021860). From then on, this meeting was held on every other Monday until February 2020.
+-->
 
-First meeting on Monday, March 4, 2019, via [Zoom](https://dynatrace.zoom.us/j/451021860). From then on, this meeting will be held every other Monday at
+Starting with March 5, 2020 we moved the community meetings to every other Thursday, at
+- 5 PM CET Central European Time (CET) 
+- 8 AM US Pacific Time
+- 11 AM US Eastern Time
 
-- 4 PM CET Central European Time (CET)
-
-Please check [The Time Zone Converter](https://www.thetimezoneconverter.com/?t=04:00pm&tz=Vienna) to see what time this translates for the timezone you reside in, e.g.:
-
-- 7 AM US Pacific Time
-- 10 AM US Eastern Time
-- Midnight Australian Eastern Standard Time (AEST)
-
-**Note**: The actual time for your timezone might change depending on local regulations (e.g., Daylight Saving Time).
+Please check [The Time Zone Converter](https://www.thetimezoneconverter.com/?t=05:00pm&tz=Vienna) to see what time this translates for the timezone you reside in. 
+**Note**: The actual time for your timezone might change depending on local regulations (e.g., Daylight Saving Time), please check our public calendar below with up-to-date times.
 
 ### Meeting Calendar
 
