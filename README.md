@@ -15,18 +15,31 @@ For more information about the project, please visit [keptn.sh](https://keptn.sh
       alt="follow on Twitter"></a>
 - Participate in our community meetings
 
-## Community Meetings
+## Community & Developer Meetings
 <!--
 First meeting on Monday, March 4, 2019, via [Zoom](https://dynatrace.zoom.us/j/451021860). From then on, this meeting was held on every other Monday until February 2020.
 -->
 
-Starting with March 5, 2020 we moved the community meetings to every other Thursday, at
+We are hosting Keptn community meetings as well as developer meetings to get updates on the latest development of Keptn as well as to give a place for all Keptn developers to gather and exchange their knowledge.
+
+Meetings will happen generally on a Thursday during these times:
 - 5 PM CET Central European Time (CET) 
 - 8 AM US Pacific Time
 - 11 AM US Eastern Time
 
 Please check [The Time Zone Converter](https://www.thetimezoneconverter.com/?t=05:00pm&tz=Vienna) to see what time this translates for the timezone you reside in. 
 **Note**: The actual time for your timezone might change depending on local regulations (e.g., Daylight Saving Time), please check our public calendar below with up-to-date times.
+
+### Next meetings
+
+| Date  | Edition | Topic / Guest | 
+|---|---|---|
+| March 19 | Community Meeting | Neoload SLI Provider / Henrik Rexed |
+| March 26 | Developer Meeting | How to write your own Keptn service + bring your questions |
+| April 2  | Community Meeting | ERT |
+| April 9  | Developer Meeting | Bring your own questions |
+
+Join us via Zoom: https://dynatrace.zoom.us/j/451021860 
 
 ### Meeting Calendar
 
