@@ -23,9 +23,9 @@ First meeting on Monday, March 4, 2019, via [Zoom](https://dynatrace.zoom.us/j/4
 We are hosting Keptn community meetings as well as developer meetings to get updates on the latest development of Keptn as well as to give a place for all Keptn developers to gather and exchange their knowledge.
 
 Meetings will happen generally on a Thursday during these times:
-- 5 PM CET Central European Time (CET) 
-- 8 AM US Pacific Time
-- 11 AM US Eastern Time
+- 5 PM CET Central European Time (CET) - this is the master time
+- 8 AM US Pacific Standard Time (UTC−08:00)
+- 11 AM US Eastern Standard Time (UTC-05:00)
 
 Please check [The Time Zone Converter](https://www.thetimezoneconverter.com/?t=05:00pm&tz=Vienna) to see what time this translates for the timezone you reside in. 
 **Note**: The actual time for your timezone might change depending on local regulations (e.g., Daylight Saving Time), please check our public calendar below with up-to-date times.
