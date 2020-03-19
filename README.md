@@ -36,7 +36,7 @@ Please check [The Time Zone Converter](https://www.thetimezoneconverter.com/?t=0
 |---|---|---|
 | March 19 | Community Meeting | Neoload SLI Provider / Henrik Rexed |
 | March 26 | Developer Meeting | How to write your own Keptn service + bring your questions |
-| April 2  | Community Meeting | ERT |
+| April 2  | Community Meeting | Keptn Quality Gate in GitLabs / Christian from ERT |
 | April 9  | Developer Meeting | Bring your own questions |
 
 Join us via Zoom: https://dynatrace.zoom.us/j/451021860 
