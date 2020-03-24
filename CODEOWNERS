@@ -1,0 +1,12 @@
+##############################################################
+#
+# Lists the owners of this Keptn community project
+#
+##############################################################
+#
+# 
+# Learn about CODEOWNERS file format: 
+#  https://help.github.com/en/articles/about-code-owners
+#
+
+* @jetzlstorfer @grabnerandi @christian-kreuzberger-dtx @AloisReitbauer 
