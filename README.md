@@ -34,12 +34,22 @@ Please check [The Time Zone Converter](https://www.thetimezoneconverter.com/?t=0
 
 | Date  | Edition | Topic / Guest | 
 |---|---|---|
-| March 19 | Community Meeting | Neoload SLI Provider / Henrik Rexed |
 | March 26 | Developer Meeting | How to write your own Keptn service + bring your questions |
-| April 2  | Community Meeting | Keptn Quality Gate in GitLabs / Christian from ERT |
+| April 2  | Community Meeting | Keptn Quality Gate in GitLabs and Bitbucket / Christian from ERT |
 | April 9  | Developer Meeting | Bring your own questions |
+| April 16 | Community Meeting | Integrate Keptn into your Atlassion DevOps Toolsuite |
+| April 23 | Developer Meeting | Bring your own questions| 
 
 Join us via Zoom: https://dynatrace.zoom.us/j/451021860 
+
+#### Previous meetings with YouTube links
+
+| Date  | Edition | Topic / Guest | 
+|---|---|---|
+| March 19 | Community Meeting | [Neoload SLI Provider / Henrik Rexed](https://www.youtube.com/watch?v=_s2EcAq1RSE) |
+| March 5 | Community Meeting | [Keptn Slackbot / Zohaib Ul Hassan](https://www.youtube.com/watch?v=4pOUbKRzgWg)
+| February 17  | Community Meeting | [Risk free feature toggling with Keptn and Unleash / Ivar Osthus](https://www.youtube.com/watch?v=bDLxzzPgjJI) |
+
 
 ### Meeting Calendar
 
