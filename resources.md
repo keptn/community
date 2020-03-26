@@ -29,6 +29,7 @@
 
 | Event | Recording |
 | ---   | --- |
+| Cloud Native London Meetup, July 2019 | https://skillsmatter.com/skillscasts/14095-continuous-deployment-and-operations-on-kubernetes-with-keptn |
 | Cloud Native Meetup Silicon Valley, Dec 12, 2019 | https://www.altoros.com/blog/automating-event-based-continuous-delivery-on-kubernetes-with-keptn/ (embedded at the bottom of the page) |
 
 ## Videos
