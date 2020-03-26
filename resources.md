@@ -22,6 +22,8 @@
 | [Keptn 0.6.0 - my top 5 favorite improvements](https://medium.com/keptn/keptn-0-6-0-my-top-5-favorite-improvements-242d8ac1abfe?source=collection_home---6------1-----------------------)                                               | Jürgen   | 0.6.0 |
 | [Automating Deployment validation with Quality Gates](https://medium.com/keptn/automating-deployment-validation-with-quality-gates-71889845e2ca?source=collection_home---6------2-----------------------)                                       | Jürgen    | 0.6.0 |
 | [Automating Event-Based Continuous Delivery on Kubernetes with Keptn](https://www.altoros.com/blog/automating-event-based-continuous-delivery-on-kubernetes-with-keptn/)                       | EXTERNAL |  0.6.0           |
+| [Securing your Kubernetes services with TLS certificates issues by Let’s Encrypt: How to setup Istio + Cert-Manager](https://medium.com/keptn/securing-your-kubernetes-services-with-tls-certificates-issues-by-lets-encrypt-how-to-setup-5097954842de?source=friends_link&sk=37f009eb72b2f347439a2f4b8dbd98d0) | Jürgen | 0.6.1 |
+
 
 ## Conference & meetup recordings
 
