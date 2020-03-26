@@ -35,9 +35,9 @@ Please check [The Time Zone Converter](https://www.thetimezoneconverter.com/?t=0
 | Date  | Edition | Topic / Guest | 
 |---|---|---|
 | March 26 | Developer Meeting | How to write your own Keptn service + bring your questions |
-| April 2  | Community Meeting | Keptn Quality Gate in GitLabs and Bitbucket / Christian from ERT |
+| April 2  | Community Meeting | Keptn Quality Gate in GitLabs / Christian from ERT |
 | April 9  | Developer Meeting | Bring your own questions |
-| April 16 | Community Meeting | Integrate Keptn into your Atlassion DevOps Toolsuite |
+| April 16 | Community Meeting | Integrate Keptn into your Atlassian DevOps Toolsuite |
 | April 23 | Developer Meeting | Bring your own questions| 
 
 Join us via Zoom: https://dynatrace.zoom.us/j/451021860 
