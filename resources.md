@@ -36,4 +36,7 @@
 ## Videos
 
 - Find all video content on our official [Keptn YouTube channel](https://www.youtube.com/channel/UCHMn9HyAMeb81bRlaOuZyuQ)
+  - [Keptn Tutorials](https://www.youtube.com/playlist?list=PL6i801Rjt9Da8CC0iQVSYf3OJVwglRfJl) 
+  - [Keptn Community Meetings](https://www.youtube.com/playlist?list=PL6i801Rjt9DZLOPyNbHTDQur_QmMx98ak)
+  - [Keptn Developer Meetings](https://www.youtube.com/playlist?list=PL6i801Rjt9DakR1wOVkSY-uSH2kMpBFKX)
 
