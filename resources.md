@@ -23,14 +23,21 @@
 | [Keptn 0.6.0 - my top 5 favorite improvemens](https://medium.com/keptn/keptn-0-6-0-my-top-5-favorite-improvements-242d8ac1abfe?source=collection_home---6------1----------------------- ) | Jürgen | 0.6.0 |
 | [Automating Deployment validation with Quality Gates](https://medium.com/keptn/automating-deployment-validation-with-quality-gates-71889845e2ca?source=collection_home---6------2-----------------------) | Jürgen | 0.6.0 |
 | [Automating Event-Based Continuous Delivery on Kubernetes with Keptn](https://www.altoros.com/blog/automating-event-based-continuous-delivery-on-kubernetes-with-keptn/)| EXTERNAL | 0.6.0 |
+| [Securing your Kubernetes services with TLS certificates issues by Let’s Encrypt: How to setup Istio + Cert-Manager](https://medium.com/keptn/securing-your-kubernetes-services-with-tls-certificates-issues-by-lets-encrypt-how-to-setup-5097954842de?source=friends_link&sk=37f009eb72b2f347439a2f4b8dbd98d0) | Jürgen | 0.6.1 |
+| [Scaling Continuous Delivery and Runbook Automation via Tool Interoperability Interfaces](https://medium.com/keptn/scaling-continuous-delivery-and-runbook-automation-via-tool-interoperability-interfaces-5ded97eceb3b?source=friends_link&sk=7d3da49609717585b4aeabe6ba114667) | Andreas | generic
+| [Reduce risk with Feature Toggle service and Keptn](https://www.unleash-hosted.com/articles/reduce-risk-with-feature-toggles-and-keptn) | EXTERNAL | 0.6.0 |
 
 ## Conference & meetup recordings
 
 | Event | Recording |
 | ---   | --- |
+| Cloud Native London Meetup, July 2019 | https://skillsmatter.com/skillscasts/14095-continuous-deployment-and-operations-on-kubernetes-with-keptn |
 | Cloud Native Meetup Silicon Valley, Dec 12, 2019 | https://www.altoros.com/blog/automating-event-based-continuous-delivery-on-kubernetes-with-keptn/ (embedded at the bottom of the page) |
 
 ## Videos
 
 - Find all video content on our official [Keptn YouTube channel](https://www.youtube.com/channel/UCHMn9HyAMeb81bRlaOuZyuQ)
+  - [Keptn Tutorials](https://www.youtube.com/playlist?list=PL6i801Rjt9Da8CC0iQVSYf3OJVwglRfJl) 
+  - [Keptn Community Meetings](https://www.youtube.com/playlist?list=PL6i801Rjt9DZLOPyNbHTDQur_QmMx98ak)
+  - [Keptn Developer Meetings](https://www.youtube.com/playlist?list=PL6i801Rjt9DakR1wOVkSY-uSH2kMpBFKX)
 
