@@ -34,7 +34,6 @@ Please check [The Time Zone Converter](https://www.thetimezoneconverter.com/?t=0
 
 | Date  | Edition | Topic / Guest | 
 |---|---|---|
-| April 2  | Community Meeting | Keptn Quality Gate in GitLab / Christian from ERT |
 | April 9  | Developer Meeting | Bring your own questions |
 | April 16 | Community Meeting | Integrate Keptn into your Atlassian DevOps Toolsuite |
 | April 23 | Developer Meeting | Bring your own questions| 
@@ -45,6 +44,7 @@ Join us via Zoom: https://dynatrace.zoom.us/j/451021860
 
 | Date  | Edition | Topic / Guest | 
 |---|---|---|
+| April 2  | Community Meeting | [Keptn Quality Gate in GitLab / Christian from ERT](https://www.youtube.com/watch?v=0JAGg6oC4UA) |
 | March 26 | Developer Meeting | [How to write your own Keptn service](https://www.youtube.com/watch?v=rac87wyTj6I&list=PL6i801Rjt9DakR1wOVkSY-uSH2kMpBFKX&index=2&t=0s) ([slides](https://docs.google.com/presentation/d/1bRBHBKqojQ-mtn_LaBLXarxmhRzOmuG4C7W3g-XtWSE/edit?usp=sharing) / [template repo](https://github.com/keptn-sandbox/keptn-service-template-go) / [example repo](https://github.com/christian-kreuzberger-dtx/wget-test-service)) |
 | March 19 | Community Meeting | [Neoload SLI Provider / Henrik Rexed](https://www.youtube.com/watch?v=_s2EcAq1RSE) |
 | March 5 | Community Meeting | [Keptn Slackbot / Zohaib Ul Hassan](https://www.youtube.com/watch?v=4pOUbKRzgWg)
