@@ -14,7 +14,7 @@
 | [On-boarding your custom application to Keptn on AKS — Part 1 of 2](https://medium.com/@robjahn/on-boarding-your-custom-application-to-keptn-on-gke-part-1-of-2-e18817205e4a)   | Rob      |  ??   |
 | [On-boarding your custom application to Keptn on GKE— Part 1 of 2](https://medium.com/@robjahn/on-boarding-your-custom-application-to-keptn-on-aks-part-1-of-2-fc15bb7d2a95)  | Rob      |  ??  |
 | [On-boarding your custom application to Keptn— Part 2 of 2](https://medium.com/@robjahn/on-boarding-your-custom-application-to-keptn-part-2-of-2-56c6ec0bdcd5) | Rob   |  ??    |
-| [How to build your first keptn service](https://www.dynatrace.com/news/blog/easy-automated-concourse-deployment-validation-with-dynatrace-and-pitometer/)| Mike  | ??    |
+| [Easy automated Concourse deployment validation with Dynatrace and Pitometer](https://www.dynatrace.com/news/blog/easy-automated-concourse-deployment-validation-with-dynatrace-and-pitometer/)| Mike  | 0.3.x (Pitormeter got replaced)    |
 | [Keptn now talks MS Teams: How we expand Keptn's footprint in the Microsoft world](https://medium.com/keptn/keptn-now-talks-ms-teams-how-we-expand-keptns-footprint-in-the-microsoft-world-c330c0c8d4f1?source=collection_home---6------0-----------------------) | Rob      | 0.6.x  |
 | [Continuous Delivery without pipelines - How it works and why you need it](https://medium.com/keptn/continuous-delivery-without-pipelines-7e84db8c8261) | Andreas  | generic |
 | [July 2019 Cloud Native London Meetup](https://www.oicheryl.com/2019/07/03/cloud-native-london-july-2019-Suade-Labs-SUSE-and-Dynatrace/) | EXTERNAL | all Keptns |
