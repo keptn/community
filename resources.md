@@ -8,6 +8,7 @@
 | [SLO Validation as a Self-Service with Keptn](https://www.neotys.com/blog/neotyspac-slo-validation-self-service-keptn-quality-gates/) | Andi | 0.6.x |
 | [Automated Deployment and Architectural Validation with Pitometer and keptn!](https://www.dynatrace.com/news/blog/automated-deployment-and-architectural-validation-with-pitometer-and-keptn/) | Andi    |  0.5.x (Pitometer got replaced) |
 | [Adding automated performance quality gates using Keptn Pitometer](https://cloudblogs.microsoft.com/opensource/2019/04/25/adding-automated-performance-quality-gates-using-keptn-pitometer/)   | Rob | 0.5.x (Pitometer got replaced) |
+| [Pitometer - Open source autonomous quality gates](https://agardner.net/pitometer-open-source-autonomous-quality-gates/) | Adam Gardner | 0.3.x (Pitometer got replaced) |
 | [Five steps to add automated performance quality gates to Azure DevOps pipelines](https://cloudblogs.microsoft.com/opensource/2019/06/11/five-steps-add-automated-performance-quality-gates-azure-devops-pipelines/) | Rob     |  ??? |
 | [Complexity in enterprise hybrid-cloud deployments: it’s not the platforms, it’s the apps!](https://medium.com/@peter.hack/complexity-in-enterprise-hybrid-cloud-deployments-its-not-the-platforms-it-s-the-apps-fac270e66464) | Pete     |  generic    |
 | [Troubleshooting Knative Prometheus with Dynatrace](https://www.dynatrace.com/news/blog/troubleshooting-knative-prometheus-gc-issues-with-dynatrace/)   | Andi     |  generic  |
