@@ -28,6 +28,7 @@
 | [Scaling Continuous Delivery and Runbook Automation via Tool Interoperability Interfaces](https://medium.com/keptn/scaling-continuous-delivery-and-runbook-automation-via-tool-interoperability-interfaces-5ded97eceb3b?source=friends_link&sk=7d3da49609717585b4aeabe6ba114667) | Andreas | generic
 | [Reduce risk with Feature Toggle service and Keptn](https://www.unleash-hosted.com/articles/reduce-risk-with-feature-toggles-and-keptn) | EXTERNAL | 0.6.0 |
 | [Implementing SLI/SLO based Continuous Delivery Quality Gates using Prometheus](https://medium.com/keptn/implementing-sli-slo-based-continuous-delivery-quality-gates-using-prometheus-9e17ec18ca36?source=friends_link&sk=22e163eb22df2d4a3c8e49d5e06d3802) | Jürgen | 0.6.x / generic |
+| [Using AI and automation to build resiliency into Bitbucket pipelines](https://community.atlassian.com/t5/Marketplace-Apps-Integrations/Using-AI-and-automation-to-build-resiliency-into-Bitbucket/ba-p/1343165) | Rob | 0.6.x | 
 
 ## Conference & meetup recordings
 
