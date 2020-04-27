@@ -34,7 +34,6 @@ Please check [The Time Zone Converter](https://www.thetimezoneconverter.com/?t=0
 
 | Date  | Edition | Topic / Guest | 
 |---|---|---|
-| April 23 | Developer Meeting | Bring your own questions| 
 | April 30 | Community Meeting | Integrate Jenkins + Keptn | 
 | May 7    | Developer Meeting | Bring your own questions| 
 | May 14   | Community Meeting | Azure DevOps integration with Keptn | 
@@ -46,6 +45,7 @@ Join us via Zoom: https://dynatrace.zoom.us/j/451021860
 
 | Date  | Edition | Topic / Guest | 
 |---|---|---|
+| April 23 | Developer Meeting | [Keptn-in-a-box](https://www.youtube.com/watch?v=A9ZYdih0anE) [(github repo)](https://github.com/keptn-sandbox/keptn-in-a-box) | 
 | April 16 | Community Meeting | [Integrate Keptn into your Atlassian DevOps Toolsuite](https://www.youtube.com/watch?v=wx9roK4AnCo&list=PL6i801Rjt9DZLOPyNbHTDQur_QmMx98ak&index=1) | 
 | April 9  | Developer Meeting | [Keptn Roadmap 0.7](https://www.youtube.com/watch?v=i796F6FMc9U) / [Keptn Report Utility](https://www.youtube.com/watch?v=-EttWHMq9X0) |
 | April 2  | Community Meeting | [Keptn Quality Gate in GitLab / Christian from ERT](https://www.youtube.com/watch?v=0JAGg6oC4UA) |
