@@ -15,44 +15,23 @@ For more information about the project, please visit [keptn.sh](https://keptn.sh
       alt="follow on Twitter"></a>
 - Participate in our community meetings
 
-## Community & Developer Meetings
+## Community Meetings
 <!--
 First meeting on Monday, March 4, 2019, via [Zoom](https://dynatrace.zoom.us/j/451021860). From then on, this meeting was held on every other Monday until February 2020.
 -->
 
-We are hosting Keptn community meetings as well as developer meetings to get updates on the latest development of Keptn as well as to give a place for all Keptn developers to gather and exchange their knowledge.
+We are hosting Keptn community meetings to discuss roadmap updates, recent issues and plan ahead by distributing issues to Keptn developers. You are welcome to join and contribute to Keptn or just discuss with the Keptn team and exchange your knowledge!
 
-Meetings will happen generally on a Thursday during these times:
+Meetings will happen on Thursdays during these times:
 - 5 PM CET Central European Time (CET) - this is the master time
-- 8 AM US Pacific Standard Time (UTC−08:00)
+- 8 AM US Pacific Standard Time (UTC−08:00) 
 - 11 AM US Eastern Standard Time (UTC-05:00)
 
 Please check [The Time Zone Converter](https://www.thetimezoneconverter.com/?t=05:00pm&tz=Vienna) to see what time this translates for the timezone you reside in. 
-**Note**: The actual time for your timezone might change depending on local regulations (e.g., Daylight Saving Time), please check our public calendar below with up-to-date times.
+**Note**: The actual time for your timezone might change depending on local regulations (e.g., Daylight Saving Time), please check our [public calendar](https://calendar.google.com/calendar/embed?src=dynatrace.com_abjrh1ukf18ih477tb1ekag2ag%40group.calendar.google.com) with up-to-date times.
 
-### Next meetings
-
-| Date  | Edition | Topic / Guest | 
-|---|---|---|
-| April 30 | Community Meeting | Integrate Jenkins + Keptn | 
-| May 7    | Developer Meeting | Bring your own questions| 
-| May 14   | Community Meeting | Azure DevOps integration with Keptn | 
-
-
-Join us via Zoom: https://dynatrace.zoom.us/j/451021860 
-
-#### Previous meetings with YouTube links
-
-| Date  | Edition | Topic / Guest | 
-|---|---|---|
-| April 23 | Developer Meeting | [Keptn-in-a-box](https://www.youtube.com/watch?v=A9ZYdih0anE) [(github repo)](https://github.com/keptn-sandbox/keptn-in-a-box) | 
-| April 16 | Community Meeting | [Integrate Keptn into your Atlassian DevOps Toolsuite](https://www.youtube.com/watch?v=wx9roK4AnCo&list=PL6i801Rjt9DZLOPyNbHTDQur_QmMx98ak&index=1) | 
-| April 9  | Developer Meeting | [Keptn Roadmap 0.7](https://www.youtube.com/watch?v=i796F6FMc9U) / [Keptn Report Utility](https://www.youtube.com/watch?v=-EttWHMq9X0) |
-| April 2  | Community Meeting | [Keptn Quality Gate in GitLab / Christian from ERT](https://www.youtube.com/watch?v=0JAGg6oC4UA) |
-| March 26 | Developer Meeting | [How to write your own Keptn service](https://www.youtube.com/watch?v=rac87wyTj6I&list=PL6i801Rjt9DakR1wOVkSY-uSH2kMpBFKX&index=2&t=0s) ([slides](https://docs.google.com/presentation/d/1bRBHBKqojQ-mtn_LaBLXarxmhRzOmuG4C7W3g-XtWSE/edit?usp=sharing) / [template repo](https://github.com/keptn-sandbox/keptn-service-template-go) / [example repo](https://github.com/christian-kreuzberger-dtx/wget-test-service)) |
-| March 19 | Community Meeting | [Neoload SLI Provider / Henrik Rexed](https://www.youtube.com/watch?v=_s2EcAq1RSE) |
-| March 5 | Community Meeting | [Keptn Slackbot / Zohaib Ul Hassan](https://www.youtube.com/watch?v=4pOUbKRzgWg)
-| February 17  | Community Meeting | [Risk free feature toggling with Keptn and Unleash / Ivar Osthus](https://www.youtube.com/watch?v=bDLxzzPgjJI) |
+- Join us via Zoom: https://dynatrace.zoom.us/j/451021860 
+- Get the [meeting notes](https://tinyurl.com/keptn-meeting-notes)
 
 
 ### Meeting Calendar
@@ -66,6 +45,17 @@ Join us via Zoom: https://dynatrace.zoom.us/j/451021860
 - 📺 [Community Meeting Recordings (Google Drive)](https://drive.google.com/drive/folders/1nYaPPf7vygf_JInEA9q3YR90JUTWLCFl)
 - 📹 [YouTube playlist with Community Meetings](https://www.youtube.com/playlist?list=PL6i801Rjt9DZLOPyNbHTDQur_QmMx98ak)
 - 📹 [YouTube channel with Explanations, Tutorials, and Community Meetings](https://www.youtube.com/channel/UCHMn9HyAMeb81bRlaOuZyuQ/featured)
+
+## Educational content / webinars
+
+- [Keptn-in-a-box](https://www.youtube.com/watch?v=A9ZYdih0anE) [(github repo)](https://github.com/keptn-sandbox/keptn-in-a-box) 
+- [Integrate Keptn into your Atlassian DevOps Toolsuite](https://www.youtube.com/watch?v=wx9roK4AnCo&list=PL6i801Rjt9DZLOPyNbHTDQur_QmMx98ak&index=1) 
+- [Keptn Roadmap 0.7](https://www.youtube.com/watch?v=i796F6FMc9U) / [Keptn Report Utility](https://www.youtube.com/watch?v=-EttWHMq9X0)
+- [Keptn Quality Gate in GitLab / Christian from ERT](https://www.youtube.com/watch?v=0JAGg6oC4UA) 
+- [How to write your own Keptn service](https://www.youtube.com/watch?v=rac87wyTj6I&list=PL6i801Rjt9DakR1wOVkSY-uSH2kMpBFKX&index=2&t=0s) ([slides](https://docs.google.com/presentation/d/1bRBHBKqojQ-mtn_LaBLXarxmhRzOmuG4C7W3g-XtWSE/edit?usp=sharing) / [template repo](https://github.com/keptn-sandbox/keptn-service-template-go) / [example repo](https://github.com/christian-kreuzberger-dtx/wget-test-service)) 
+- [Neoload SLI Provider / Henrik Rexed](https://www.youtube.com/watch?v=_s2EcAq1RSE) 
+- [Keptn Slackbot / Zohaib Ul Hassan](https://www.youtube.com/watch?v=4pOUbKRzgWg)
+- [Risk free feature toggling with Keptn and Unleash / Ivar Osthus](https://www.youtube.com/watch?v=bDLxzzPgjJI) 
 
 ## Resources 
 
