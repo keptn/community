@@ -45,6 +45,17 @@ Join us via Zoom: https://dynatrace.zoom.us/j/451021860
 - 📹 [YouTube playlist with Community Meetings](https://www.youtube.com/playlist?list=PL6i801Rjt9DZLOPyNbHTDQur_QmMx98ak)
 - 📹 [YouTube channel with Explanations, Tutorials, and Community Meetings](https://www.youtube.com/channel/UCHMn9HyAMeb81bRlaOuZyuQ/featured)
 
+## Educational content / webinars
+
+- [Keptn-in-a-box](https://www.youtube.com/watch?v=A9ZYdih0anE) [(github repo)](https://github.com/keptn-sandbox/keptn-in-a-box) 
+- [Integrate Keptn into your Atlassian DevOps Toolsuite](https://www.youtube.com/watch?v=wx9roK4AnCo&list=PL6i801Rjt9DZLOPyNbHTDQur_QmMx98ak&index=1) 
+- [Keptn Roadmap 0.7](https://www.youtube.com/watch?v=i796F6FMc9U) / [Keptn Report Utility](https://www.youtube.com/watch?v=-EttWHMq9X0)
+- [Keptn Quality Gate in GitLab / Christian from ERT](https://www.youtube.com/watch?v=0JAGg6oC4UA) 
+- [How to write your own Keptn service](https://www.youtube.com/watch?v=rac87wyTj6I&list=PL6i801Rjt9DakR1wOVkSY-uSH2kMpBFKX&index=2&t=0s) ([slides](https://docs.google.com/presentation/d/1bRBHBKqojQ-mtn_LaBLXarxmhRzOmuG4C7W3g-XtWSE/edit?usp=sharing) / [template repo](https://github.com/keptn-sandbox/keptn-service-template-go) / [example repo](https://github.com/christian-kreuzberger-dtx/wget-test-service)) 
+- [Neoload SLI Provider / Henrik Rexed](https://www.youtube.com/watch?v=_s2EcAq1RSE) 
+- [Keptn Slackbot / Zohaib Ul Hassan](https://www.youtube.com/watch?v=4pOUbKRzgWg)
+- [Risk free feature toggling with Keptn and Unleash / Ivar Osthus](https://www.youtube.com/watch?v=bDLxzzPgjJI) 
+
 ## Resources 
 
 - Find [more Keptn resources here](./resources.md).
