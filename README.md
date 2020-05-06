@@ -30,7 +30,8 @@ Meetings will happen on Thursdays during these times:
 Please check [The Time Zone Converter](https://www.thetimezoneconverter.com/?t=05:00pm&tz=Vienna) to see what time this translates for the timezone you reside in. 
 **Note**: The actual time for your timezone might change depending on local regulations (e.g., Daylight Saving Time), please check our [public calendar](https://calendar.google.com/calendar/embed?src=dynatrace.com_abjrh1ukf18ih477tb1ekag2ag%40group.calendar.google.com) with up-to-date times.
 
-Join us via Zoom: https://dynatrace.zoom.us/j/451021860 
+- Join us via Zoom: https://dynatrace.zoom.us/j/451021860 
+- Get the [meeting notes](https://tinyurl.com/keptn-meeting-notes)
 
 
 ### Meeting Calendar
