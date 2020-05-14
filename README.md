@@ -22,7 +22,7 @@ First meeting on Monday, March 4, 2019, via [Zoom](https://dynatrace.zoom.us/j/4
 
 We are hosting Keptn community meetings to discuss roadmap updates, recent issues and plan ahead by distributing issues to Keptn developers. You are welcome to join and contribute to Keptn or just discuss with the Keptn team and exchange your knowledge!
 
-Meetings will happen on Thursdays during these times:
+Meetings will happen on Thursdays during these times (with very rare exceptions):
 - 5 PM CET Central European Time (CET) - this is the master time
 - 8 AM US Pacific Standard Time (UTC−08:00) 
 - 11 AM US Eastern Standard Time (UTC-05:00)
