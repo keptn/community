@@ -13,7 +13,7 @@ For more information about the project, please visit [keptn.sh](https://keptn.sh
 - Follow us on Twitter: <a href="https://twitter.com/intent/follow?screen_name=keptnProject">
   <img src="https://img.shields.io/twitter/follow/keptnProject.svg?style=social&logo=twitter"
       alt="follow on Twitter"></a>
-- Participate in our community meetings
+- Participate in our community meetings ([calendar](https://calendar.google.com/calendar/embed?src=dynatrace.com_abjrh1ukf18ih477tb1ekag2ag%40group.calendar.google.com) / [iCal](https://calendar.google.com/calendar/ical/dynatrace.com_abjrh1ukf18ih477tb1ekag2ag%40group.calendar.google.com/public/basic.ics))
 
 ## Community Meetings
 <!--
