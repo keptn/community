@@ -48,6 +48,8 @@ Please check [The Time Zone Converter](https://www.thetimezoneconverter.com/?t=0
 
 ## Educational content / webinars
 
+- [Autonomous Cloud at amasol with Keptn, GitLab, JMeter & Dynatrace on AKS](https://youtu.be/P5yxLWMboCg)
+- [Level-Up your Jenkins-based Delivery with Keptn](https://youtu.be/VYRdirdjOAg)
 - [Keptn-in-a-box](https://www.youtube.com/watch?v=A9ZYdih0anE) [(github repo)](https://github.com/keptn-sandbox/keptn-in-a-box) 
 - [Integrate Keptn into your Atlassian DevOps Toolsuite](https://www.youtube.com/watch?v=wx9roK4AnCo&list=PL6i801Rjt9DZLOPyNbHTDQur_QmMx98ak&index=1) 
 - [Keptn Roadmap 0.7](https://www.youtube.com/watch?v=i796F6FMc9U) / [Keptn Report Utility](https://www.youtube.com/watch?v=-EttWHMq9X0)
