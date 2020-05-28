@@ -40,7 +40,7 @@ Please check [The Time Zone Converter](https://www.thetimezoneconverter.com/?t=0
 - 🗓️ [Calendar in iCal format](https://calendar.google.com/calendar/ical/dynatrace.com_abjrh1ukf18ih477tb1ekag2ag%40group.calendar.google.com/public/basic.ics)
 
 ### Further information
-- 💻 [Zoom Meeting - no registration needed](https://dynatrace.zoom.us/j/451021860)
+- 💻 [Zoom Meeting - no registration needed](https://dynatrace.zoom.us/j/92249948381?pwd=dGFORVJXMk0vdEsrUjVlMEU3ZUdZUT09)
 - 📃 [Meeting Notes in Google Docs](https://tinyurl.com/keptn-meeting-notes) 
 - 📺 [Community Meeting Recordings (Google Drive)](https://drive.google.com/drive/folders/1nYaPPf7vygf_JInEA9q3YR90JUTWLCFl)
 - 📹 [YouTube playlist with Community Meetings](https://www.youtube.com/playlist?list=PL6i801Rjt9DZLOPyNbHTDQur_QmMx98ak)
