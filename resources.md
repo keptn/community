@@ -30,7 +30,8 @@
 | [Implementing SLI/SLO based Continuous Delivery Quality Gates using Prometheus](https://medium.com/keptn/implementing-sli-slo-based-continuous-delivery-quality-gates-using-prometheus-9e17ec18ca36?source=friends_link&sk=22e163eb22df2d4a3c8e49d5e06d3802) | Jürgen | 0.6.x / generic |
 | [Using AI and automation to build resiliency into Bitbucket pipelines](https://community.atlassian.com/t5/Marketplace-Apps-Integrations/Using-AI-and-automation-to-build-resiliency-into-Bitbucket/ba-p/1343165) | Rob | 0.6.x | 
 | [Advanced production support with Keptn 0.7](https://medium.com/keptn/advanced-production-support-with-keptn-0-7-d24f9cac8805?source=friends_link&sk=34e91da71f19eb783c2634717b9cf91d) | Johannes | 0.7.0 |
-| [Overcoming scalability issues in your Prometheus ecosystem](https://medium.com/keptn/overcoming-scalability-issues-in-your-prometheus-ecosystem-4430cea6472f?source=friends_link&sk=edf9a96ff81721c290e005fc7b4b9bfb) | Jürgen | generic | 
+| [Micro operations — A new operations model for the micro services age](https://medium.com/@alois.reitbauer_97826/micro-operations-a-new-operations-model-for-the-micro-services-age-e29cd1bbd0cd) | Alois | generic |
+| ([Overcoming scalability issues in your Prometheus ecosystem](https://medium.com/keptn/overcoming-scalability-issues-in-your-prometheus-ecosystem-4430cea6472f?source=friends_link&sk=edf9a96ff81721c290e005fc7b4b9bfb) | Jürgen | generic | 
 | [ERT Helps Medical Researchers Accelerate Clinical Trials with AI-Assistance from Dynatrace](https://www.oaoa.com/news/business/article_bb7a6c86-e06c-535d-bf22-52c5110a1daf.html) | EXTERNAL | generic |
 
 ## Conference & meetup recordings
