@@ -16,7 +16,7 @@ First and foremost, be active in the Keptn community! We encourage you being par
 
 ### Get nominated by the Keptn community
 
-If you get nominated by someone from the Keptn community and a name is brought forward to the community leads, they will evaluate based on the metioned dimensions and eventually reward a member of the Keptn community each quarter for his outstanding contributions!
+If you get nominated by someone from the Keptn community and a name is brought forward to the [community leads](https://github.com/keptn/community/blob/master/CODEOWNERS) (you will also find them in [Slack](https://slack.keptn.sh)), they will evaluate based on the mentioned dimensions and eventually reward a member of the Keptn community each quarter for his outstanding contributions!
 
 ## 🚀 Community rockstars so far
 
