@@ -6,16 +6,25 @@ This is the starting point for joining and contributing to the Keptn community -
 
 For more information about the project, please visit [keptn.sh](https://keptn.sh) and the [keptn/keptn](https://github.com/keptn/keptn) GitHub repo.
 
-## Communication
+## Content
+
+1. [Communication](#📟-communication) - how to interact with the Keptn community
+1. [Community Meetings](#🗓️-community-meetings) - join us in our weekly public meetings
+1. [Community Rockstar](#🚀-community-rockstar) - become a distinguished member of our community
+1. [Educational resources](#👩🏻‍🏫-educational-content-and-webinars) - educate yourself with webinars and more
+1. [Press material](#📖-press) - logos, public slide decks, and more for you to use
+
+
+## 📟 Communication
 
 - Send an email: keptn@dynatrace.com
-- Join us on Slack: [keptn.slack.com](https://join.slack.com/t/keptn/shared_invite/enQtNTUxMTQ1MzgzMzUxLWMzNmM1NDc4MmE0MmQ0MDgwYzMzMDc4NjM5ODk0ZmFjNTE2YzlkMGE4NGU5MWUxODY1NTBjNjNmNmI1NWQ1NGY)
+- Join us on Slack: [slack.keptn.sh](https://slack.keptn.sh)
 - Follow us on Twitter: <a href="https://twitter.com/intent/follow?screen_name=keptnProject">
   <img src="https://img.shields.io/twitter/follow/keptnProject.svg?style=social&logo=twitter"
       alt="follow on Twitter"></a>
 - Participate in our community meetings ([calendar](https://calendar.google.com/calendar/embed?src=dynatrace.com_abjrh1ukf18ih477tb1ekag2ag%40group.calendar.google.com) / [iCal](https://calendar.google.com/calendar/ical/dynatrace.com_abjrh1ukf18ih477tb1ekag2ag%40group.calendar.google.com/public/basic.ics))
 
-## Community Meetings
+## 🗓️ Community Meetings 
 <!--
 First meeting on Monday, March 4, 2019, via [Zoom](https://dynatrace.zoom.us/j/451021860). From then on, this meeting was held on every other Monday until February 2020.
 -->
@@ -46,8 +55,14 @@ Please check [The Time Zone Converter](https://www.thetimezoneconverter.com/?t=0
 - 📹 [YouTube playlist with Community Meetings](https://www.youtube.com/playlist?list=PL6i801Rjt9DZLOPyNbHTDQur_QmMx98ak)
 - 📹 [YouTube channel with Explanations, Tutorials, and Community Meetings](https://www.youtube.com/channel/UCHMn9HyAMeb81bRlaOuZyuQ/featured)
 
-## Educational content / webinars
+## 🚀 Community Rockstar
 
+The Keptn community is awarding outstanding members of its community as community rockstars! 
+Find [more information here](./community-rockstar.md).
+
+## 👩🏻‍🏫 Educational content and webinars 
+
+- [Keptn Control Plane on K3s](https://youtu.be/hx0NHj4u7ic) ([slides](https://docs.google.com/presentation/d/1eGT5MIa1R3RrMN3s_ZvVbOxM50bWbD3x/edit#slide=id.p1))
 - [Autonomous Cloud at amasol with Keptn, GitLab, JMeter & Dynatrace on AKS](https://youtu.be/P5yxLWMboCg)
 - [Level-Up your Jenkins-based Delivery with Keptn](https://youtu.be/VYRdirdjOAg)
 - [Keptn-in-a-box](https://www.youtube.com/watch?v=A9ZYdih0anE) [(github repo)](https://github.com/keptn-sandbox/keptn-in-a-box) 
@@ -59,6 +74,8 @@ Please check [The Time Zone Converter](https://www.thetimezoneconverter.com/?t=0
 - [Keptn Slackbot / Zohaib Ul Hassan](https://www.youtube.com/watch?v=4pOUbKRzgWg)
 - [Risk free feature toggling with Keptn and Unleash / Ivar Osthus](https://www.youtube.com/watch?v=bDLxzzPgjJI) 
 
-## Resources 
+Find a list of public talks and [more Keptn resources here](./resources.md).
 
-- Find [more Keptn resources here](./resources.md).
+## 📖 Press
+
+Please find [Keptn logos](./logos) here and [public slide decks](https://drive.google.com/drive/u/0/folders/1rOX1JQM0xM1ATNmCq1Ps4YrsKL7vmcI3) here.
