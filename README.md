@@ -9,7 +9,7 @@ For more information about the project, please visit [keptn.sh](https://keptn.sh
 ## 📋 Content
 
 1. [Communication](#-communication) - how to interact with the Keptn community
-1. [Community Meetings](#-community-meetings) - join us in our weekly public meetings
+1. [Community Meetings](#%EF%B8%8F-community-meetings) - join us in our weekly public meetings
 1. [Community Rockstar](#-community-rockstar) - become a distinguished member of our community
 1. [Educational resources](#-educational-content-and-webinars) - educate yourself with webinars and more
 1. [Press material](#-press) - logos, public slide decks, and more for you to use
