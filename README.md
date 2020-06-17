@@ -48,6 +48,7 @@ Please check [The Time Zone Converter](https://www.thetimezoneconverter.com/?t=0
 
 ## Educational content / webinars
 
+- [Keptn Control Plane on K3s](https://youtu.be/hx0NHj4u7ic) ([slides](https://docs.google.com/presentation/d/1eGT5MIa1R3RrMN3s_ZvVbOxM50bWbD3x/edit#slide=id.p1))
 - [Autonomous Cloud at amasol with Keptn, GitLab, JMeter & Dynatrace on AKS](https://youtu.be/P5yxLWMboCg)
 - [Level-Up your Jenkins-based Delivery with Keptn](https://youtu.be/VYRdirdjOAg)
 - [Keptn-in-a-box](https://www.youtube.com/watch?v=A9ZYdih0anE) [(github repo)](https://github.com/keptn-sandbox/keptn-in-a-box) 
