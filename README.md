@@ -1,12 +1,12 @@
-# Keptn Community
+# Keptn Community 
 
-Welcome to the Keptn community!
+👋 Welcome to the Keptn community! 
 
 This is the starting point for joining and contributing to the Keptn community - improving docs, improving code, discussing new features and use cases etc. For all collaboration and communication going on in all keptn projects, please read and follow this [Code of Conduct](./CODE_OF_CONDUCT.md).
 
 For more information about the project, please visit [keptn.sh](https://keptn.sh) and the [keptn/keptn](https://github.com/keptn/keptn) GitHub repo.
 
-## Content
+## 📋 Content
 
 1. [Communication](#📟-communication) - how to interact with the Keptn community
 1. [Community Meetings](#🗓️-community-meetings) - join us in our weekly public meetings
