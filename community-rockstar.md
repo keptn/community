@@ -22,5 +22,5 @@ If you get nominated by someone from the Keptn community and a name is brought f
 
 | Date | Name | 
 | ---  | ---  |
-| Q2 2020 | Christian Heckelmann for his contributions to the Keptn core as well as contributing external services, and speaking in public webinars |
+| 🏆 Q2 2020 | [@checkelmann](https://github.com/checkelmann) for his contributions to the Keptn core as well as contributing external services, and speaking in public webinars |
 
