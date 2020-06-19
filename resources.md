@@ -33,13 +33,15 @@
 | [Micro operations — A new operations model for the micro services age](https://medium.com/@alois.reitbauer_97826/micro-operations-a-new-operations-model-for-the-micro-services-age-e29cd1bbd0cd) | Alois | generic |
 | [Overcoming scalability issues in your Prometheus ecosystem](https://medium.com/keptn/overcoming-scalability-issues-in-your-prometheus-ecosystem-4430cea6472f?source=friends_link&sk=edf9a96ff81721c290e005fc7b4b9bfb) | Jürgen | generic | 
 | [ERT Helps Medical Researchers Accelerate Clinical Trials with AI-Assistance from Dynatrace](https://www.oaoa.com/news/business/article_bb7a6c86-e06c-535d-bf22-52c5110a1daf.html) | EXTERNAL | generic |
+| [Closed-loop Remediation with custom Integrations](https://medium.com/keptn/closed-loop-remediation-with-custom-integrations-43bde377b796?sk=e029f50a75f7d5e6be09571b1f1c6250) | Johannes | 0.7.0 | 
 
 ## Conference & meetup recordings
 
 | Event | Recording |
 | ---   | --- |
-| Cloud Native London Meetup, July 2019 | https://skillsmatter.com/skillscasts/14095-continuous-deployment-and-operations-on-kubernetes-with-keptn |
 | Cloud Native Meetup Silicon Valley, Dec 12, 2019 | https://www.altoros.com/blog/automating-event-based-continuous-delivery-on-kubernetes-with-keptn/ (embedded at the bottom of the page) |
+| Cloud Native London Meetup, July 2019 | https://skillsmatter.com/skillscasts/14095-continuous-deployment-and-operations-on-kubernetes-with-keptn |
+| Cloud Native Meetup Manchester, June 2020 | https://www.youtube.com/watch?v=5sEahc9dQkc |
 
 ## Videos
 
