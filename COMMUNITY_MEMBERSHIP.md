@@ -1,7 +1,7 @@
 # Keptn Community membership
 
-Last updated: 2020-02-11
-Disclaimer: This document boerrows heavily from the [Community Membership of OpenTelemetry](https://github.com/open-telemetry/community/blob/3f44aedd70334999b8a63586cf44f747776bddd3/community-membership.md).
+Last updated: 2020-06-24
+Disclaimer: This document borrows heavily from the [Community Membership of OpenTelemetry](https://github.com/open-telemetry/community/blob/3f44aedd70334999b8a63586cf44f747776bddd3/community-membership.md).
 
 This doc outlines the various responsibilities of contributor roles in Keptn. 
 The Keptn project consists of one main repository with the [core services of Keptn](https://github.com/keptn/keptn), 
@@ -10,13 +10,13 @@ for Keptn.
 Responsibilities for most roles are scoped to the main repository and/or these subprojects.
 
 The Keptn Governance Committee owns this document and process until
-delegated. They can be reached via e-mail **????@????** (TODO).
+delegated. They can be reached via e-mail keptnProject+committee@gmail.com.
 
 | **Role**   | **Responsibilities**                                  | **Requirements**                                             | **Defined by**                                               |
 | ---------- | ----------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| member     | active contributor in the community.  reviewer of PRs | sponsored by 2 approvers or maintainers. multiple contributions to the project. | Keptn GitHub org member.                             |
-| approver   | approve accepting contributions                       | highly experienced and active reviewer + contributor to a subproject | [CODEOWNERS](https://help.github.com/en/articles/about-code-owners) in GitHub |
-| maintainer | set direction and priorities for a subproject         | demonstrated responsibility and excellent technical judgement for the subproject | [CODEOWNERS](https://help.github.com/en/articles/about-code-owners), GitHub Team and repo ownership in GitHub |
+| member     | active contributor in the community.  reviewer of PRs | sponsored by 2 approvers or maintainers. multiple (infrequent) contributions to the project. | Keptn GitHub org member.                             |
+| approver   | approve accepting contributions                       | sponsored by 2 maintainers, highly experienced and active reviewer, frequent contributions | [CODEOWNERS](https://help.github.com/en/articles/about-code-owners) in GitHub |
+| maintainer | set direction and priorities for a subproject         | sponsored by 2 maintainers, demonstrated responsibility and excellent technical judgement for the whole project | [CODEOWNERS](https://help.github.com/en/articles/about-code-owners), GitHub Team and repo ownership in GitHub |
 
 ## New contributors
 
