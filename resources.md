@@ -39,8 +39,9 @@
 
 | Event | Recording |
 | ---   | --- |
-| Cloud Native Meetup Silicon Valley, Dec 12, 2019 | https://www.altoros.com/blog/automating-event-based-continuous-delivery-on-kubernetes-with-keptn/ (embedded at the bottom of the page) |
 | Cloud Native London Meetup, July 2019 | https://skillsmatter.com/skillscasts/14095-continuous-deployment-and-operations-on-kubernetes-with-keptn |
+| Cloud Native Meetup Silicon Valley, Dec 12, 2019 | https://www.altoros.com/blog/automating-event-based-continuous-delivery-on-kubernetes-with-keptn/ (embedded at the bottom of the page) |
+| Seattle SRE Meetup, April 2020 | https://www.youtube.com/watch?v=qJXeDHfJkIU |
 | Cloud Native Meetup Manchester, June 2020 | https://www.youtube.com/watch?v=5sEahc9dQkc |
 | ScaleUp 360° Continuous Delivery Europe, June 2020 | https://vimeo.com/429239811/ca5681199e | 
 
