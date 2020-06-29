@@ -52,3 +52,6 @@
   - [Keptn Community Meetings](https://www.youtube.com/playlist?list=PL6i801Rjt9DZLOPyNbHTDQur_QmMx98ak)
   - [Keptn Developer Meetings](https://www.youtube.com/playlist?list=PL6i801Rjt9DakR1wOVkSY-uSH2kMpBFKX)
 
+## Podcasts
+
+- [Event-Driven DevOps with Keptn: The End of the Monolithic Delivery Pipeline!](https://cdeliveryfdn.buzzsprout.com/1008697/4231295-event-driven-devops-with-keptn-the-end-of-the-monolithic-delivery-pipeline)
