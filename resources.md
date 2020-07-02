@@ -44,6 +44,8 @@
 | Seattle SRE Meetup, April 2020 | https://www.youtube.com/watch?v=qJXeDHfJkIU |
 | Cloud Native Meetup Manchester, June 2020 | https://www.youtube.com/watch?v=5sEahc9dQkc |
 | ScaleUp 360° Continuous Delivery Europe, June 2020 | https://vimeo.com/429239811/ca5681199e | 
+| Cloud Native PDX, June 2020 | https://www.youtube.com/watch?v=Fu-7U0GopSM | 
+| Cloud Native London, July 2020 | https://www.youtube.com/watch?v=YzsKp6Je8eY | 
 
 ## Videos
 
