@@ -1,6 +1,6 @@
 # Keptn Community membership
 
-Last updated: 2020-06-24
+Last updated: 2020-07-03
 Disclaimer: This document borrows heavily from the [Community Membership of OpenTelemetry](https://github.com/open-telemetry/community/blob/3f44aedd70334999b8a63586cf44f747776bddd3/community-membership.md).
 
 This doc outlines the various responsibilities of contributor roles in Keptn. 
@@ -17,6 +17,12 @@ delegated. They can be reached via e-mail keptnProject+committee@gmail.com.
 | member     | active contributor in the community.  reviewer of PRs | sponsored by 2 approvers or maintainers. multiple (infrequent) contributions to the project. | Keptn GitHub org member.                             |
 | approver   | approve accepting contributions                       | sponsored by 2 maintainers, highly experienced and active reviewer, frequent contributions | [CODEOWNERS](https://help.github.com/en/articles/about-code-owners) in GitHub |
 | maintainer | set direction and priorities for a subproject         | sponsored by 2 maintainers, demonstrated responsibility and excellent technical judgement for the whole project | [CODEOWNERS](https://help.github.com/en/articles/about-code-owners), GitHub Team and repo ownership in GitHub |
+
+In case you are already part of any of those groups/roles, the following links should provide more details (*Note*: links are not publicly accessible):
+
+* GitHub Keptn Org: https://github.com/orgs/keptn/people
+* GitHub Keptn Org "member" (contributor) Team: https://github.com/orgs/keptn/teams/contributors
+* GitHub Keptn Org "maintainer" Team:  https://github.com/orgs/keptn/teams/maintainers
 
 ## New contributors
 
