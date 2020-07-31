@@ -4,9 +4,7 @@ Last updated: 2020-07-03
 Disclaimer: This document borrows heavily from the [Community Membership of OpenTelemetry](https://github.com/open-telemetry/community/blob/3f44aedd70334999b8a63586cf44f747776bddd3/community-membership.md).
 
 This doc outlines the various responsibilities of contributor roles in Keptn. 
-The Keptn project consists of one main repository with the [core services of Keptn](https://github.com/keptn/keptn), 
-and is furthermore subdivided into subprojects that contain [integrations and contributions](https://github.com/keptn-contrib) 
-for Keptn. 
+The Keptn project consists of one main repository with the [core services of Keptn](https://github.com/keptn/keptn), and is furthermore subdivided into subprojects that contain [integrations and contributions](https://github.com/keptn-contrib) for Keptn. 
 Responsibilities for most roles are scoped to the main repository and/or these subprojects.
 
 The Keptn Governance Committee owns this document and process until
@@ -26,25 +24,17 @@ In case you are already part of any of those groups/roles, the following links s
 
 ## New contributors
 
-New contributors should be welcomed to the community by existing members, helped
-with PR workflow, and directed to relevant documentation and communication
-channels.
+New contributors should be welcomed to the community by existing members, helped with PR workflow, and directed to relevant documentation and communication channels.
 
 ## Established community members
 
-Established community members are expected to demonstrate their adherence to the
-principles in this document, familiarity with project organization, roles,
-policies, procedures, conventions, etc., and technical and/or writing ability.
-Role-specific expectations, responsibilities, and requirements are enumerated
-below.
+Established community members are expected to demonstrate their adherence to the principles in this document, familiarity with project organization, roles, policies, procedures, conventions, etc., and technical and/or writing ability. Role-specific expectations, responsibilities, and requirements are enumerated below.
 
 ## Member
 
-Members are continuously active contributors in the community. They can have
-issues and PRs assigned to them. Members are expected to participate in the main
-project as well as in subprojects, and remain active contributors to the community.  
+Members are continuously active contributors in the community. They can have issues and PRs assigned to them. Members are expected to participate in the main project as well as in subprojects, and remain active contributors to the community.  
 
-Defined by: Member of the Keptn GitHub organization (TODO)
+Defined by: [Member of the Keptn GitHub organization](https://github.com/orgs/keptn/people).
 
 ### Requirements
 
@@ -57,8 +47,8 @@ Defined by: Member of the Keptn GitHub organization (TODO)
   - Filing or commenting on issues on GitHub
   - Contributing to the main project, subprojects, or community discussions (e.g. meetings,
     chat, email, and discussion forums)
-- [Joined the Slack channel ](see https://github.com/keptn/community#communication)
-- Have read the [contributor
+- Joined the [Keptn Slack channel](https://slack.keptn.sh) (see https://github.com/keptn/community#communication)
+- Have read the [contributors
   guide](https://github.com/keptn/keptn/blob/master/CONTRIBUTING.md)
 - Actively contributing to 1 or more subprojects.
 - Sponsored by 2 approvers. Note the following requirements for sponsors:
@@ -96,32 +86,21 @@ Defined by: Member of the Keptn GitHub organization (TODO)
 - Members can be assigned to issues and PRs, and people can ask members for
   reviews with a `/cc @username`.
 
-Note: members who frequently contribute code are expected to proactively perform
-code reviews and work towards becoming an *approver* for the subproject that
-they are active in.  Acceptance of code contributions requires at least one
-approver in addition to the reviews by *members.*
+Note: members who frequently contribute code are expected to proactively perform code reviews and work towards becoming an *approver* for the subproject that they are active in.  Acceptance of code contributions requires at least one approver in addition to the reviews by *members.*
 
 ## Approver
 
-Code approvers are able to both review and approve code contributions, as well
-as help maintainers triage issues and do project management.
+Code approvers are able to both review and approve code contributions, as well as help maintainers triage issues and do project management.
 
-While code review is focused on code quality and correctness, approval is
-focused on holistic acceptance of a contribution including: backwards/forwards
-compatibility, adhering to API and flag conventions, subtle performance and
-correctness issues, interactions with other parts of the system, etc.
+While code review is focused on code quality and correctness, approval is focused on holistic acceptance of a contribution including: backwards/forwards compatibility, adhering to API and flag conventions, subtle performance and correctness issues, interactions with other parts of the system, etc.
 
-Defined by: [CODEOWNERS
-workflow](https://help.github.com/en/articles/about-code-owners).
+Defined by: [CODEOWNERS workflow](https://help.github.com/en/articles/about-code-owners).
 
-Approver status can be scoped to a part of the codebase. For example, critical
-core components may have higher bar of becoming an approver. Some approvers may
-only be doing issues triage and have no approval rights.
+Approver status can be scoped to a part of the codebase. For example, critical core components may have higher bar of becoming an approver. Some approvers may only be doing issues triage and have no approval rights.
 
 ### Requirements
 
-The following apply to the part of the codebase for which one would be an
-approver in the `CODEOWNERS` files.
+The following apply to the part of the codebase for which one would be an approver in the `CODEOWNERS` files.
 
 - Reviewer of the codebase for at least 1 month
 - Reviewer for or author of at least 10 substantial PRs to the codebase,
@@ -133,8 +112,7 @@ approver in the `CODEOWNERS` files.
 
 ### Responsibilities and privileges
 
-The following apply to the part of the codebase for which one would be an
-approver in the `CODEOWNERS` files.
+The following apply to the part of the codebase for which one would be an approver in the `CODEOWNERS` files.
 
 - Approver status may be a precondition to accepting large code contributions
 - Demonstrate sound technical judgement (may be asked to step down by a maintainer if they lose confidence of the maintainers)
@@ -147,40 +125,26 @@ approver in the `CODEOWNERS` files.
 
 ## Maintainer
 
-Note: This is a generalized high-level description of the role, and the
-specifics of the maintainer role's responsibilities and related processes *MUST*
-be defined for individual projects or subprojects.
+Maintainers are the technical authority for the main- or sub-project in the Keptn project. They *MUST* have demonstrated both good judgement and responsibility towards the health of that subproject. Maintainers *MUST* set technical direction and make or approve design decisions for their subproject - either directly or through delegation of these responsibilities.
 
-Maintainers are the technical authority for a subproject in the Keptn
-project. They *MUST* have demonstrated both good judgement and responsibility
-towards the health of that subproject. Maintainers *MUST* set technical
-direction and make or approve design decisions for their subproject - either
-directly or through delegation of these responsibilities.
-
-Defined by: GitHub organization ownership, permissions and entry in `CODEOWNERS`
-files.
+Defined by: GitHub organization ownership, permissions and entry in `CODEOWNERS` files.
 
 ### Requirements
 
 The process for becoming a Maintainer should be defined in the project or subproject. 
-Unlike the roles outlined above, the Owners of a subproject are typically limited to 
-a relatively small group of decision makers and updated as fits the needs of the 
-subproject.
+Unlike the roles outlined above, the Owners of a subproject are typically limited to a relatively small group of decision makers and updated as fits the needs of the subproject.
 
 The following apply to the subproject for which one would be an owner.
 
 - Deep understanding of the technical goals and direction of the subproject
-- Deep understanding of the technical domain (specifically the language) of the
-  subproject
+- Deep understanding of the technical domain (specifically the language) of the subproject
 - Sustained contributions to design and direction by doing all of:
   - Authoring and reviewing proposals
   - Initiating, contributing and resolving discussions (emails, GitHub issues,
     meetings)
   - Identifying subtle or complex issues in designs and implementation PRs
 - Directly contributed to the subproject through implementation and / or review
-- Aligning with the overall project goals, specifications and design principles
-  defined by Technical Committee (TC). Bringing general questions and requests
-  to the discussions as part of specifications project.
+- Aligning with the overall project goals, specifications and design principles defined by Technical Committee (TC). Bringing general questions and requests to the discussions as part of specifications project.
 
 ### Responsibilities and privileges
 
