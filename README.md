@@ -63,6 +63,7 @@ Find [more information here](./community-rockstar.md).
 
 ## 👩🏻‍🏫 Educational content and webinars 
 
+- [Overcoming scalability issues in your Prometheus ecosystem](https://www.youtube.com/watch?v=lZpknqQtoHI) (Nebulaworks webinar recording)
 - [Automating Quality Gates in Azure DevOps with Keptn](https://www.youtube.com/watch?v=vgCizWLVsPc)
 - [Keptn Control Plane on K3s](https://youtu.be/hx0NHj4u7ic) ([slides](https://docs.google.com/presentation/d/1eGT5MIa1R3RrMN3s_ZvVbOxM50bWbD3x/edit#slide=id.p1))
 - [Autonomous Cloud at amasol with Keptn, GitLab, JMeter & Dynatrace on AKS](https://youtu.be/P5yxLWMboCg)
