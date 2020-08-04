@@ -9,7 +9,7 @@ The Keptn project consists of one main repository with the [core services of Kep
 Responsibilities for most roles are scoped to the main repository and/or these subprojects.
 
 The Keptn Governance Committee owns this document and process until
-delegated. They can be reached via e-mail keptnProject+committee@gmail.com.
+delegated. They can be reached via e-mail at keptn@dynatrace.com.
 
 | **Role**   | **Responsibilities**                                  | **Requirements**                                             | **Defined by**                                               |
 | ---------- | ----------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
