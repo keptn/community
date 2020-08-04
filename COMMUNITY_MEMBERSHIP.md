@@ -13,15 +13,12 @@ delegated. They can be reached via e-mail keptnProject+committee@gmail.com.
 
 | **Role**   | **Responsibilities**                                  | **Requirements**                                             | **Defined by**                                               |
 | ---------- | ----------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Member     | Active contributor in the community and reviewer of PRs | Sponsored by 2 approvers or maintainers. Multiple (infrequent) contributions to the project. | Member of the Keptn GitHub organization (see: *)                           |
+| Member     | Active contributor in the community and reviewer of PRs | Sponsored by 2 approvers or maintainers. Multiple (infrequent) contributions to the project. | [Members of the Keptn GitHub organization](https://github.com/orgs/keptn/teams/maintainers)                           |
 | Approver   | Approve contributions                       | Sponsored by 2 maintainers. Highly experienced and active reviewer with frequent contributions. | [CODEOWNERS](https://help.github.com/en/articles/about-code-owners) in [Keptn](https://github.com/keptn/keptn) |
-| Maintainer | Set direction and priorities for a subproject         | Sponsored by 2 maintainers. Demonstrates responsibility and excellent technical judgment for the whole project. | [CODEOWNERS](https://help.github.com/en/articles/about-code-owners) in [Keptn](https://github.com/keptn/keptn), Maintainers of the Keptn GitHub organization (see: **) and repo ownership in GitHub |
+| Maintainer | Set direction and priorities for a subproject         | Sponsored by 2 maintainers. Demonstrates responsibility and excellent technical judgment for the whole project. | [CODEOWNERS](https://help.github.com/en/articles/about-code-owners) in [Keptn](https://github.com/keptn/keptn), [Maintainers of the Keptn GitHub organization](https://github.com/orgs/keptn/teams/maintainers) and repo ownership in GitHub |
 
-In case you are already part of any of those roles, the following links should provide more details (*Note*: links are not publicly accessible):
+*Note*: Links to Members and Maintainers of the Keptn GitHub organization lists are not publicly accessible.
 
-* People of the Keptn GitHub organization: https://github.com/orgs/keptn/people
-* *) Member of the Keptn GitHub organization: https://github.com/orgs/keptn/teams/contributors
-* **) Maintainers of the Keptn GitHub organization: https://github.com/orgs/keptn/teams/maintainers
 
 ## New contributors
 
