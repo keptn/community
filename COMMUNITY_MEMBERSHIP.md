@@ -17,7 +17,7 @@ delegated. They can be reached via e-mail keptnProject+committee@gmail.com.
 | Approver   | Approve contributions                       | Sponsored by 2 maintainers. Highly experienced and active reviewer with frequent contributions. | [Approvers of the Keptn GitHub organization](https://github.com/orgs/keptn/teams/approvers), and [CODEOWNERS](https://help.github.com/en/articles/about-code-owners) in [Keptn](https://github.com/keptn/keptn) |
 | Maintainer | Set direction and priorities for a subproject         | Sponsored by 2 maintainers. Demonstrates responsibility and excellent technical judgment for the whole project. | [Maintainers of the Keptn GitHub organization](https://github.com/orgs/keptn/teams/maintainers), [CODEOWNERS](https://help.github.com/en/articles/about-code-owners) in [Keptn](https://github.com/keptn/keptn), and ownership of the GitHub repository |
 
-*Note*: Links to Members and Maintainers of the Keptn GitHub organization lists are not publicly accessible.
+*Note*: Links to members-, approvers-, and maintainers groups are not publicly accessible.
 
 
 ## New contributors
@@ -85,7 +85,7 @@ Code approvers are able to both review and approve code contributions, as well a
 
 While code review is focused on code quality and correctness, approval is focused on holistic acceptance of a contribution including: backwards/forwards compatibility, adhering to API and flag conventions, subtle performance and correctness issues, interactions with other parts of the system, etc.
 
-*Defined by:* [CODEOWNERS](https://help.github.com/en/articles/about-code-owners) in [Keptn](https://github.com/keptn/keptn)
+*Defined by:*  [Approvers of the Keptn GitHub organization](https://github.com/orgs/keptn/teams/approvers), and [CODEOWNERS](https://help.github.com/en/articles/about-code-owners) in [Keptn](https://github.com/keptn/keptn)
 
 Approver status can be scoped to a part of the codebase. For example, critical core components may have higher bar of becoming an approver. Some approvers may only be doing issues triage and do not have approval rights.
 
