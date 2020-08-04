@@ -9,7 +9,7 @@ The Keptn project consists of:
   * one **main repository** with the [core services of Keptn](https://github.com/keptn/keptn)
   * **subprojects** that contain [integrations and contributions](https://github.com/keptn-contrib) for Keptn
 
-Responsibilities for the roles in this docuemtn are scoped to the *main repository* and *subprojects*.
+Responsibilities for the roles in this document are scoped to the *main repository* and *subprojects*.
 
 The Keptn Governance Committee owns this document and process until delegated. They can be reached via e-mail at keptn@dynatrace.com.
 
