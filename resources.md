@@ -47,7 +47,8 @@
 | Cloud Native PDX, June 2020 | https://www.youtube.com/watch?v=Fu-7U0GopSM | 
 | Cloud Native London, July 2020 | https://www.youtube.com/watch?v=YzsKp6Je8eY | 
 | Cloud Native Night Munich, July 2020 | https://www.youtube.com/watch?v=nXS2kCLqPzk [(mirror)](https://youtu.be/RbAp5YuPjZI) | 
-| Cloud Native Berlin, September 2020 | https://www.youtube.com/watch?v=3QQtP8PtO1s&feature=youtu.be )
+| Cloud Native Berlin, September 2020 | https://www.youtube.com/watch?v=3QQtP8PtO1s&feature=youtu.be |
+
 
 ## Videos
 
