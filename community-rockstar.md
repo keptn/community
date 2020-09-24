@@ -23,4 +23,5 @@ If you get nominated by someone from the Keptn community and a name is brought f
 | Date | Name | 
 | ---  | ---  |
 | 🏆 Q2 2020 | [@checkelmann](https://github.com/checkelmann) for his contributions to the Keptn core as well as contributing external services, and speaking in public webinars |
+| 🏆 Q3 2020 | [@heydenb](https://github.com/heydenb) for his contributions to the [Keptn ecosystem](https://github.com/keptn-sandbox/keptn-azure-devops-extension) (especially on integrating [Azure DevOps + Keptn](https://marketplace.visualstudio.com/items?itemName=RealdolmenDevOps.keptn-integration)), and speaking in public webinars |
 
