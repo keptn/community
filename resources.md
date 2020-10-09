@@ -34,6 +34,7 @@
 | [Overcoming scalability issues in your Prometheus ecosystem](https://medium.com/keptn/overcoming-scalability-issues-in-your-prometheus-ecosystem-4430cea6472f?source=friends_link&sk=edf9a96ff81721c290e005fc7b4b9bfb) | Jürgen | generic | 
 | [ERT Helps Medical Researchers Accelerate Clinical Trials with AI-Assistance from Dynatrace](https://www.oaoa.com/news/business/article_bb7a6c86-e06c-535d-bf22-52c5110a1daf.html) | EXTERNAL | generic |
 | [Closed-loop Remediation with custom Integrations](https://medium.com/keptn/closed-loop-remediation-with-custom-integrations-43bde377b796?sk=e029f50a75f7d5e6be09571b1f1c6250) | Johannes | 0.7.0 | 
+| [Multi-stage continuous delivery with Keptn on Civo - Levelling up your CD!](https://www.civo.com/blog/civo-community-meetup-3) | EXTERNAL | 0.7.x | 
 
 ## Conference & meetup recordings
 
