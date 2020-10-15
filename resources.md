@@ -49,6 +49,7 @@
 | Cloud Native London, July 2020 | https://www.youtube.com/watch?v=YzsKp6Je8eY | 
 | Cloud Native Night Munich, July 2020 | https://www.youtube.com/watch?v=nXS2kCLqPzk [(mirror)](https://youtu.be/RbAp5YuPjZI) | 
 | Cloud Native Berlin, September 2020 | https://www.youtube.com/watch?v=3QQtP8PtO1s&feature=youtu.be |
+| DevOps Stage, October 2020 | [YouTube playlist](https://www.youtube.com/playlist?list=PL2DFnm8LBPXrCYIr4IXr3BrMDuqJ83GJo&utm_source=eSputnik-promo&utm_medium=email&utm_campaign=%F0%9F%91%80Records_DevOps_Stage_conference&utm_content=913910151) | 
 
 
 ## Videos
