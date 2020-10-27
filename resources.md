@@ -35,6 +35,7 @@
 | [ERT Helps Medical Researchers Accelerate Clinical Trials with AI-Assistance from Dynatrace](https://www.oaoa.com/news/business/article_bb7a6c86-e06c-535d-bf22-52c5110a1daf.html) | EXTERNAL | generic |
 | [Closed-loop Remediation with custom Integrations](https://medium.com/keptn/closed-loop-remediation-with-custom-integrations-43bde377b796?sk=e029f50a75f7d5e6be09571b1f1c6250) | Johannes | 0.7.0 | 
 | [Multi-stage continuous delivery with Keptn on Civo - Levelling up your CD!](https://www.civo.com/blog/civo-community-meetup-3) | EXTERNAL | 0.7.x | 
+| [Automate Test Analysis with a custom Keptn SLI Provider](https://www.neotys.com/blog/neotyspac-automate-test-analysis-custom-keptn-sli-provider-andreas-grabner/) | EXTERNAL | 0.7.x | 
 
 ## Conference & meetup recordings
 
@@ -50,6 +51,7 @@
 | Cloud Native Night Munich, July 2020 | https://www.youtube.com/watch?v=nXS2kCLqPzk [(mirror)](https://youtu.be/RbAp5YuPjZI) | 
 | Cloud Native Berlin, September 2020 | https://www.youtube.com/watch?v=3QQtP8PtO1s&feature=youtu.be |
 | DevOps Stage, October 2020 | [YouTube playlist](https://www.youtube.com/playlist?list=PL2DFnm8LBPXrCYIr4IXr3BrMDuqJ83GJo&utm_source=eSputnik-promo&utm_medium=email&utm_campaign=%F0%9F%91%80Records_DevOps_Stage_conference&utm_content=913910151) | 
+| Neotys PAC, October 2020 | [Automate Test Analysis with a custom Keptn SLI Provider](https://www.youtube.com/watch?v=yWPZBp9Fy_Q&feature=youtu.be) |
 
 
 ## Videos
