@@ -53,6 +53,7 @@
 | Cloud Native Berlin, September 2020 | https://www.youtube.com/watch?v=3QQtP8PtO1s&feature=youtu.be |
 | DevOps Stage, October 2020 | [YouTube playlist](https://www.youtube.com/playlist?list=PL2DFnm8LBPXrCYIr4IXr3BrMDuqJ83GJo&utm_source=eSputnik-promo&utm_medium=email&utm_campaign=%F0%9F%91%80Records_DevOps_Stage_conference&utm_content=913910151) | 
 | Neotys PAC, October 2020 | [Automate Test Analysis with a custom Keptn SLI Provider](https://www.youtube.com/watch?v=yWPZBp9Fy_Q&feature=youtu.be) + [all assets from Andi Grabner on PAC events](https://www.neotys.com/performance-advisory-council/andreas-grabner?j) |
+| App-Delivery SIG Meeting, November 2020 | [Evaluating resiliency with LitmusChaos + Keptn](https://youtu.be/veFLF8OLym0?t=1449) |
 
 
 ## Videos
