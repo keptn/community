@@ -18,7 +18,7 @@ For more information about the project, please visit [keptn.sh](https://keptn.sh
 ## 📟 Communication
 
 - Send an email: keptn@dynatrace.com
-- Join us on Slack: [slack.keptn.sh](https://slack.keptn.sh) or join us in #slack channel of the [CNCF slack](https://slack.cncf.io)
+- Join us on Slack: [slack.keptn.sh](https://slack.keptn.sh) or join us in #keptn channel of the [CNCF slack](https://slack.cncf.io)
 - Follow us on Twitter: <a href="https://twitter.com/intent/follow?screen_name=keptnProject">
   <img src="https://img.shields.io/twitter/follow/keptnProject.svg?style=social&logo=twitter"
       alt="follow on Twitter"></a>
