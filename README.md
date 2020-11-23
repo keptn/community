@@ -24,12 +24,12 @@ For more information about the project, please visit [keptn.sh](https://keptn.sh
       alt="follow on Twitter"></a>
 - Participate in our community meetings ([calendar](https://calendar.google.com/calendar/embed?src=dynatrace.com_abjrh1ukf18ih477tb1ekag2ag%40group.calendar.google.com) / [iCal](https://calendar.google.com/calendar/ical/dynatrace.com_abjrh1ukf18ih477tb1ekag2ag%40group.calendar.google.com/public/basic.ics))
 
-## 🗓️ Community Meetings 
+## 🗓️ Community & Developer Meetings 
 <!--
 First meeting on Monday, March 4, 2019, via [Zoom](https://dynatrace.zoom.us/j/451021860). From then on, this meeting was held on every other Monday until February 2020.
 -->
 
-We are hosting Keptn community meetings to discuss roadmap updates, recent issues and plan ahead by distributing issues to Keptn developers. You are welcome to join and contribute to Keptn or just discuss with the Keptn team and exchange your knowledge!
+We are hosting Keptn developer meetings to discuss roadmap updates, recent issues and plan ahead by distributing issues to Keptn developers. You are welcome to join and contribute to Keptn or just discuss with the Keptn team and exchange your knowledge!
 
 Meetings will happen on Thursdays during these times (with very rare exceptions):
 - 5 PM CET Central European Time (CET) - this is the master time
