@@ -37,6 +37,7 @@
 | [Multi-stage continuous delivery with Keptn on Civo - Leveling up your CD!](https://www.civo.com/blog/civo-community-meetup-3) | EXTERNAL | 0.7.x | 
 | [Automate Test Analysis with a custom Keptn SLI Provider](https://www.neotys.com/blog/neotyspac-automate-test-analysis-custom-keptn-sli-provider-andreas-grabner/) | EXTERNAL | 0.7.x | 
 | [Automated Quality Gates in Performance Testing](https://www.neotys.com/blog/automated-quality-gates-in-performance-testing/) | EXTERNAL | 0.7.x |
+| [Evaluating Resiliency with Keptn and LitmusChaos](https://dev.to/ksatchit/part-1-evaluating-resiliency-with-keptn-and-litmuschaos-30jo) | EXTERNAL | generic |
 
 ## Conference & meetup recordings
 
@@ -57,10 +58,14 @@
 | App-Delivery SIG Meeting, November 2020 | [Evaluating resiliency with LitmusChaos + Keptn](https://youtu.be/veFLF8OLym0?t=1449) |
 | Cloud Native Madison, November 2020 | [Introduction to ChaosEngineering with LitmusChaos + Keptn](https://www.youtube.com/watch?v=wRLKiMXbBbo) | 
 
+## Webinars
+
+Find all our Keptn webinars on our 
+[YouTube channel](https://www.youtube.com/c/keptn) in the [webinar playlist](https://www.youtube.com/watch?v=ZuTr_enelM0&list=PL6i801Rjt9DahPufDQ05rUwRDEVthWxVh). 
 
 ## Videos
 
-- Find all video content on our official [Keptn YouTube channel](https://www.youtube.com/channel/UCHMn9HyAMeb81bRlaOuZyuQ)
+- Find all video content on our official [Keptn YouTube channel](https://www.youtube.com/c/keptn)
   - [Keptn Tutorials](https://www.youtube.com/playlist?list=PL6i801Rjt9Da8CC0iQVSYf3OJVwglRfJl) 
   - [Keptn Community Meetings](https://www.youtube.com/playlist?list=PL6i801Rjt9DZLOPyNbHTDQur_QmMx98ak)
   - [Keptn Developer Meetings](https://www.youtube.com/playlist?list=PL6i801Rjt9DakR1wOVkSY-uSH2kMpBFKX)
