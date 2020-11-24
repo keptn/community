@@ -37,6 +37,7 @@
 | [Multi-stage continuous delivery with Keptn on Civo - Leveling up your CD!](https://www.civo.com/blog/civo-community-meetup-3) | EXTERNAL | 0.7.x | 
 | [Automate Test Analysis with a custom Keptn SLI Provider](https://www.neotys.com/blog/neotyspac-automate-test-analysis-custom-keptn-sli-provider-andreas-grabner/) | EXTERNAL | 0.7.x | 
 | [Automated Quality Gates in Performance Testing](https://www.neotys.com/blog/automated-quality-gates-in-performance-testing/) | EXTERNAL | 0.7.x |
+| [Distributed Load Testing Using Argo + Keptn in Kubernetes ( Distro )](https://sumitnagal.medium.com/distributed-load-testing-using-argo-in-kubernetes-distro-132c350f8733) | EXTERNAL | generic |
 | [Evaluating Resiliency with Keptn and LitmusChaos](https://dev.to/ksatchit/part-1-evaluating-resiliency-with-keptn-and-litmuschaos-30jo) | EXTERNAL | generic |
 
 ## Conference & meetup recordings
