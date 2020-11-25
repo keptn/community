@@ -9,7 +9,8 @@ For more information about the project, please visit [keptn.sh](https://keptn.sh
 ## 📋 Content
 
 1. [Communication](#-communication) - how to interact with the Keptn community
-1. [Community Meetings](#%EF%B8%8F-community-meetings) - join us in our weekly public meetings
+1. [User Group Meetings](#%EF%B8%8F-community-meetings) - join us in our monthly user group meetings
+1. [Developer Meetings](#%EF%B8%8F-developer-meetings) - join us in our weekly public meetings
 1. [Community Rockstar](#-community-rockstar) - become a distinguished member of our community
 1. [Educational resources](#-educational-content-and-webinars) - educate yourself with webinars and more
 1. [Press material](#-press) - logos, public slide decks, and more for you to use
@@ -24,7 +25,18 @@ For more information about the project, please visit [keptn.sh](https://keptn.sh
       alt="follow on Twitter"></a>
 - Participate in our community meetings ([calendar](https://calendar.google.com/calendar/embed?src=dynatrace.com_abjrh1ukf18ih477tb1ekag2ag%40group.calendar.google.com) / [iCal](https://calendar.google.com/calendar/ical/dynatrace.com_abjrh1ukf18ih477tb1ekag2ag%40group.calendar.google.com/public/basic.ics))
 
-## 🗓️ Community & Developer Meetings 
+## 🗓️ Keptn User Group
+Join our monthly Keptn user groups, meet the Keptn team & users, discuss the future of Keptn, and get your questions answered.
+
+Cadence: **Every 3rd Tuesday** of the month at **5pm CET** / 8am PT / 11am ET.
+
+- Zoom meeting: TBD
+- Meeting notes: [read the Google Doc](https://docs.google.com/document/d/1Om9pj16hGKP_w2vUaH-7Cp0ffEIj-Oe3IezeVCpFYAM/edit)
+- Calendar: TBD
+
+
+
+## 🗓️ Developer Meetings 
 <!--
 First meeting on Monday, March 4, 2019, via [Zoom](https://dynatrace.zoom.us/j/451021860). From then on, this meeting was held on every other Monday until February 2020.
 -->
