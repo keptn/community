@@ -74,3 +74,4 @@ Find all our Keptn webinars on our
 ## Podcasts
 
 - [Event-Driven DevOps with Keptn: The End of the Monolithic Delivery Pipeline!](https://cdeliveryfdn.buzzsprout.com/1008697/4231295-event-driven-devops-with-keptn-the-end-of-the-monolithic-delivery-pipeline)
+- [Kubernetes Podcast from Google: Keptn, with Alois Reitbauer](https://kubernetespodcast.com/episode/119-keptn/)
