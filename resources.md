@@ -56,8 +56,11 @@
 | Cloud Native Madison, September 2020 | https://www.youtube.com/watch?v=8E0tAp0F6BU | 
 | DevOps Stage, October 2020 | [YouTube playlist](https://www.youtube.com/playlist?list=PL2DFnm8LBPXrCYIr4IXr3BrMDuqJ83GJo&utm_source=eSputnik-promo&utm_medium=email&utm_campaign=%F0%9F%91%80Records_DevOps_Stage_conference&utm_content=913910151) | 
 | Neotys PAC, October 2020 | [Automate Test Analysis with a custom Keptn SLI Provider](https://www.youtube.com/watch?v=yWPZBp9Fy_Q&feature=youtu.be) + [all assets from Andi Grabner on PAC events](https://www.neotys.com/performance-advisory-council/andreas-grabner?j) |
+| Neotys PAC, October 2020 | [YT: Automated Quality Gates in Performance Testing - triscon](https://www.youtube.com/watch?v=lxn-H2F2vY0) + [all assets](https://www.neotys.com/performance-advisory-council/roman-ferstl) |
 | App-Delivery SIG Meeting, November 2020 | [Evaluating resiliency with LitmusChaos + Keptn](https://youtu.be/veFLF8OLym0?t=1449) |
-| Cloud Native Madison, November 2020 | [Introduction to ChaosEngineering with LitmusChaos + Keptn](https://www.youtube.com/watch?v=wRLKiMXbBbo) | 
+| Cloud Native Madison, November 2020 | [Introduction to ChaosEngineering with LitmusChaos + Keptn](https://www.youtube.com/watch?v=wRLKiMXbBbo) |
+| Dynatrace Amplify, November 2020 | [YT: Automated Quality Gates with Keptn - triscon](https://www.youtube.com/watch?v=OYSFBR0dX0I) |
+
 
 ## Webinars
 
@@ -75,3 +78,4 @@ Find all our Keptn webinars on our
 
 - [Event-Driven DevOps with Keptn: The End of the Monolithic Delivery Pipeline!](https://cdeliveryfdn.buzzsprout.com/1008697/4231295-event-driven-devops-with-keptn-the-end-of-the-monolithic-delivery-pipeline)
 - [Kubernetes Podcast from Google: Keptn, with Alois Reitbauer](https://kubernetespodcast.com/episode/119-keptn/)
+- [Automated Quality Gates in Performance Testing with Roman Ferstl (triscon)](https://testguild.com/podcast/performance/p53-roman)
