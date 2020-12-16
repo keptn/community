@@ -39,6 +39,7 @@
 | [Automated Quality Gates in Performance Testing](https://www.neotys.com/blog/automated-quality-gates-in-performance-testing/) | EXTERNAL | 0.7.x |
 | [Distributed Load Testing Using Argo + Keptn in Kubernetes ( Distro )](https://sumitnagal.medium.com/distributed-load-testing-using-argo-in-kubernetes-distro-132c350f8733) | EXTERNAL | generic |
 | [Evaluating Resiliency with Keptn and LitmusChaos](https://dev.to/ksatchit/part-1-evaluating-resiliency-with-keptn-and-litmuschaos-30jo) | EXTERNAL | generic |
+| [5 open source Kubernetes projects to watch in 2021](https://enterprisersproject.com/article/2020/12/kubernetes-5-open-source-projects-to-watch-2021) | EXTERNAL | generic |
 
 ## Conference & meetup recordings
 
@@ -79,3 +80,4 @@ Find all our Keptn webinars on our
 - [Event-Driven DevOps with Keptn: The End of the Monolithic Delivery Pipeline!](https://cdeliveryfdn.buzzsprout.com/1008697/4231295-event-driven-devops-with-keptn-the-end-of-the-monolithic-delivery-pipeline)
 - [Kubernetes Podcast from Google: Keptn, with Alois Reitbauer](https://kubernetespodcast.com/episode/119-keptn/)
 - [Automated Quality Gates in Performance Testing with Roman Ferstl (triscon)](https://testguild.com/podcast/performance/p53-roman)
+- [Quality Sense: Introduction to Keptn](https://abstracta.us/blog/podcast/introduction-to-keptn/)
