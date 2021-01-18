@@ -30,9 +30,11 @@ Join our monthly Keptn user groups, meet the Keptn team & users, discuss the fut
 
 Cadence: **Every 3rd Tuesday** of the month at **5pm CET** / 8am PT / 11am ET.
 
-- Zoom meeting: TBD
+- Zoom meeting: [zoom meeting link](https://dynatrace.zoom.us/j/91460930007?pwd=bStnRzZUNW5iS1drV2RqVlVwbE5QQT09)
 - Meeting notes: [read the Google Doc](https://docs.google.com/document/d/1Om9pj16hGKP_w2vUaH-7Cp0ffEIj-Oe3IezeVCpFYAM/edit)
-- Calendar: TBD
+- Calendar: 
+  - 🗓️ [Public Google Calendar](https://calendar.google.com/calendar/embed?src=dynatrace.com_abjrh1ukf18ih477tb1ekag2ag%40group.calendar.google.com) 
+  - 🗓️ [Calendar in iCal format](https://calendar.google.com/calendar/ical/dynatrace.com_abjrh1ukf18ih477tb1ekag2ag%40group.calendar.google.com/public/basic.ics)
 
 
 
