@@ -61,6 +61,7 @@
 | App-Delivery SIG Meeting, November 2020 | [Evaluating resiliency with LitmusChaos + Keptn](https://youtu.be/veFLF8OLym0?t=1449) |
 | Cloud Native Madison, November 2020 | [Introduction to ChaosEngineering with LitmusChaos + Keptn](https://www.youtube.com/watch?v=wRLKiMXbBbo) |
 | Dynatrace Amplify, November 2020 | [YT: Automated Quality Gates with Keptn - triscon](https://www.youtube.com/watch?v=OYSFBR0dX0I) |
+| Cloud Native Bern, January 2021 | [ Automating SLI/SLO based build validation with Keptn](https://www.youtube.com/watch?v=coupAc7TmWM&feature) |
 
 
 ## Webinars
