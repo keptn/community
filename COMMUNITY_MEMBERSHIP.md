@@ -1,15 +1,16 @@
 # Keptn Community membership
 
-**Last updated:** 2020-08-04
+**Last updated:** 2021-06-01
 
 **Disclaimer:** This document borrows heavily from the [Community Membership of OpenTelemetry](https://github.com/open-telemetry/community/blob/3f44aedd70334999b8a63586cf44f747776bddd3/community-membership.md).
 
 This document outlines the various responsibilities of contributor roles in Keptn. 
 The Keptn project consists of:
-  * one **main repository** with the [core services of Keptn](https://github.com/keptn/keptn)
-  * **subprojects** that contain [integrations and contributions](https://github.com/keptn-contrib) for Keptn
+  * one **main project** with the [core services of Keptn](https://github.com/keptn/keptn)
+  * **Keptn-contrib** that contains [integrations and contributions](https://github.com/keptn-contrib) for Keptn
+  * **Keptn-sandbox** that new [contributions to Keptn by the community](https://github.com/keptn-sandbox) and not maintained by Keptn core maintainers 
 
-Responsibilities for the roles in this document are scoped to the *main repository* and *subprojects*.
+Responsibilities for the roles in this document are scoped to the *main project* and *Keptn contrib*.
 
 The Keptn Governance Committee owns this document and process until delegated. They can be reached via e-mail at keptn@dynatrace.com.
 
@@ -50,8 +51,6 @@ Members are continuously active contributors in the community. They can have iss
     code/design/proposal review, coordinating on issues, etc.
   - Sponsors must be approvers or maintainers in at least 1 CODEOWNERS file
     in any repository in the Keptn organization
-  - Sponsors must be from multiple member companies to demonstrate integration
-    across community
 - [Open an issue](https://github.com/keptn/community/issues/new?template=membership.md&title=REQUEST%3A%20New%20membership%20for%20%3Cyour-GH-handle%3E)
   against the [keptn/community](https://github.com/keptn/community) repo:
   - Ensure your sponsors are `@mentioned` on the issue
