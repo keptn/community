@@ -44,7 +44,7 @@ Members are continuously active contributors in the community. They can have iss
   - Authoring or reviewing PRs on GitHub
   - Filing or commenting on issues on GitHub
   - Contributing to the main project, subprojects, or community discussions (e.g., meetings, chat, email, and discussion forums)
-- Joined the [Keptn Slack channel](https://slack.keptn.sh) (see: https://github.com/keptn/community#communication)
+- Joined the [Keptn Slack channel](https://slack.keptn.sh) 
 - Have read the [contributors guide](https://github.com/keptn/keptn/blob/master/CONTRIBUTING.md)
 - Sponsored by 2 approvers. Consider the following requirements for sponsors:
   - Sponsors must have close interactions with the prospective member, e.g.,
