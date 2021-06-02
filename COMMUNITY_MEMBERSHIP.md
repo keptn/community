@@ -12,7 +12,7 @@ The Keptn project consists of:
 
 Responsibilities for the roles in this document are scoped to the *main project* and *Keptn contrib*.
 
-The Keptn Governance Committee owns this document and process until delegated. They can be reached via e-mail at keptn@dynatrace.com.
+The Keptn maintainers own this document and process until delegated. They can be reached via e-mail at keptn@dynatrace.com.
 
 | **Role**   | **Responsibilities**                                  | **Requirements**                                             | **Defined by**                                               |
 | ---------- | ----------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -44,7 +44,7 @@ Members are continuously active contributors in the community. They can have iss
   - Authoring or reviewing PRs on GitHub
   - Filing or commenting on issues on GitHub
   - Contributing to the main project, subprojects, or community discussions (e.g., meetings, chat, email, and discussion forums)
-- Joined the [Keptn Slack channel](https://slack.keptn.sh) (see: https://github.com/keptn/community#communication)
+- Joined the [Keptn Slack channel](https://slack.keptn.sh) 
 - Have read the [contributors guide](https://github.com/keptn/keptn/blob/master/CONTRIBUTING.md)
 - Sponsored by 2 approvers. Consider the following requirements for sponsors:
   - Sponsors must have close interactions with the prospective member, e.g.,
@@ -59,9 +59,7 @@ Members are continuously active contributors in the community. They can have iss
   - Make sure that the list of contributions included is representative of your
     work on the project.
 - Have your sponsoring reviewers reply confirmation of sponsorship: `+1`
-- Once your sponsors have responded, your request will be reviewed by the
-  Governance Committee (GC). Any GC member can review the requirements and add
-  members to the GitHub organization. 
+- Once your sponsors have responded, your request will be reviewed by the project maintainers. Any maintainer can review the requirements and add members to the GitHub organization. 
 
 ### Responsibilities and privileges
 
@@ -134,7 +132,7 @@ The process for becoming a maintainer should be defined in the project or subpro
     meetings)
   - Identifying subtle or complex issues in designs and implementation PRs
 - Directly contributed to the subproject through implementation and / or review
-- Aligning with the overall project goals, specifications, and design principles defined by Technical Committee (TC). Bringing general questions and requests to the discussions as part of specifications project.
+- Aligning with the overall project goals, specifications, and design principles. Bringing general questions and requests to the discussions as part of the specifications project.
 
 ### Responsibilities and privileges
 
