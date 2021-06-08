@@ -40,9 +40,9 @@ member | approver | maintainer
 - [ ] I have deep understanding of the technical goals and direction of the subproject
 - [ ] I have deep understanding of the technical domain (specifically the language) of the subproject
 - [ ] I did sustained contributions to design and direction by doing all of:
-- [ ] I am authoring and reviewing proposals
-- [ ] I am initiating, contributing, and resolving discussions (e-mails, GitHub issues, meetings)
-- [ ] I am identifying subtle or complex issues in designs and implementation PRs
+  - [ ] I am authoring and reviewing proposals
+  - [ ] I am initiating, contributing, and resolving discussions (e-mails, GitHub issues, meetings)
+  - [ ] I am identifying subtle or complex issues in designs and implementation PRs
 - [ ] I am directly contributing to the subproject through implementation and / or review
 - [ ] I am aligning with the overall project goals, specifications, and design principles. I am bringing general questions and requests to the discussions as part of the specifications project.
 - [ ] I have spoken to 2 sponsors (maintainers) ahead of this application, and they have agreed to sponsor my application
