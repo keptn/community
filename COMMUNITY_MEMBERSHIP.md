@@ -17,7 +17,7 @@ The Keptn maintainers own this document and process until delegated. They can be
 | **Role**   | **Responsibilities**                                  | **Requirements**                                             | **Defined by**                                               |
 | ---------- | ----------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Member     | Active contributor in the community and reviewer of PRs | Sponsored by 2 approvers or maintainers. Multiple (infrequent) contributions to the project. | [Members of the Keptn GitHub organization](https://github.com/orgs/keptn/teams/members)                           |
-| Approver   | Approve contributions                       | Sponsored by 2 maintainers. Highly experienced and active reviewer with frequent contributions. | - [Approvers of the Keptn GitHub organization](https://github.com/orgs/keptn/teams/approvers) <br>- [CODEOWNERS](https://help.github.com/en/articles/about-code-owners) in [Keptn](https://github.com/keptn/keptn) |
+| Approver   | Approve contributions                       | Sponsored by 2 maintainers. Highly experienced and active member with frequent contributions. | - [Approvers of the Keptn GitHub organization](https://github.com/orgs/keptn/teams/approvers) <br>- [CODEOWNERS](https://help.github.com/en/articles/about-code-owners) in [Keptn](https://github.com/keptn/keptn) |
 | Maintainer | Set direction and priorities for a subproject         | Sponsored by 2 maintainers. Demonstrates responsibility and excellent technical judgment for the whole project. | - [Maintainers of the Keptn GitHub organization](https://github.com/orgs/keptn/teams/maintainers) <br>- [CODEOWNERS](https://help.github.com/en/articles/about-code-owners) in [Keptn](https://github.com/keptn/keptn)<br> - Ownership of the GitHub repository |
 
 **Note**: Links to *Members-, Approvers-, and Maintainers of the Keptn GitHub organization* are not publicly accessible.
@@ -58,7 +58,7 @@ Members are continuously active contributors in the community. They can have iss
     template](https://github.com/keptn/community/blob/master/.github/ISSUE_TEMPLATE/membership.md))
   - Make sure that the list of contributions included is representative of your
     work on the project.
-- Have your sponsoring reviewers reply confirmation of sponsorship: `+1`
+- Have your sponsoring reviewers reply confirmation of sponsorship
 - Once your sponsors have responded, your request will be reviewed by the project maintainers. Any maintainer can review the requirements and add members to the GitHub organization. 
 
 ### Responsibilities and privileges
@@ -95,6 +95,13 @@ Approver status can be scoped to a part of the codebase. For example, critical c
 - Sponsored by 2 maintainers. Consider the following requirements for sponsors:
   - No objections from other maintainers
   - Done through a PR that updates the corresponding `CODEOWNERS` file
+- [Open an issue](https://github.com/keptn/community/issues/new?template=membership.md&title=REQUEST%3A%20Approver%20membership%20for%20%3Cyour-GH-handle%3E)
+  against the [keptn/community](https://github.com/keptn/community) repo:
+  - Ensure your sponsors are `@mentioned` on the issue
+  - Complete every item on the checklist ([preview the current version of the
+    template](https://github.com/keptn/community/blob/master/.github/ISSUE_TEMPLATE/membership.md))
+  - Make sure that the list of contributions included is representative of your
+    work on the project.
 
 ### Responsibilities and privileges
 
@@ -133,7 +140,13 @@ The process for becoming a maintainer should be defined in the project or subpro
   - Identifying subtle or complex issues in designs and implementation PRs
 - Directly contributed to the subproject through implementation and / or review
 - Aligning with the overall project goals, specifications, and design principles. Bringing general questions and requests to the discussions as part of the specifications project.
-
+- [Open an issue](https://github.com/keptn/community/issues/new?template=membership.md&title=REQUEST%3A%20Maintainer%20membership%20for%20%3Cyour-GH-handle%3E)
+  against the [keptn/community](https://github.com/keptn/community) repo:
+  - Ensure your sponsors are `@mentioned` on the issue
+  - Complete every item on the checklist ([preview the current version of the
+    template](https://github.com/keptn/community/blob/master/.github/ISSUE_TEMPLATE/membership.md))
+  - Make sure that the list of contributions included is representative of your
+    work on the project.
 ### Responsibilities and privileges
 
 *The following applies to the subproject for which one would be an owner:*
