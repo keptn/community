@@ -28,12 +28,13 @@ member | approver | maintainer
 - [ ] I am actively contributing to 1 or more Keptn subprojects
 - [ ] I have two sponsors that meet the sponsor requirements listed in the community membership guidelines. Among other requirements, sponsors must be approvers or maintainers of at least one repository in the organization and not both affiliated with the same company
 - [ ] I have spoken to 2 sponsors (approvers or maintainers) ahead of this application, and they have agreed to sponsor my application
-
+- [ ] I have filed a PR to add myself as [project member](https://github.com/keptn/keptn/blob/master/MAINTAINERS.md) and referenced this issue in the PR
 ### Requirements (for approver, if applicable)
 
 - [ ] I am a reviewer of the codebase for at least 1 month
 - [ ] I am a reviewer for/or author of substantial PRs to the codebase, with the definition of substantial subject to the maintainer's discretion (e.g., refactors/adds new functionality rather than one-line changes).
 - [ ] I have spoken to 2 sponsors (maintainers) ahead of this application, and they have agreed to sponsor my application
+- [ ] I have filed a PR to add myself as [project approver](https://github.com/keptn/keptn/blob/master/MAINTAINERS.md) and referenced this issue in the PR
 
 ### Requirements (for maintainer, if applicable)
 
@@ -46,7 +47,7 @@ member | approver | maintainer
 - [ ] I am directly contributing to the subproject through implementation and / or review
 - [ ] I am aligning with the overall project goals, specifications, and design principles. I am bringing general questions and requests to the discussions as part of the specifications project.
 - [ ] I have spoken to 2 sponsors (maintainers) ahead of this application, and they have agreed to sponsor my application
-
+- [ ] I have filed a PR to add myself as [project maintainer](https://github.com/keptn/keptn/blob/master/MAINTAINERS.md) and referenced this issue in the PR
 
 
 ### Sponsors

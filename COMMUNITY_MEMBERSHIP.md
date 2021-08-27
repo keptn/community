@@ -1,6 +1,6 @@
 # Keptn Community membership
 
-**Last updated:** 2021-06-01
+**Last updated:** 2021-08-26
 
 **Disclaimer:** This document borrows heavily from the [Community Membership of OpenTelemetry](https://github.com/open-telemetry/community/blob/3f44aedd70334999b8a63586cf44f747776bddd3/community-membership.md).
 
@@ -60,6 +60,7 @@ Members are continuously active contributors in the community. They can have iss
     work on the project.
 - Have your sponsoring reviewers reply confirmation of sponsorship
 - Once your sponsors have responded, your request will be reviewed by the project maintainers. Any maintainer can review the requirements and add members to the GitHub organization. 
+- Add yourself to the list of [project members](https://github.com/keptn/keptn/blob/master/MAINTAINERS.md)
 
 ### Responsibilities and privileges
 
@@ -102,6 +103,7 @@ Approver status can be scoped to a part of the codebase. For example, critical c
     template](https://github.com/keptn/community/blob/master/.github/ISSUE_TEMPLATE/membership.md))
   - Make sure that the list of contributions included is representative of your
     work on the project.
+- Add yourself to the list of [project approvers](https://github.com/keptn/keptn/blob/master/MAINTAINERS.md)
 
 ### Responsibilities and privileges
 
@@ -147,6 +149,7 @@ The process for becoming a maintainer should be defined in the project or subpro
     template](https://github.com/keptn/community/blob/master/.github/ISSUE_TEMPLATE/membership.md))
   - Make sure that the list of contributions included is representative of your
     work on the project.
+- Add yourself to the list of [project members](https://github.com/keptn/keptn/blob/master/MAINTAINERS.md)
 ### Responsibilities and privileges
 
 *The following applies to the subproject for which one would be an owner:*
