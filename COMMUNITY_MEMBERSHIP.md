@@ -60,7 +60,7 @@ Members are continuously active contributors in the community. They can have iss
     work on the project.
 - Have your sponsoring reviewers reply confirmation of sponsorship
 - Once your sponsors have responded, your request will be reviewed by the project maintainers. Any maintainer can review the requirements and add members to the GitHub organization. 
-- Add yourself to the list of [project members](https://github.com/keptn/keptn/blob/master/MAINTAINERS.md)
+- Add yourself to the list of [project members](https://github.com/keptn/keptn/blob/master/MAINTAINERS)
 
 ### Responsibilities and privileges
 
@@ -103,7 +103,7 @@ Approver status can be scoped to a part of the codebase. For example, critical c
     template](https://github.com/keptn/community/blob/master/.github/ISSUE_TEMPLATE/membership.md))
   - Make sure that the list of contributions included is representative of your
     work on the project.
-- Add yourself to the list of [project approvers](https://github.com/keptn/keptn/blob/master/MAINTAINERS.md)
+- Add yourself to the list of [project approvers](https://github.com/keptn/keptn/blob/master/MAINTAINERS)
 
 ### Responsibilities and privileges
 
@@ -149,7 +149,7 @@ The process for becoming a maintainer should be defined in the project or subpro
     template](https://github.com/keptn/community/blob/master/.github/ISSUE_TEMPLATE/membership.md))
   - Make sure that the list of contributions included is representative of your
     work on the project.
-- Add yourself to the list of [project members](https://github.com/keptn/keptn/blob/master/MAINTAINERS.md)
+- Add yourself to the list of [project members](https://github.com/keptn/keptn/blob/master/MAINTAINERS)
 ### Responsibilities and privileges
 
 *The following applies to the subproject for which one would be an owner:*
