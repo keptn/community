@@ -1,8 +1,8 @@
 ---
-name: Community Enhancement
-about: Use it for any proposals for improving the community and tooling around it 
+name: Community Management & Governance
+about: Use it for any proposals for improving the community, governance and tooling around it 
 title: 'RFE: <summary>'
-labels: enhancement
+labels: community
 assignees: ''
 
 ---
