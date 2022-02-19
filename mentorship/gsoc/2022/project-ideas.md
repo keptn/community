@@ -7,8 +7,13 @@ in GSoC on [this page](../README.md)
 
 ## 2022 Project Ideas
 
-> :warning: Full list and more details are coming soon!
+- [GitOps for Keptn](#keptn-gitops) 
+- [Keptn Plugin for Backstage](#keptn-backstage-plugin)
+- [Improve GitHub Integration in Keptn](#keptn-github-integration)
+- [Integration Service for k6](#keptn-k6-integration)
+- [Jenkins Pipeline Executor Service](#keptn-jenkins-integration)
 
+<a name="keptn-gitops"></a>
 ### GitOps for Keptn
 
 The configuration of a Keptn project requires a lot of imperative commands, executed in the right order.
@@ -22,6 +27,7 @@ Particular details are tio be discussed in the project chat with potential mento
 - Areas to study/improve: Golang, Kubernetes, Operators, Configuration Management
 - Potential mentor(s): Thomas Schuetz, Oleg Nenashev
 
+<a name="keptn-backstage-plugin"></a>
 ### Keptn Plugin for Backstage
 
 [Backstage](https://backstage.io/) is an open platform for building developer portals. 
@@ -38,9 +44,11 @@ e.g. implemented on the top of the Cloud Events / CDEvents standard.
 
 - More info: https://github.com/keptn/keptn/issues/6407 
 - Areas to study/improve: Golang, JavaScript, React, Backstage
+
 - Potential mentor(s): Oleg Nenashev, Dmitry Meytin
 
-### Better GitHub Integration in Keptn
+<a name="keptn-github-integration"></a>
+### Improve GitHub Integration in Keptn
 
 GitHub is widely used in proprietary and open source projects.
 Currently provides several GitHub Actions that could be used to interact with Keptn:
@@ -67,6 +75,7 @@ Summary:
 - Areas to study/improve: Golang, GitHub API, JavaScript
 - Potential mentor(s): Oleg Nenashev
 
+<a name="keptn-k6-integration"></a>
 ### Integration service for k6
 
 [k6](https://k6.io/) is a modern cloud natiove tool for performance testing.
@@ -76,7 +85,8 @@ similar to the existing JMeter or Lithmus Chaos services.
 - Areas to study/improve: Golang, k6, performance testing
 - Potential mentor(s): TBD
  
-### Jenkins Pipeline Executor Service for Keptn
+ <a name="keptn-jenkins-integration"></a>
+### Jenkins Pipeline Executor Service
 
 Jenkins is widely use as a CI/CD automation tool.
 It integrates with Keptn through [Jenkins Pipeline Library for Keptn](https://github.com/keptn-sandbox/keptn-jenkins-library) or
