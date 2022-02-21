@@ -25,25 +25,25 @@ We invite GSoC contributors to submit project proposal applications in relation 
 1. Check out our project ideas.
 2. Join the [Keptn Slack](https://keptn.sh/community/#slack),
    and the `#gsoc` channel there.
-3. Explore the project ideas and find one or two interesting to you.
+3. Explore the project ideas and find one or two that interest you.
    Notify us in the chat.
-4. Join one of our [community or developer meeting](https://keptn.sh/community/meetings/).
-5. Try contributing to Keptn. Some project ideas include references to newcomer friendly issues, you can also find links to the generic contributing guide [here](https://keptn.sh/community/contributing/)
+4. Join one of our [community or developer meetings](https://keptn.sh/community/meetings/).
+5. Try contributing to Keptn. Some project ideas include references to newcomer friendly issues. You can also find links to the generic contributing guide [here](https://keptn.sh/community/contributing/)
 6. Work with the potential mentors during the application phase.
    Do not hesitate to ask any questions in the chat.
-   It might be possible to also organize special sessions to discuss the project ideas.
+   It may also be possible to organize special sessions to discuss the project ideas.
 7. Make sure to submit the final application in time!
 
 ### Joining as mentor
 
 We welcome contributors to join the mentoring teams.
 Each team, if a project is accepted,
-will consist of 2 or more mentors and one student selected by the mentors 
+will consist of 2 or more mentors and one participant selected by the mentors 
 and GSoC admins during the application reviews.
 
 **Expectations**. Mentors are expected to be experienced in the project idea domain
 and to be willing to mentor students.
-We also expect mentors to be able to dedicate several hour per week during the community bonding and coding phases.
+We expect mentors to dedicate several hour per week during the community bonding and coding phases.
 
 References:
 
@@ -53,7 +53,7 @@ References:
 
 ### Proposing project ideas
 
-To add a new project, submit a pull requests against [this page](./2022/project-ideas.md).
+To add a new project idea, submit a pull requests against [this page](./2022/project-ideas.md).
 We expect project ideas to have a short description,
 quick start guidelines and, if possible,
 references to specific newbie-friendly issues.
