@@ -13,7 +13,7 @@ to help integrate them into the open source community and succeed in completing 
 ## GSoC 2022
 
 - [2022 Project ideas](./2022/project-ideas.md)
-- [Google Summer of COde website](https://summerofcode.withgoogle.com/)
+- [Google Summer of Code website](https://summerofcode.withgoogle.com/)
 - [GSoC Timeline](https://summerofcode.withgoogle.com/how-it-works#timeline)
 
 ## Participate
