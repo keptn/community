@@ -19,6 +19,7 @@ to help integrate them into the open source community and succeed in completing 
 ## Participate
 
 We invite GSoC contributors to submit project proposal applications in relation to these ideas.
+Original ideas will be welcome and appreciated too!
 
 ### Apply as a contributor
 
