@@ -125,8 +125,8 @@ Potential scope/deliverables:
 - Automation that builds the site from multiple repositories using Antora.
   It includes scripting, GitHub Actions, and automated configuration management.
 - GitHub workflows for continuous deployment of the website to Netlify and GitHub Pages
-- Nice2have: Implement previews for the website and support for staging changes (e.g. pre-release documentation)
-- Developer/Contributor documentation for the new engine, in collaboration with the documentation contributors
+- Nice2have: Implement previews for the website and support for staging changes (e.g. pre-release documentation).
+- Developer/Contributor documentation for the new engine, in collaboration with the documentation contributors.
 
 Summary: 
 
