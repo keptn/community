@@ -12,6 +12,7 @@ in GSoC are avaialble on [this page](../README.md)
 - [Improve GitHub Integration in Keptn](#keptn-github-integration)
 - [Integration Service for k6](#keptn-k6-integration)
 - [Jenkins Pipeline Executor Service](#keptn-jenkins-integration)
+- [New Documentation site engine](#keptn-documentation-website)
 
 <a name="keptn-gitops"></a>
 ### GitOps for Keptn
@@ -105,3 +106,31 @@ Summary:
 
 - Areas to study/improve: Golang, Java, Jenkins, Jenkins Pipelines
 - Potential mentor(s): Oleg Nenashev
+
+ <a name="keptn-documentation-website"></a>
+### New Documentation site engine
+
+The current website version is pretty weak when it comes to maintaining multiple versions of the documentation like we have now.
+It requires a lot of copy paste and we don't want her to maintain that going forward.
+We suggest using [Antora](https://antora.org/) that is specifically designed for managing documentation at scale.
+The biggest problem is that it targets Asciidoctor, and the support for Markdown is not perfect. 
+It will require some migration automation, e.g. with help of [Pandoc](https://pandoc.org/).
+
+The scope of this project idea is to create the website engine, tooling and automation to enable the new documentation website.
+The project would be done in collaboration with the Keptn documentation contributors,
+and creating the documentation itself is **NOT** in the scope for the coding project.
+
+Potential scope/deliverables:
+
+- Automation that builds the site from multiple repositories using Antora.
+  It includes scripting, GitHub Actions, and automated configuration management.
+- GitHub workflows for continuous deployment of the website to Netlify and GitHub Pages
+- Nice2have: Implement previews for the website and support for staging changes (e.g. pre-release documentation)
+- Developer/Contributor documentation for the new engine, in collaboration with the documentation contributors
+
+Summary: 
+
+- More info: [keptn.github.io issues#994](https://github.com/keptn/keptn.github.io/issues/994)
+- Discussion channel: `#keptn-docs`
+- Areas to study/improve: JavaScript, Antora, Asciidoctor/Markdown, GitHub Actions, Pandoc, Netlify
+- Potential mentor(s): Meg McRoberts, Oleg Nenashev
