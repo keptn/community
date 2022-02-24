@@ -12,6 +12,7 @@ in GSoC are avaialble on [this page](../README.md)
 - [Improve GitHub Integration in Keptn](#keptn-github-integration)
 - [Integration Service for k6](#keptn-k6-integration)
 - [Jenkins Pipeline Executor Service](#keptn-jenkins-integration)
+- [New Documentation site engine](#keptn-documentation-website)
 
 <a name="keptn-gitops"></a>
 ### GitOps for Keptn
@@ -105,3 +106,36 @@ Summary:
 
 - Areas to study/improve: Golang, Java, Jenkins, Jenkins Pipelines
 - Potential mentor(s): Oleg Nenashev
+
+ <a name="keptn-documentation-website"></a>
+### New Documentation site engine
+
+The current authoring and build tools have serious deficiencies:
+- No support for versioning, so we do a lot of copy/paste to preserve old versions of the documentation.  This causes xref issues from other docs that link into the documentation.
+- Current tools do not support shared text between different docs
+- markdown's xref'ing capabilities are weak
+[3:33](https://keptn.slack.com/archives/D031MN1V509/p1645702412450219)
+- markdown's support of inline comments  is weak
+We suggest using [Antora](https://antora.org/) that is specifically designed for managing documentation at scale
+and convert the documentation source to Asciidoctor.
+Antora provides limited support for Markdown source but markdown itself has deficiencies for a full documentation set.
+This project requires some migration automation, e.g. with help of [Pandoc](https://pandoc.org/).
+
+The scope of this project idea is to create the website engine, tooling and automation to enable the new documentation website.
+The project would be done in collaboration with the Keptn documentation contributors,
+and creating the documentation itself is **NOT** in the scope for the coding project.
+
+Potential scope/deliverables:
+
+- Automation that builds the site from multiple repositories using Antora.
+  It includes scripting, GitHub Actions, and automated configuration management.
+- GitHub workflows for continuous deployment of the website to Netlify and GitHub Pages
+- Nice2have: Implement previews for the website and support for staging changes (e.g. pre-release documentation).
+- Developer/Contributor documentation for the new engine, in collaboration with the documentation contributors.
+
+Summary: 
+
+- More info: [keptn.github.io issues#994](https://github.com/keptn/keptn.github.io/issues/994)
+- Discussion channel: `#keptn-docs`
+- Areas to study/improve: JavaScript, Antora, Asciidoctor/Markdown, GitHub Actions, Pandoc, Netlify
+- Potential mentor(s): Meg McRoberts, Oleg Nenashev
