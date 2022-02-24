@@ -80,15 +80,16 @@ Summary:
 <a name="keptn-k6-integration"></a>
 ### Integration service for k6
 
-[k6](https://k6.io/) is a modern cloud native tool for performance testing.
-It would be nice to support it as a part of Keptn Quality Gates,
-similar to the existing JMeter or Lithmus Chaos integration services.
-For example, the scope could include creating a Keptn Sequence step for invoking the tool for doing performance testing against an developer/staging environment,
-and then collecting metrics though SLI provider (e.g. Prometheus) to evaluate Service Level Indicator and make a decision on further promotion.
+[k6](https://k6.io/) is a modern cloud native tool for performance testing. It would be nice to support it as a part of Keptn Quality Gates, similar to the existing JMeter or Lithmus Chaos integration services. 
+
+The scope could be to create a Keptn Sequence step for invoking k6 for doing performance testing against a developer/staging environment and evaluate the results of [k6 Thresholds](https://k6.io/docs/using-k6/thresholds/) to make a decision on further promotion.
+
+Additionally improvement could be that k6 send testing metrics to Prometheus in real-time to evaluate Service Level Indicators on Prometheus and decide the further promotion. 
+
 
 - Areas to study/improve: Golang, k6, performance testing, Prometheus
 - Slack channel for technical discussion: `#keptn-integrations`
-- Potential mentor(s): TBD
+- Potential mentor(s): Pepe Cano (k6)
  
  <a name="keptn-jenkins-integration"></a>
 ### Jenkins Pipeline Executor Service
