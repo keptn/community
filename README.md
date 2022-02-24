@@ -18,13 +18,21 @@ See also the community page on [**keptn.sh/community**](https://keptn.sh/communi
 * [Community Newsletter](https://keptn.sh/community/newsletter/) - Subscribe to get updates on the state of Keptn every two weeks!
 * Social media: [@keptnProject](https://twitter.com/keptnProject) on Twitter, [KeptnProject](https://www.linkedin.com/company/keptnproject) on LinkedIn
 
+## Roles and Groups
+
+* [Community Membership Ladder](./COMMUNITY_MEMBERSHIP.md) - Community membership: roles, responsibilities and application guidelines.
+* [Keptn Advisory Board](./advisory-board.md) - 
+group of industry leaders and visionaries that provide advice to the Keptn project.
+* [Community Rockstars](./community-rockstar.md) -
+Award for top Keptn contributors and advocates,
+that is given on a quarterly basis.
+
 ## Community resources
 
 There are also some resources stored in this repository or elsewhere:
 
 * [Community Roadmap](https://github.com/orgs/keptn/projects/1?card_filter_query=label%3Acommunity) - Major community initiatives
   as a part of the Keptn roadmap
-* [Community Membership Ladder](./COMMUNITY_MEMBERSHIP.md) - Community membership: roles, responsibilities and application guidelines
 * [Artwork](./logos) - Keptn logos and artwork
 * [Keptn Project Infrastructure](./project-infrastructure/) - 
   Documentation and notes regarding the project infrastructure being used by the project:
