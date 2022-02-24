@@ -25,6 +25,7 @@ based on the prototypes created as a part of the Enhancement Proposal.
 Particular details are to be discussed in the project chat with potential mentors.
 
 - More info: [KEP-67 - Keptn and GitOps](https://github.com/keptn/enhancement-proposals/pull/67)
+- Slack channel for technical discussion: `#wg-keptn-gitops-operator`
 - Areas to study/improve: Golang, Kubernetes, Operators, Configuration Management
 - Potential mentor(s): Thomas Schuetz, Oleg Nenashev
 
@@ -42,10 +43,9 @@ A Possible solution could be a specialized plugin for Keptn using Keptn REST API
 It might be also possible to create a unified plugin for Keptn and other CI/CD tools, 
 e.g. implemented on the top of the Cloud Events / CDEvents standard. 
 
-
 - More info: https://github.com/keptn/keptn/issues/6407 
+- Slack channel for technical discussion: `#wg-backstage-integrations`
 - Areas to study/improve: Golang, JavaScript, React, Backstage
-
 - Potential mentor(s): Oleg Nenashev, Dmitry Meytin
 
 <a name="keptn-github-integration"></a>
@@ -74,6 +74,7 @@ Potential use-cases that could be addressed in the project:
 Summary:
 
 - Areas to study/improve: Golang, GitHub API, JavaScript
+- Slack channel for technical discussion: `#keptn-integrations`
 - Potential mentor(s): Oleg Nenashev, Brad McCoy
 
 <a name="keptn-k6-integration"></a>
@@ -81,9 +82,12 @@ Summary:
 
 [k6](https://k6.io/) is a modern cloud native tool for performance testing.
 It would be nice to support it as a part of Keptn Quality Gates,
-similar to the existing JMeter or Lithmus Chaos services.
+similar to the existing JMeter or Lithmus Chaos integration services.
+For example, the scope could include creating a Keptn Sequence step for invoking the tool for doing performance testing against an developer/staging environment,
+and then collecting metrics though SLI provider (e.g. Prometheus) to evaluate Service Level Indicator and make a decision on further promotion.
 
-- Areas to study/improve: Golang, k6, performance testing
+- Areas to study/improve: Golang, k6, performance testing, Prometheus
+- Slack channel for technical discussion: `#keptn-integrations`
 - Potential mentor(s): TBD
  
  <a name="keptn-jenkins-integration"></a>
@@ -105,6 +109,7 @@ Potential deliverables:
 Summary:
 
 - Areas to study/improve: Golang, Java, Jenkins, Jenkins Pipelines
+- Slack channel for technical discussion: `#keptn-integrations`
 - Potential mentor(s): Oleg Nenashev
 
  <a name="keptn-documentation-website"></a>
