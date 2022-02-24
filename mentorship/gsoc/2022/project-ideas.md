@@ -110,11 +110,16 @@ Summary:
  <a name="keptn-documentation-website"></a>
 ### New Documentation site engine
 
-The current website version is pretty weak when it comes to maintaining multiple versions of the documentation like we have now.
-It requires a lot of copy paste and we don't want her to maintain that going forward.
-We suggest using [Antora](https://antora.org/) that is specifically designed for managing documentation at scale.
-The biggest problem is that it targets Asciidoctor, and the support for Markdown is not perfect. 
-It will require some migration automation, e.g. with help of [Pandoc](https://pandoc.org/).
+The current authoring and build tools have serious deficiencies:
+- No support for versioning, so we do a lot of copy/paste to preserve old versions of the documentation.  This causes xref issues from other docs that link into the documentation.
+- Current tools do not support shared text between different docs
+- markdown's xref'ing capabilities are weak
+[3:33](https://keptn.slack.com/archives/D031MN1V509/p1645702412450219)
+- markdown's support of inline comments  is weak
+We suggest using [Antora](https://antora.org/) that is specifically designed for managing documentation at scale
+and convert the documentation source to Asciidoctor.
+Antora provides limited support for Markdown source but markdown itself has deficiencies for a full documentation set.
+This project requires some migration automation, e.g. with help of [Pandoc](https://pandoc.org/).
 
 The scope of this project idea is to create the website engine, tooling and automation to enable the new documentation website.
 The project would be done in collaboration with the Keptn documentation contributors,
