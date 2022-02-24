@@ -73,7 +73,7 @@ Potential use-cases that could be addressed in the project:
 Summary:
 
 - Areas to study/improve: Golang, GitHub API, JavaScript
-- Potential mentor(s): Oleg Nenashev
+- Potential mentor(s): Oleg Nenashev, Brad McCoy
 
 <a name="keptn-k6-integration"></a>
 ### Integration service for k6
