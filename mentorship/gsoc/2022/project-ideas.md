@@ -27,6 +27,8 @@ Particular details are to be discussed in the project chat with potential mentor
 - More info: [KEP-67 - Keptn and GitOps](https://github.com/keptn/enhancement-proposals/pull/67)
 - Slack channel for technical discussion: `#wg-keptn-gitops-operator`
 - Areas to study/improve: Golang, Kubernetes, Operators, Configuration Management
+- Project size: 175 or 350 hours, depending on the scope
+- Difficulty: Medium/High
 - Potential mentor(s): Thomas Schuetz, Oleg Nenashev
 
 <a name="keptn-backstage-plugin"></a>
@@ -46,6 +48,7 @@ e.g. implemented on the top of the Cloud Events / CDEvents standard.
 - More info: https://github.com/keptn/keptn/issues/6407 
 - Slack channel for technical discussion: `#wg-backstage-integrations`
 - Areas to study/improve: Golang, JavaScript, React, Backstage
+- Project size: 175 hours
 - Potential mentor(s): Oleg Nenashev, Dmitry Meytin
 
 <a name="keptn-github-integration"></a>
@@ -75,6 +78,8 @@ Summary:
 
 - Areas to study/improve: Golang, GitHub API, JavaScript
 - Slack channel for technical discussion: `#keptn-integrations`
+- Project size: 175 or 350 hours, depending on the scope
+- Difficulty: Medium/High
 - Potential mentor(s): Oleg Nenashev, Brad McCoy
 
 <a name="keptn-k6-integration"></a>
@@ -89,6 +94,8 @@ Additionally improvement could be that k6 send testing metrics to Prometheus in 
 
 - Areas to study/improve: Golang, k6, performance testing, Prometheus
 - Slack channel for technical discussion: `#keptn-integrations`
+- Project size: 175 hours
+- Difficulty: Easy/Medium
 - Potential mentor(s): Pepe Cano (k6)
  
  <a name="keptn-jenkins-integration"></a>
@@ -111,17 +118,28 @@ Summary:
 
 - Areas to study/improve: Golang, Java, Jenkins, Jenkins Pipelines
 - Slack channel for technical discussion: `#keptn-integrations`
+- Project size: 175 hours
+- Difficulty: Medium
 - Potential mentor(s): Oleg Nenashev
 
  <a name="keptn-documentation-website"></a>
 ### New Documentation site engine
 
-The current authoring and build tools have serious deficiencies:
-- No support for versioning, so we do a lot of copy/paste to preserve old versions of the documentation.  This causes xref issues from other docs that link into the documentation.
+Currently the Keptn documentation site is based on Markdown and [Hugo](https://gohugo.io/).
+For tutorials, [Codelabs](https://github.com/googlecodelabs/tools) is also used.
+While extremely handy for smaller projects and initial versions of Keptn,
+this toolchain have serious deficiencies for the larger scale projects like Keptn:
+
+- No documents aggregation from multiple repositories.
+  It prevents the community from using the [Documentation as Code](https://www.writethedocs.org/guide/docs-as-code/) approach when documentation is stored and modified along
+  with production code in its repositories.
+- No support for versioning, so we do a lot of copy/paste to preserve old versions of the documentation.
+  This also causes issues with external references from other docs that link into the documentation.
 - Current tools do not support shared text between different docs
-- markdown's xref'ing capabilities are weak
+- Markdown's xref'ing capabilities are weak
 [3:33](https://keptn.slack.com/archives/D031MN1V509/p1645702412450219)
 - markdown's support of inline comments  is weak
+
 We suggest using [Antora](https://antora.org/) that is specifically designed for managing documentation at scale
 and convert the documentation source to Asciidoctor.
 Antora provides limited support for Markdown source but markdown itself has deficiencies for a full documentation set.
@@ -144,4 +162,6 @@ Summary:
 - More info: [keptn.github.io issues#994](https://github.com/keptn/keptn.github.io/issues/994)
 - Discussion channel: `#keptn-docs`
 - Areas to study/improve: JavaScript, Antora, Asciidoctor/Markdown, GitHub Actions, Pandoc, Netlify
+- Project size: 175 or 350 hours, depending on the scope
+- Difficulty: Easy/Medium
 - Potential mentor(s): Meg McRoberts, Oleg Nenashev
