@@ -29,6 +29,7 @@ There are also some resources stored in this repository or elsewhere:
 * [Keptn Project Infrastructure](./project-infrastructure/) - 
   Documentation and notes regarding the project infrastructure being used by the project:
   website, delivery infrastructure, repositories and services, etc.
+* [Keptn incubation in the CNCF](./cncf/incubation/) - Materials related to Keptn application for the incubation in the Cloud Native Computing Foundation.
 
 ## Contributing
 
