@@ -29,7 +29,7 @@ Particular details are to be discussed in the project chat with potential mentor
 - Areas to study/improve: Golang, Kubernetes, Operators, Configuration Management
 - Project size: 175 or 350 hours, depending on the scope
 - Difficulty: Medium/High
-- Potential mentor(s): Thomas Schuetz, Oleg Nenashev
+- Potential mentor(s): Thomas Schuetz, Oleg Nenashev, Suraj Banakar
 
 <a name="keptn-backstage-plugin"></a>
 ### Keptn Plugin for Backstage
@@ -164,4 +164,4 @@ Summary:
 - Areas to study/improve: JavaScript, Antora, Asciidoctor/Markdown, GitHub Actions, Pandoc, Netlify
 - Project size: 175 or 350 hours, depending on the scope
 - Difficulty: Easy/Medium
-- Potential mentor(s): Meg McRoberts, Oleg Nenashev
+- Potential mentor(s): Meg McRoberts, Oleg Nenashev, Suraj Banakar
