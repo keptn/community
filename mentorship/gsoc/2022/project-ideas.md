@@ -13,6 +13,7 @@ in GSoC are avaialble on [this page](../README.md)
 - [Integration Service for k6](#keptn-k6-integration)
 - [Jenkins Pipeline Executor Service](#keptn-jenkins-integration)
 - [New Documentation site engine](#keptn-documentation-website)
+- [Interactive Katacoda Playground for `keptn` scenarios](#keptn-katacoda-playground)
 
 <a name="keptn-gitops"></a>
 ### GitOps for Keptn
@@ -165,3 +166,27 @@ Summary:
 - Project size: 175 or 350 hours, depending on the scope
 - Difficulty: Easy/Medium
 - Potential mentor(s): Meg McRoberts, Oleg Nenashev, Suraj Banakar
+
+<a name="keptn-katacoda-playground"></a>
+### Interactive Katacoda Playground for `keptn` scenarios
+
+Katacoda is an Interactive Learning and Training Platform for Software Engineers to help learn new technologies using real environments right in the browser.
+It helps empowering developers to learn the technologies such as Kubernetes, Machine Learning and cloud platforms using self-paced labs.
+It shares knowledge with customised content and labs to demonstrate internal tooling, patterns and practices.
+
+We already have nice tutorials, you can find it from here [keptn-tutorials](https://tutorials.keptn.sh/tutorials)
+But it lacks real time scenarios, we can extend this tutorial to provide users with the consequences of the use cases from the keptn project in real-time through Katacoda Playground.
+
+Potential use-cases that could be addressed in the project:
+
+-  With the support of Katacoda platform, each tutorial of `keptn` can be created and visualised smoothly.
+   It would be nice if various kubernetes clusters can be integrated in the playground e.g. k3s, k3d, gke cluster etc.
+-  Developer/Contributor playground for the keptn tutorial, in collaboration with the documentation/tutorial contributors.
+
+Summary:
+
+- Areas to study/improve: Markdown, Scripting, Kubernetes, Prometheus
+- Slack channel for technical discussion: `#keptn-docs`
+- Project size: 175 hours
+- Difficulty: Medium
+- Potential mentor(s): Oleg Nenashev, Afzal Ansari
