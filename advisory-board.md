@@ -1,5 +1,8 @@
 # Keptn Advisory Board
 
+> :warning: This document is a **draft**.
+> The charter is yet to be approved by the community.
+
 _Keptn Advisory Board_ is a group of high-profile industry members and visionaries
 who support the Keptn project and advice on its direction.
 The advisory board meets every quarter to discuss the Keptn evolution,
