@@ -21,7 +21,7 @@ See also the community page on [**keptn.sh/community**](https://keptn.sh/communi
 ## Roles and Groups
 
 * [Community Membership Ladder](./COMMUNITY_MEMBERSHIP.md) - Community membership: roles, responsibilities and application guidelines.
-* [Keptn Advisory Board](./advisory-board.md) - 
+* [Keptn Advisory Board](./governance/advisory-board.md) - 
 group of industry leaders and visionaries that provide advice to the Keptn project.
 * [Community Rockstars](./community-rockstar.md) -
 Award for top Keptn contributors and advocates,
