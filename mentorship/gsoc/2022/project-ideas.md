@@ -50,7 +50,7 @@ e.g. implemented on the top of the Cloud Events / CDEvents standard.
 - Slack channel for technical discussion: `#wg-backstage-integrations`
 - Areas to study/improve: Golang, JavaScript, React, Backstage
 - Project size: 175 hours
-- Potential mentor(s): Oleg Nenashev, Dmitry Meytin
+- Potential mentor(s): Oleg Nenashev, Dmitry Meytin, Afzal Ansari
 
 <a name="keptn-github-integration"></a>
 ### Improve GitHub Integration in Keptn
@@ -121,7 +121,7 @@ Summary:
 - Slack channel for technical discussion: `#keptn-integrations`
 - Project size: 175 hours
 - Difficulty: Medium
-- Potential mentor(s): Oleg Nenashev
+- Potential mentor(s): Oleg Nenashev, Afzal Ansari
 
  <a name="keptn-documentation-website"></a>
 ### New Documentation site engine
