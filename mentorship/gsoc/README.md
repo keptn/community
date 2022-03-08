@@ -75,4 +75,4 @@ During the organization application phase,
 we defined the top level framework about the GSoC framework in the Keptn organization.
 See [this document](https://docs.google.com/document/d/1MV7Y-_7vwgWfKwjDUemk_OOhQSt7qrp9RG9LSAQGGSE/edit?usp=sharing) for the details
 we submitted to Google during the application.
-Feel free toi ask on the `#gsoc` Slack channel if you have any questions.
+Feel free to ask on the `#gsoc` Slack channel if you have any questions.
