@@ -94,7 +94,7 @@ Additionally improvement could be that k6 send testing metrics to Prometheus in 
 
 
 - Areas to study/improve: Golang, k6, performance testing, Prometheus
-- Slack channel for technical discussion: `#keptn-integrations`
+- Slack channel for technical discussion: `#wg-k6-integrations`
 - Project size: 175 hours
 - Difficulty: Easy/Medium
 - Potential mentor(s): Pepe Cano (k6)
