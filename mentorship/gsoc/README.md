@@ -13,10 +13,10 @@ to help integrate them into the open source community and succeed in completing 
 ## GSoC 2022
 
 Keptn participates in Google Summer of Code 2022!
-We invite all pontential mentors and contributios to join us and to have a great experience this summer.
+We invite all potential mentors and contributors to join us and to have a great experience this summer.
 Our goal is to have great learning experiences for all participants.
 We'll work together on strategic initiatives from the [Keptn Roadmap](https://github.com/orgs/keptn/projects/1)
-and on new integrations highly ancitipated by Keptn users.
+and on new integrations highly anticipated by Keptn users.
 
 - [2022 Project ideas](./2022/project-ideas.md)
 - [Google Summer of Code website](https://summerofcode.withgoogle.com/)
