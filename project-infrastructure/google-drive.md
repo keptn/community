@@ -14,6 +14,11 @@ Private folders are not advised for non-sensitive content,
 but they may be created if there is a reason for that.
 Same for the documents with disabled comments.
 
+To restrict privileges for a document,
+open the document and select **Share**
+then select **Change** on the lower left of the pop-up.
+You can modify who can access the doc and what sort of access they have by default.
+
 ## Getting write access
 
 All Keptn contributors and community members can get access.
