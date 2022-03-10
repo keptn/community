@@ -23,7 +23,8 @@ You can modify who can access the doc and what sort of access they have by defau
 
 All Keptn contributors and community members can get access.
 Ask in `#keptn-project` or submit a ticket in this repository with a justification.
-You will also need to provide email of a Google or Google Workspace compatible account so that the 
+You will also need to provide email of a Google or Google Workspace compatible account so that 
+we could grant you access.
 
 ## Owners
 
