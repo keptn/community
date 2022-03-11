@@ -4,15 +4,15 @@ Project brand assets and guidelines for Keptn.
 
 ## Logos
 
-| Name                         | Logo                                           | Format |
-| ---------------------------- | ---------------------------------------------- | ------ |
-| `keptn-logo-square.svg`      | <img src="./logos/keptn-logo-square.svg">      | SVG    |
-| `keptn-logo.svg`             | <img src="./logos/keptn-logo.svg">             | SVG    |
-| `keptn-small.png`            | <img src="./logos/keptn-small.png">            | PNG    |
-| `keptn-transparent.png`      | <img src="./logos/keptn-transparent.png">      | PNG    |
-| `keptn-white.png`            | <img src="./logos/keptn-white.png">            | PNG    |
-| `keptn_icon.svg`             | <img src="./logos/keptn_icon.svg">             | SVG    |
-| `keptn_icon_transparent.svg` | <img src="./logos/keptn_icon_transparent.svg"> | SVG    |
+| Name                         | Logo                                                       | Format |
+| ---------------------------- | ---------------------------------------------------------- | ------ |
+| `keptn-logo-square.svg`      | <img src="./logos/keptn-logo-square.svg" width="160">      | SVG    |
+| `keptn-logo.svg`             | <img src="./logos/keptn-logo.svg" width="160">             | SVG    |
+| `keptn-small.png`            | <img src="./logos/keptn-small.png" width="160">            | PNG    |
+| `keptn-transparent.png`      | <img src="./logos/keptn-transparent.png" width="160">      | PNG    |
+| `keptn-white.png`            | <img src="./logos/keptn-white.png" width="160">            | PNG    |
+| `keptn_icon.svg`             | <img src="./logos/keptn_icon.svg" width="160">             | SVG    |
+| `keptn_icon_transparent.svg` | <img src="./logos/keptn_icon_transparent.svg" width="160"> | SVG    |
 
 Against dark backgrounds, use the white versions of the logo and the wordmark.
 
