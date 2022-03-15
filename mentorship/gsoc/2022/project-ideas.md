@@ -13,7 +13,7 @@ in GSoC are avaialble on [this page](../README.md)
 - [Integration Service for k6](#keptn-k6-integration)
 - [Jenkins Pipeline Executor Service](#keptn-jenkins-integration)
 - [New Documentation site engine](#keptn-documentation-website)
-- [Interactive Katacoda Playground for `keptn` scenarios](#keptn-katacoda-playground)
+- [Interactive Katacoda Playground for `keptn`](#keptn-katacoda-playground)
 
 <a name="keptn-gitops"></a>
 ### GitOps for Keptn
@@ -40,7 +40,7 @@ As the website states, "powered by a centralized software catalog,
 Backstage restores order to your infrastructure and enables your product teams
 to ship high-quality code quickly — without compromising autonomy".
 It would be nice to provide Keptn integration for this portal
-so that Keptn can connected as many other tools. See all [Backstage Plugins](https://backstage.io/plugins).
+so that Keptn can connect as many as other tools. See all [Backstage Plugins](https://backstage.io/plugins).
 
 A Possible solution could be a specialized plugin for Keptn using Keptn REST API and/or CLI.
 It might be also possible to create a unified plugin for Keptn and other CI/CD tools, 
@@ -50,7 +50,7 @@ e.g. implemented on the top of the Cloud Events / CDEvents standard.
 - Slack channel for technical discussion: `#wg-backstage-integrations`
 - Areas to study/improve: Golang, JavaScript, React, Backstage
 - Project size: 175 hours
-- Potential mentor(s): Oleg Nenashev, Dmitry Meytin
+- Potential mentor(s): Oleg Nenashev, Dmitry Meytin, Afzal Ansari
 
 <a name="keptn-github-integration"></a>
 ### Improve GitHub Integration in Keptn
@@ -121,7 +121,7 @@ Summary:
 - Slack channel for technical discussion: `#keptn-integrations`
 - Project size: 175 hours
 - Difficulty: Medium
-- Potential mentor(s): Oleg Nenashev
+- Potential mentor(s): Oleg Nenashev, Afzal Ansari
 
  <a name="keptn-documentation-website"></a>
 ### New Documentation site engine
@@ -168,24 +168,24 @@ Summary:
 - Potential mentor(s): Meg McRoberts, Oleg Nenashev, Suraj Banakar
 
 <a name="keptn-katacoda-playground"></a>
-### Interactive Katacoda Playground for `keptn` scenarios
+### Interactive Katacoda Playground for `keptn`
 
 Katacoda is an Interactive Learning and Training Platform for Software Engineers to help learn new technologies using real environments right in the browser.
 It helps empowering developers to learn the technologies such as Kubernetes, Machine Learning and cloud platforms using self-paced labs.
 It shares knowledge with customised content and labs to demonstrate internal tooling, patterns and practices.
 
 We already have nice tutorials, you can find it from here [keptn-tutorials](https://tutorials.keptn.sh/tutorials)
-But it lacks real time scenarios, we can extend this tutorial to provide users with the consequences of the use cases from the keptn project in real-time through Katacoda Playground.
+But it lacks the real time scenarios, we can extend this tutorial to provide users with the consequences of the use cases from the keptn project in real environment through Katacoda Playground.
 
 Potential use-cases that could be addressed in the project:
 
 -  With the support of Katacoda platform, each tutorial of `keptn` can be created and visualised smoothly.
-   It would be nice if various kubernetes clusters can be integrated in the playground e.g. k3s, k3d, gke cluster etc.
+   It would be nice if various kubernetes clusters can be integrated in the playground e.g. k3s, k3d, etc.
 -  Developer/Contributor playground for the keptn tutorial, in collaboration with the documentation/tutorial contributors.
 
 Summary:
 
-- Areas to study/improve: Markdown, Scripting, Kubernetes, Prometheus
+- Areas to study/improve: Markdown, Shell Scripting, Kubernetes, Prometheus
 - Slack channel for technical discussion: `#keptn-docs`
 - Project size: 175 hours
 - Difficulty: Medium
