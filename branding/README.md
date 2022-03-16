@@ -13,6 +13,8 @@ Project brand assets and guidelines for Keptn.
 | `keptn-white.png`            | <img src="./logos/keptn-white.png" width="160">            | PNG    |
 | `keptn_icon.svg`             | <img src="./logos/keptn_icon.svg" width="160">             | SVG    |
 | `keptn_icon_transparent.svg` | <img src="./logos/keptn_icon_transparent.svg" width="160"> | SVG    |
+| `keptn-icon-transparent.png` | <img src="./logos/keptn-icon-transparent.png" width="160"> | PNG    |
+
 
 Against dark backgrounds, use the white versions of the logo and the wordmark.
 
