@@ -165,7 +165,7 @@ Summary:
 - Areas to study/improve: JavaScript, Antora, Asciidoctor/Markdown, GitHub Actions, Pandoc, Netlify
 - Project size: 175 or 350 hours, depending on the scope
 - Difficulty: Easy/Medium
-- Potential mentor(s): Meg McRoberts, Oleg Nenashev, Suraj Banakar
+- Potential mentor(s): Meg McRoberts, Oleg Nenashev, Suraj Banakar, Indermohan Singh
 
 <a name="keptn-katacoda-playground"></a>
 ### Interactive Katacoda Playground for `keptn`
