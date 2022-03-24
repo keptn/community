@@ -1,15 +1,20 @@
-# GSoD Project Ideas - Keptn
+# Keptn in GSoD 2022 - Project description
 
-This document presents Google Season of Docs project ideas
+This document presents the Google Season of Docs project
 which Keptn contributors have proposed for this year.
 Application guidelines and more information about Keptn
-in GSoD are avaialble on [this page](../README.md)
+in GSoD are available on [this page](../README.md).
 
-## 2022 Project Ideas
+## 2022 Project Idea
 
-- [Documentation assessment](#keptn-docs-assessment) 
+### Re-architecting and improving Keptn user documentation
 
-<a name="keptn-docs-assessment"></a>
+> Final idea will be published soon.
+> It will be a combination of ideas documented
+> [here](https://docs.google.com/document/d/154zrnkUdUhyWyDB-Gs123JvbiYPb-zQDLaV2Oe0PC8A/edit#heading=h.ckoz6t2d3tab).
+
+## Alternative project ideas
+
 ### Documentation assessment
 
 This project would assess the Keptn documentation, to help us come with a plan for improving our documentation. In particular, we're looking for someone to look at the content organization, the clarity of the language and concepts, and to make sure it's as readable as possible for both implementors and end users.
