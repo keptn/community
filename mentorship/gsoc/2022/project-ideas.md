@@ -3,7 +3,7 @@
 This document presents Google Summer of Code project ideas
 which Keptn contributors have proposed for this year.
 Application guidelines and more information about Keptn
-in GSoC are avaialble on [this page](../README.md)
+in GSoC are available on [this page](../README.md)
 
 ## 2022 Project Ideas
 
