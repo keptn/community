@@ -25,6 +25,10 @@ interested in contributing to the project's documentation.
    [here](https://keptn.sh/community/contributing/#contributing-to-keptn-documentation).
 4. Work with the community on scoping the project and preparing the project plan.
 
-## Other documentation
+## How does GSoD work in Keptn?
 
-- [GSoD 2020 application](https://docs.google.com/document/d/154zrnkUdUhyWyDB-Gs123JvbiYPb-zQDLaV2Oe0PC8A/edit?usp=sharing)
+During the organization application phase,
+we define the top-level framework about the GSoD framework in the Keptn organization.
+See [this document](https://docs.google.com/document/d/154zrnkUdUhyWyDB-Gs123JvbiYPb-zQDLaV2Oe0PC8A/edit#heading=h.pk727mf7rc6y) for the details
+we submitted to Google during the application.
+Feel free to ask on the `#keptn-docs` Slack channel if you have any questions.
