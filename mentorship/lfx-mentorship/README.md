@@ -8,8 +8,8 @@ The Keptn community can host mentorship and outreach programs using
 
 ## Scope
 
-We can run projects there on ad-hoc basis,
-barring we have mentors and budgets available.
+We can run LFX Mentorship projects on an ad-hoc basis,
+assuming we have mentors and budgets available.
 The projects may be focused on any area of open source contributions:
 code, documentation, test automation, advocacy, community management, etc.
 
