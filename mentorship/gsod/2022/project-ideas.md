@@ -9,7 +9,7 @@ in GSoD are available on [this page](../README.md).
 
 During GSoC 2022 we will run either one large-size project or two small-size ones.
 You will work with the static Keptn website and the documentation engine based on the modern technology stack.
-Currently, we use Hugo for the website and Docs, and Google Codelabs for tutorials.
+Currently, we use Hugo to build the website and documentation; and Google Codelabs to build the tutorials.
 We plan to adopt either Docusaurus or Antora as a new documentation platform during Google Summer of Code 2022.
 ([project idea](https://github.com/keptn/community/blob/main/mentorship/gsoc/2022/project-ideas.md#new-documentation-site-engine)).
 Technical writers in this project will be able to work with one of these technologies while
@@ -23,9 +23,9 @@ Technical writers should focus on 2-3 deliverables from the list below:
   This deliverable will update or replace the existing documentation.
 - New example projects that demonstrate key Keptn capabilities to newcomer users and potential adopters.
   This deliverable will update or replace the existing documentation and tutorials.
-- Restructure existing documentation to user and administrator guidelines
+- Restructure existing guides and explanatory documentation into user, administrator,
   and developer guides.
-- Reference pages for key information and concepts that are not specific to Keptn versions.
+- Reference pages for key information and concepts that are appropriate for all Keptn versions.
 
 ### Details for each deliverable
 
@@ -46,7 +46,7 @@ Include information for verifying each step and some troubleshooting information
 #### New example projects
 
 Create 5-6 projects that introduce key Keptn capabilities for the Keptn curious to explore. 
-We have a number of existing tutorials to use as starters or inspiration. 
+We have some existing tutorials to use as starters or inspiration. 
 Note that many of the existing tutorials use the [sockshop project](https://github.com/keptn-demo/sockshop) as a base;
 and some updates will be needed there.
 
@@ -60,7 +60,7 @@ Each project should include:
 
 We want to introduce separate documentation for different Keptn user roles: 
 administrators, end-users, and developers.
-We suggest to work together to regroup the content so that the new structure is introduced.
+We suggest working together to regroup the content so that the new structure is introduced.
 
 #### New reference pages
 
@@ -73,7 +73,7 @@ Same for other standard documentation independent from the version.
 Set a standard for what information belongs in a “Concepts” article versus
 what belongs in reference pages or guides that are currently
 located in the version-specific sections of the documentation.
-Then modify the existing Concepts articles to conform to this standard and create Concepts articles for appropriate concepts that
+Then modify the existing Concepts articles to conform to this standard and create Concepts articles for appropriate topics that
 are discussed in existing guides or elsewhere
 (such as README files in the software repos or existing Keptn videos).
 
@@ -81,7 +81,7 @@ Creating missing guides is not part of this project
 
 ## Alternative project ideas
 
-We also discussed a number of alternative project ideas that can be considered.
+We also discussed several alternative project ideas that can be considered.
 
 ### Documentation assessment
 
@@ -104,5 +104,5 @@ For some preliminary notes about what is currently there and issues, see
 
 ### More ideas
 
-For ideas that didn't make it to this list,
+For a list of potential projects that are not included in this list,
 see [this document](https://docs.google.com/document/d/154zrnkUdUhyWyDB-Gs123JvbiYPb-zQDLaV2Oe0PC8A/edit#heading=h.ckoz6t2d3tab).
