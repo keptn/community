@@ -32,8 +32,10 @@ that is given on a quarterly basis.
 There are also some resources stored in this repository or elsewhere:
 
 * [Community Roadmap](https://github.com/orgs/keptn/projects/1?card_filter_query=label%3Acommunity) - Major community initiatives
-  as a part of the Keptn roadmap
-* [Artwork](./logos) - Keptn logos and artwork
+  as a part of the Keptn roadmap.
+* [Mentorship and Outreach programs](./mentorship/README.md) -
+  programs we participate in. 
+* [Artwork](./logos) - Keptn logos and artwork.
 * [Keptn Project Infrastructure](./project-infrastructure/) - 
   Documentation and notes regarding the project infrastructure being used by the project:
   website, delivery infrastructure, repositories and services, etc.
