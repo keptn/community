@@ -35,3 +35,8 @@ Against dark backgrounds, use the white versions of the logo and the wordmark.
 > For some other Open Graph Images, [Canva](https://www.canva.com/en_gb/) is used.
 > If you would like to get access or get an image created,
 > contact [Giulia Di Pietro](https://github.com/Giulia-dipietro) or [Oleg Nenashev](https://github.com/oleg-nenashev/).
+
+## Emoji
+
+We use custom Keptn emoji on Slack and other channels.
+Some of the emojis are available [here](./emoji).
