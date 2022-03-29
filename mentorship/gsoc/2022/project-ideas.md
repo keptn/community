@@ -10,6 +10,7 @@ in GSoC are available on [this page](../README.md)
 - [GitOps for Keptn](#keptn-gitops) 
 - [Keptn Plugin for Backstage](#keptn-backstage-plugin)
 - [Improve GitHub Integration in Keptn](#keptn-github-integration)
+- [Integration for GitOps-based Deployment Tools](#keptn-gitops-integration)
 - [Integration Service for k6](#keptn-k6-integration)
 - [Jenkins Pipeline Executor Service](#keptn-jenkins-integration)
 - [New Documentation site engine](#keptn-documentation-website)
@@ -71,7 +72,7 @@ Potential use-cases that could be addressed in the project:
    See [Keptn Issue #2670](https://github.com/keptn/keptn/issues/2670) for more details.
 -  **Reporting application statuses to Deployments API**.
    It would be nice if Keptn could report deployment status to GitHub when performing Deployment and auto-remediation sequences.
--  **Reporting Serview Level Objectives(SLOs) and quality gate evaluation results to Checks API**.
+-  **Reporting Service Level Objectives(SLOs) and quality gate evaluation results to Checks API**.
    If Keptn quality gate evaluation is triggered from a GitHub branch/pull request (e.g. staging or preview environment deployment in GitHub Actions based CI/CD),
    it would be nice if Keptn coud report evaluation summaries to the [Checks API](https://docs.github.com/en/rest/reference/checks) 
 
@@ -82,6 +83,16 @@ Summary:
 - Project size: 175 or 350 hours, depending on the scope
 - Difficulty: Medium/High
 - Potential mentor(s): Oleg Nenashev, Brad McCoy
+
+<a name="keptn-gitops-integration"></a>
+### Integration for GitOps-based Deployment Tools (e.g. ArgoCD/Flux)
+[Flux](https://fluxcd.io/) and [ArgoCD](https://argoproj.github.io/cd) are tools which are widely used to deploy cloud native applications in a GitOps way. As such, it would bring a very huge benefit to the ecosystem to find a way how such GitOps tools could be integrated into keptn and return deployment states after the state has been synced. This project would be done in collaboration with flux and keptn maintainers.
+
+- Areas to study/improve: Golang, argocd, flux, deployment, gitops
+- Slack channel for technical discussion: `#keptn-integrations`
+- Project size: 175 hours
+- Difficulty: Medium
+- Potential mentor(s): Thomas Schuetz, Scott Rigby (Weave/Flux)
 
 <a name="keptn-k6-integration"></a>
 ### Integration service for k6
