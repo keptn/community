@@ -86,13 +86,13 @@ Summary:
 
 <a name="keptn-gitops-integration"></a>
 ### Integration for GitOps-based Deployment Tools (e.g. ArgoCD/Flux)
-[Flux](https://fluxcd.io/) and [ArgoCD](https://argoproj.github.io/cd) are tools which are widely used to deploy cloud native applications in a GitOps way. As such, it would bring a very huge benefit to the ecosystem to find a way how such GitOps tools could be integrated into keptn and return deployment states after the state has been synced.
+[Flux](https://fluxcd.io/) and [ArgoCD](https://argoproj.github.io/cd) are tools which are widely used to deploy cloud native applications in a GitOps way. As such, it would bring a very huge benefit to the ecosystem to find a way how such GitOps tools could be integrated into keptn and return deployment states after the state has been synced. This project would be done in collaboration with flux and keptn maintainers.
 
 - Areas to study/improve: Golang, argocd, flux, deployment, gitops
 - Slack channel for technical discussion: `#keptn-integrations`
 - Project size: 175 hours
 - Difficulty: Medium
-- Potential mentor(s): Thomas Schuetz
+- Potential mentor(s): Thomas Schuetz, Scott Rigby (Weave/Flux)
 
 <a name="keptn-k6-integration"></a>
 ### Integration service for k6
