@@ -72,7 +72,7 @@ Potential use-cases that could be addressed in the project:
    See [Keptn Issue #2670](https://github.com/keptn/keptn/issues/2670) for more details.
 -  **Reporting application statuses to Deployments API**.
    It would be nice if Keptn could report deployment status to GitHub when performing Deployment and auto-remediation sequences.
--  **Reporting Serview Level Objectives(SLOs) and quality gate evaluation results to Checks API**.
+-  **Reporting Service Level Objectives(SLOs) and quality gate evaluation results to Checks API**.
    If Keptn quality gate evaluation is triggered from a GitHub branch/pull request (e.g. staging or preview environment deployment in GitHub Actions based CI/CD),
    it would be nice if Keptn coud report evaluation summaries to the [Checks API](https://docs.github.com/en/rest/reference/checks) 
 
