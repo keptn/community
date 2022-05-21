@@ -7,6 +7,9 @@ Season of Docs provides support for open source projects to improve their docume
 
 ## GSoD 2022
 
+> :warning: The Keptn project was not accepted to GSoD 2022.
+> We will try again next time!
+
 - [2022 Projects](./2022/project-ideas.md)
 - [Google Season of Docs website](https://developers.google.com/season-of-docs)
 - [GSoD Timeline](https://developers.google.com/season-of-docs/docs/timeline)

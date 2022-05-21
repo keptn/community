@@ -13,10 +13,19 @@ to help integrate them into the open source community and succeed in completing 
 ## GSoC 2022
 
 Keptn participates in Google Summer of Code 2022!
-We invite all potential mentors and contributors to join us and to have a great experience this summer.
+We invite contributors to join us and to have a great experience this summer.
 Our goal is to have great learning experiences for all participants.
 We'll work together on strategic initiatives from the [Keptn Roadmap](https://github.com/orgs/keptn/projects/1)
-and on new integrations highly anticipated by Keptn users.
+and new integrations highly anticipated by Keptn users.
+
+### GSoC 2022 projects
+
+- Eric Y. Kim - [Entity Custom Resource Definitions for Keptn GitOps](./2022/projects/gitops-entity-CRDs/README.md)
+- Jainam Shah - [Integration Service for K6](./2022/projects/k6-integration-service/README.md)
+- Meha Bhalodiya - [Integration(s) for GitOps-based deployment tools (e.g. ArgoCD/Flux)](./2022/projects/gitops-deployment-tools-integration/README.md)
+- Rajiv Ranjan Singh - [New Documentation Site Engine](./2022/projects/new-docs-site-engine/README.md)
+
+### References
 
 - [2022 Project ideas](./2022/project-ideas.md)
 - [Google Summer of Code website](https://summerofcode.withgoogle.com/)
