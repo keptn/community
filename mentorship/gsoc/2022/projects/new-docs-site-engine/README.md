@@ -12,7 +12,7 @@ The new Documentation Site engine will be based on Docusaurus.
 Docusaurus is an optimized site generator in React. Docusaurus helps you to move fast and write content.
 Build documentation websites, blogs, marketing pages, and more.
 The main focus of Keptn New Documentation Site Engine will be managing large-scale documentation and complex documentation projects.
-So two major things which are needed in the documentation engine are Multiple repository docs support and Versioning of Docs support.
+So two major things which are needed in the documentation engine are  the ability to build documentation from source located in multiple repositories and support for  documentation versioning.
 
 ## Project team
 

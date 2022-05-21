@@ -3,7 +3,7 @@ GSoC 2022 - K6 Integration Service
 
 K6 is an open-source tool widely used for load testing.
 With Keptn’s Quality gates, we can automate the process of evaluating the results of the test and also monitor them.
-Keptn already has support for JMeter, Locust, Litmus Chaos, and others.
+Keptn already supports JMeter, Locust, Litmus Chaos, and others.
 This project will enable users to use K6 for performance testing.
 Further goals include adding SLI and SLO compliance using Prometheus which K6 supports natively.
 
