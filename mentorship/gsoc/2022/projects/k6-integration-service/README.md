@@ -11,10 +11,10 @@ Further goals include adding SLI and SLO compliance using Prometheus which K6 su
 
 <!-- TODO: add GitHub and social media links here -->
 
-- Contributor: Jainam Shah
+- Contributor: Jainam Shah - [GitHub](https://github.com/jainammm/) | [LinkedIn](https://www.linkedin.com/in/jainammm/) | [Twitter](https://twitter.com/jvenommm)
 - Mentors:
-Pepe Cano,
-Adam Gardner
+  - Pepe Cano - [GitHub](https://github.com/ppcano/) | [LinkedIn](https://www.linkedin.com/in/ppcano/) | [Twitter](https://twitter.com/ppcano_)
+  - Adam Gardner - [GitHub](https://github.com/agardnerit/) | [LinkedIn](https://www.linkedin.com/in/agardner1/)
 
 ## Contacts
 
@@ -22,8 +22,21 @@ Adam Gardner
 
 ## Details
 
-TODO
+Support for K6 will help extend Keptn community users to switch/use it as performance testing tool. 
+K6 is considered to be a modern tool for DevOps like Keptn, so the community might be inclined towards using it. 
+
+Some of the features of K6 include: 
+* It has good resource utilization and one load generator can simulate tens of thousands of virtual users
+* It is code-driven, with JavaScript as scripting language
+* K6 has native support for Prometheus
+
+Thresholds in K6 are used for some specific pass/fail criteria. This feature is very commonly used. Based on passed/failed of Thresholds results, we'll return the state to the Keptn control plane.
+
+The K6 service will suscribe to the `sh.keptn.event.test.triggered` CloudEvent and execute the Load Testing. K6 will write the metrics to Prometheus for further step of SLO evaluation.
+
 
 ## References
 
-- [Project page on the GSoC website](https://summerofcode.withgoogle.com/programs/2022/projects/0xICJhw8)
+* [Project repository](https://github.com/keptn-sandbox/k6-service)
+* [Project page at GSoC website](https://summerofcode.withgoogle.com/programs/2022/projects/0xICJhw8)
+* [Project Meeting Minutes](https://docs.google.com/document/d/1A3gbtQ6-YOTpO3v_ltBgHWTODFt93zByHXWVJ6r0jcg/edit?usp=sharing)
