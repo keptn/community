@@ -8,9 +8,8 @@ via PRs to a configuration repository or manage them directly using the Kubernet
 
 ## Project team
 
-<!-- TODO: add GitHub and social media links here -->
+- Contributor: Eric Y. Kim - [GitHub](https://github.com/eyskim) | [LinkedIn](https://www.linkedin.com/in/eykim195/)
 
-- Contributor: Eric Y. Kim
 - Mentors:
 Thomas Schuetz,
 Suraj Banakar,
