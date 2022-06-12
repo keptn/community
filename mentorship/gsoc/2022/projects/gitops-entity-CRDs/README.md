@@ -43,7 +43,8 @@ As a result, in addition to bringing Keptn closer to achieving a GitOps workflow
 
 * [Project repository](https://github.com/keptn-sandbox/keptn-gitops-operator)
 * [Project page on the GSoC website](https://summerofcode.withgoogle.com/programs/2022/projects/yd9z3DBo)
-* [Project community meeting minutes](https://docs.google.com/document/d/11bA3hswCThFNZKFGFN5XMyPDvAjpVW3nBvzAw-CXSS4)
-* Project community meeting schedule (TO BE ADDED)
-* Project timeline (TO BE ADDED)
-* Related issues (TO BE ADDED)
+* [Project daily asynchronous standups](https://github.com/keptn-sandbox/keptn-gitops-operator/wiki/GSoC-22:-Entity-CRDs-Asynchronous-Daily-Standups)
+* [Project community calendar](https://calendar.google.com/calendar/u/0/embed?src=dynatrace.com_abjrh1ukf18ih477tb1ekag2ag@group.calendar.google.com)
+    * [Project bi-weekly meeting minutes](https://docs.google.com/document/d/11bA3hswCThFNZKFGFN5XMyPDvAjpVW3nBvzAw-CXSS4)
+    * Project bi-weekly meeting recordings (TO BE ADDED)
+* [Project timeline & issues](https://github.com/keptn-sandbox/keptn-gitops-operator/projects/1)
