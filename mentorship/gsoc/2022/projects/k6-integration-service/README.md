@@ -34,9 +34,15 @@ Thresholds in K6 are used for some specific pass/fail criteria. This feature is 
 
 The K6 service will suscribe to the `sh.keptn.event.test.triggered` CloudEvent and execute the Load Testing. K6 will write the metrics to Prometheus for further step of SLO evaluation.
 
+## Project Resources
+
+* [Repository](https://github.com/keptn-sandbox/k6-service)
+* [SCRUM Board](https://github.com/keptn-sandbox/k6-service/projects)
+* Meeting Schedule
+  * Every Thursday @ 8:30 UTC
+  * [Zoom Link](https://dynatrace.zoom.us/j/96378132758?pwd=Z0NRbXhxNlJiSjRqMkd5cmlLWEJMUT09)
+* [Meeting Minutes](https://docs.google.com/document/d/1A3gbtQ6-YOTpO3v_ltBgHWTODFt93zByHXWVJ6r0jcg/edit?usp=sharing)
 
 ## References
 
-* [Project repository](https://github.com/keptn-sandbox/k6-service)
 * [Project page at GSoC website](https://summerofcode.withgoogle.com/programs/2022/projects/0xICJhw8)
-* [Project Meeting Minutes](https://docs.google.com/document/d/1A3gbtQ6-YOTpO3v_ltBgHWTODFt93zByHXWVJ6r0jcg/edit?usp=sharing)
