@@ -36,4 +36,4 @@ TODO
 - [Contributor GSoC 2022 repository](https://github.com/iamrajiv/GSoC-2022)
 - [Detailed GSoC 2022 Project Proposal](https://github.com/iamrajiv/GSoC-2022/blob/main/GSoC_2022_Project_Proposal.md)
 - [Project page at GSoC 2022 website](https://summerofcode.withgoogle.com/programs/2022/projects/whEHkPZx)
-- [Project timeline & issues](https://github.com/keptn-sandbox/new-keptn-docs-engine/issues)
+- [Project timeline & issues](https://github.com/keptn-sandbox/new-keptn-docs-engine/projects/1)
