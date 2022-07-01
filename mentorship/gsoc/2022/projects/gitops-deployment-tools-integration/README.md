@@ -16,8 +16,8 @@ This project would be done in collaboration with Flux and Keptn maintainers.
 
 - Contributor: Meha Bhalodiya - [GitHub](https://github.com/mehabhalodiya) | [LinkedIn](https://www.linkedin.com/in/meha-bhalodiya) | [Twitter](https://twitter.com/mehabhalodiya)
 - Mentors:
-Thomas Schuetz,
-Brad McCoy
+    - Brad McCoy - [GitHub](https://github.com/bradmccoydev) | [LinkedIn](https://www.linkedin.com/in/bradmccoy3/) | [Twitter](https://twitter.com/bradmccoydev)
+    - Thomas Schuetz - [GitHub](https://github.com/thschue) | [LinkedIn](https://www.linkedin.com/in/thschue/) | [Twitter](https://twitter.com/ThSchue)
 
 ## Contacts
 
@@ -34,6 +34,11 @@ testing strategy. Furthermore, it would allow users to use keptn without touchin
 
 ## References
 
-* [Project page at GSoC website](https://summerofcode.withgoogle.com/programs/2022/projects/yHHRfVz2)
+* [Enhancement Proposal](https://github.com/keptn/enhancement-proposals/pull/67)
+* [Contributor Proposal link](https://summerofcode.withgoogle.com/media/user/65ca49188539/proposal/YpTCUfY7GMjmzk7w.pdf)
+* [Project page at GSoC 2022 website](https://summerofcode.withgoogle.com/programs/2022/projects/yHHRfVz2)
+* [GitHub Project Board (timeline & issues)](https://github.com/keptn-sandbox/keptn-flux-integration/projects/1)
+* [Meeting Notes & Updates](https://docs.google.com/document/d/1AWTQdsJPJpZUgmY3qJ-QHewHvEukt7aHQTOJtnYsxVQ/edit?usp=sharing)
+* [Keptn GitOps support for Flux: issue link](https://github.com/keptn/integrations/issues/28)
 * [Project repository](https://github.com/keptn-sandbox/keptn-flux-integration)
 * [Contributor repository](https://github.com/mehabhalodiya/GSoC-22) 
