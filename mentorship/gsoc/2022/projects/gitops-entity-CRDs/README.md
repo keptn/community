@@ -46,5 +46,5 @@ As a result, in addition to bringing Keptn closer to achieving a GitOps workflow
 * [Project daily asynchronous standups](https://github.com/keptn-sandbox/keptn-gitops-operator/wiki/GSoC-22:-Entity-CRDs-Asynchronous-Daily-Standups)
 * [Keptn community calendar](https://calendar.google.com/calendar/u/0/embed?src=dynatrace.com_abjrh1ukf18ih477tb1ekag2ag@group.calendar.google.com)
     * [Project weekly meeting minutes](https://docs.google.com/document/d/11bA3hswCThFNZKFGFN5XMyPDvAjpVW3nBvzAw-CXSS4)
-    * Project weekly meeting recordings (TO BE ADDED)
+    * [Project weekly meeting recordings](https://www.youtube.com/playlist?list=PL6i801Rjt9DaX77b9w_Sn9aIaisRZdbNi)
 * [Project timeline & issues](https://github.com/keptn-sandbox/keptn-gitops-operator/projects/1)
