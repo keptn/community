@@ -288,7 +288,7 @@ I am deeply grateful to my mentors [Indermohan Singh](https://github.com/imsingh
 ## References
 
 - [Contributor GSoC 2022 repository](https://github.com/iamrajiv/GSoC-2022)
-- [Contributor Proposal link](https://summerofcode.withgoogle.com/media/user/f68762051013/proposal/gAAAAABjGvyZjqW5uiTvSpQ-s46PD6X5k6KtZzJ-9x-PSrVRbNh-4k_mTfVrlZgMKJ7iLBYynUjHJ2pahKD4Su86Xch-Caej8cdp7MOQh5JHHXpiNsoTZDk=.pdf)
+- [Contributor Proposal link](https://summerofcode.withgoogle.com/media/user/f68762051013/proposal/gAAAAABjHe1Pw0j_Igilg4KO4760hed_s90PzXeWrgQJdMjLIv9wV1aMDcoAg5bEX4Uokac-81ByOT9KqQGCp_-zsXn5-_bW4-_rhmB9sDSaeBClgNSCYIA=.pdf)
 - [Doc Tools Requirements](https://docs.google.com/document/d/1VvDtVW-zV8bfhHNrXBNZdJz5s81a1M1eulov8_ahqo0/edit#heading=h.fyeyfl7x8jho)
 - [GitHub Project board](https://github.com/keptn-sandbox/new-keptn-docs-engine/projects/1)
 - [https://github.com/iamrajiv/keptn-docusaurus-poc](https://github.com/iamrajiv/keptn-docusaurus-poc)
