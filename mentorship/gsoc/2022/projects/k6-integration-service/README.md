@@ -109,3 +109,12 @@ I would like to thank [Adam Gardner](https://github.com/agardnerit/) and [Pepe C
 ## References
 
 * [Project page at GSoC website](https://summerofcode.withgoogle.com/programs/2022/projects/0xICJhw8)
+* [Contributor Proposal Link](https://docs.google.com/document/d/1wG8Mobj5Hpa6x82KN7VdXqDwC_kBEHes/edit?usp=sharing&ouid=110707808117776486784&rtpof=true&sd=true)
+* [https://github.com/keptn](https://github.com/keptn)
+* [https://github.com/grafana/k6](https://github.com/grafana/k6)
+
+
+
+<div align="right">
+<img src="https://raw.githubusercontent.com/iamrajiv/GSoC-2022/main/assets/gsoc-2022-3.svg" height="auto" width="100" />
+</div>
