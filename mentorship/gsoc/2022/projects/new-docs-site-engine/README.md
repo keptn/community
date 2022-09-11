@@ -296,6 +296,7 @@ I am deeply grateful to my mentors [Indermohan Singh](https://github.com/imsingh
 - [https://keptn-docusaurus-poc.vercel.app/](https://keptn-docusaurus-poc.vercel.app/)
 - [https://keptn.sh/](https://keptn.sh/)
 - [Meetings](https://docs.google.com/document/d/1pgI0XW3T9wIix70OZsQ2F-9cGtLmXH1jkyhXm4v-RV0/edit#heading=h.xbcx68nc01mi)
+- [New Documentation Site Engine commmon Issue](https://github.com/keptn-sandbox/new-keptn-docs-engine/issues/1#phase-2)
 - [New Documentation Site Engine Issue link](https://github.com/keptn/keptn.github.io/issues/994)
 - [Project detail at Keptn Community repository](https://github.com/keptn/community/tree/main/mentorship/gsoc/2022/projects/new-docs-site-engine)
 - [Project page at GSoC 2022 website](https://summerofcode.withgoogle.com/programs/2022/projects/whEHkPZx)
