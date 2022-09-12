@@ -11,7 +11,6 @@ New Documentation Site Engine
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
 - [Introduction](#introduction)
 - [Project team](#project-team)
 - [Contacts](#contacts)
