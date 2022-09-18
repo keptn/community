@@ -23,7 +23,6 @@ New Documentation Site Engine
 - [Meetings Details](#meetings-details)
 - [Challenges Faced](#challenges-faced)
 - [Learnings](#learnings)
-- [Learnings](#learnings-1)
 - [Acknowledgments](#acknowledgments)
 - [References](#references)
 
@@ -33,7 +32,7 @@ This project is about a New Documentation Site Engine for Keptn which can handle
 
 The new Documentation Site engine will be based on Docusaurus. Docusaurus is an optimized site generator in React. Docusaurus helps you to move fast and write content. Build documentation websites, blogs, marketing pages, and more. The main focus of Keptn New Documentation Site Engine will be managing large-scale documentation and complex documentation projects. So two major things which are needed in the documentation engine are the ability to build the documentation from the source located in multiple repositories and support for document versioning.
 
-Keptn is an event-driven orchestration engine for cloud-native apps. Started in 2018, it uses a declarative approach to automate delivery and operations so they can be scaled up to a large number of services. Keptn evaluates _Service Level Indicators (SLOs)_ and provides a dashboard, alerts, and auto-remediation for them. It also provides integrations with the Cloud Native ecosystem including _Prometheus_, _ArgoCD_, _CloudEvents_, _Backstage_, and many other cloud-native projects.
+Keptn is an event-driven orchestration engine for cloud-native apps. Started in 2018, it uses a declarative approach to automate delivery and operations so they can be scaled up to a large number of services. Keptn evaluates _Service Level Indicators (SLIs)_ against the _Service Level Objectives_ (SLOs) and provides a dashboard, alerts, and auto-remediation for them. It also provides integrations with the Cloud Native ecosystem including _Prometheus_, _ArgoCD_, _CloudEvents_, _Backstage_, and many other cloud-native projects.
 
 ## Project team
 
@@ -88,7 +87,7 @@ Issue link: [https://github.com/keptn-sandbox/new-keptn-docs-engine/issues/2](ht
 
 ---
 
-- [x] Adding UI and UX changes, moving the content and search functionality to the new documentation site engine.
+- [ ] Adding UI and UX changes, moving the content and search functionality to the new documentation site engine.
 
   - [x] Implementing UI and UX changes in the documentation engine like creating components, templates, standalone pages, etc.
 
@@ -98,11 +97,13 @@ Issue link: [https://github.com/keptn-sandbox/new-keptn-docs-engine/issues/2](ht
 
     > After getting feedback from mentors on the new documentation site engine, I have refactored the documentation engine. PR can be found here [https://github.com/keptn-sandbox/new-keptn-docs-engine/pull/9](https://github.com/keptn-sandbox/new-keptn-docs-engine/pull/9).
 
+    > The UI and UX change that I mentioned above are according to the Docusaurus site. When we initialize the Docusarus site, it comes with some default components, templates, etc. I have refactored the default components and templates of the Docusaurus site which were added when the Docusaurus site was initialized. I have also added some new components, templates, etc. which are required for the new documentation site engine. But the new components, templates, etc. which I have added are just the basic ones. As of now, we have not decided on the proper structure and looks of the new documentation site engine i.e. how the pages will look like and which content will be put where, etc. I have mentioned this work in the [Future Work to be done](#future-work-to-be-done) section.
+
   - [x] Finalizing the things that need to be copied from the current documentation engine to the new documentation site engine with proper structure.
 
-  - [x] Copying content from the current documentation engine to the new documentation site engine which has been finalized.
+  - [ ] Copying content from the current documentation engine to the new documentation site engine which has been finalized.
 
-    > As of now not all contents are copied from the current documentation engine to the new documentation site engine instead, some documents are copied to the new documentation site engine.
+    > As of now not all contents are copied from the current documentation engine to the new documentation site engine instead, some documents are copied to the new documentation site engine. The reason for not moving all content from the current documentation engine to the new documentation site engine is that we are still working on the features and structure of the new documentation site engine.
 
   - [x] Adding documentation search functionality.
 
@@ -119,6 +120,7 @@ Issue link: [https://github.com/keptn-sandbox/new-keptn-docs-engine/issues/5](ht
 - [x] Adding Versioning of docs support feature.
 
 In current docs, we don't have versioning of docs support feature. As of now, we were versioning the docs manually. To solve this problem we have added versioning of the docs support feature using Docusaurus. We can use the versioning CLI to create a new documentation version based on the latest content in the `docs` directory. That specific set of documentation will then be preserved and accessible even as the documentation in the `docs` directory continues to evolve.
+Here versioning CLI means running the commands which create versions of documentation like running the command `yarn run docusaurus docs:version 1.1.0` will create a new version of the documentation with the version number `1.1.0` and the content of the `docs` directory at the time of running the command will be copied to the new versioned documentation directory.
 
 > PR related to adding versioning support can be found here [https://github.com/keptn-sandbox/new-keptn-docs-engine/pull/10](https://github.com/keptn-sandbox/new-keptn-docs-engine/pull/10).
 
@@ -132,8 +134,13 @@ I got clarity about this feature a little late so I was not able to implement th
 
 Some reasons why we want the Multiple repository docs support feature:
 
-- Keptn CLI docs are generated using the `keptn generate docs` command. As of now, we run it in GitHub action [here](https://github.com/keptn/keptn.github.io/blob/9c649b434c9081028e0cc3535c9fa3a4217941fb/.github/workflows/auto-update.yml#L72) to populate our docs repo with CLI docs.
-- If we look at the architecture doc [here](https://keptn.sh/docs/concepts/architecture/), the Keptn control plan consists of multiple services which have their READMEs in the main Keptn repository ([example](https://github.com/keptn/keptn/tree/master/jmeter-service)). Just look for any directory with `service` in [https://github.com/keptn/keptn](https://github.com/keptn/keptn), we can see individual READMEs for all such services. It's a good idea to move these READMEs to the docs site because the people who develop and maintain these services are responsible for updating the READMEs. Having them in a single place just makes it easier to update the READMEs and read them later as well.
+For the current documentation site engine, we generate docs using the Keptn CLI
+The source for the Keptn CLI reference pages is moved from the software repository to the docs repository as a batch process (using the `keptn generate docs` command).
+
+But that doesn't actually generate the docs -- it just copies the source for those pages to the doc repo and then the pages are generated each time the docs are rebuilt. For example, for the 0.18.x release, the source for the CLI reference pages is in https://github.com/keptn/keptn.github.io/tree/master/content/docs/0.18.x/reference/cli/commands and one can go in and modify those pages and instantly change what is built for the doc site. Of course, those changes get overwritten the next time we pull the source from keptn/keptn so we shouldn't be modifying it.
+
+- The source for the Keptn CLI reference pages is moved from the software repository to the docs repository as a batch job. As of now, we run it in GitHub action [here](https://github.com/keptn/keptn.github.io/blob/9c649b434c9081028e0cc3535c9fa3a4217941fb/.github/workflows/auto-update.yml#L72) to populate our docs repo with CLI docs. We must achieve at least this functionality under Docusaurus. Ideally, we would enhance it so that a change to the source in the software repository would immediately trigger a PR to the docs repository so that the docs are constantly up-to-date and batch processing for a new release is not required.
+- If we look at the architecture doc [here](https://keptn.sh/docs/concepts/architecture/), the Keptn control plan consists of multiple services which have their READMEs in the main Keptn repository ([example](https://github.com/keptn/keptn/tree/master/jmeter-service)). Just look for any directory with `service` in [https://github.com/keptn/keptn](https://github.com/keptn/keptn), we can see individual READMEs for all such services. It's a good idea to move these READMEs to the docs site because the people who develop and maintain these services are responsible for updating the READMEs. Having them in a single place just makes it easier to update the READMEs and read them later as well. We have other files in the software repositories that should be imported to the documentation, such as the `values.yaml` files that configure Helm charts. We need to define all such entities and then devise schemes that allow us to author content in the software repository but build an integrated doc set with that content.
 - We also have services that extend the control plane which sits in a separate repository. Check [dynatrace-service](https://github.com/keptn-contrib/dynatrace-service) for example. As of now, if we add a new service that extends the control plane, we also have to add some documentation around it manually in the main docs repository.
 - We have a miscellaneous repository like [Keptn spec](https://github.com/keptn/spec), documentation around what different values mean in the Keptn helm chart which we can't put in the main docs repository because they serve a different purpose.
 
@@ -203,7 +210,7 @@ Its Docusaurus plugin downloads content from remote sources. With this plugin, w
 
 Every webpage that is crawled by a search engine is evaluated with a score from 5 categories: Performance, Accessibility, Best Practices, SEO, and PWA. This is given a score between 0 – 100. The better your lighthouse score will affect how high up your webpage will appear on a search engine.
 
-With a high score, your site meets the best practices and SEO standards outlined by Google in terms of performance and accessibility. Lighthouse is an important tool because it can identify common problems that affect the quality of your websites and propose solutions for them.
+With a high score, your site meets the best practices and SEO standards outlined by Google in terms of performance and accessibility. Lighthouse is an important tool because it can identify common problems that affect the quality of your websites and propose solutions for them. Currently, the standard search engines are tending to report ancient versions of the Keptn docs rather than the latest version so this type of problem can be identified and fixed with the help of Lighthouse CI.
 
 Lighthouse CI is a suite of tools that make continuously running, saving, retrieving, and asserting against [Lighthouse](https://github.com/GoogleChrome/lighthouse) results as easily as possible. So we have integrated Lighthouse CI GitHub Action into the new documentation site engine.
 
@@ -221,17 +228,17 @@ We research and found [proselint](https://github.com/amperser/proselint) and [Va
 
 So, we integrated [vale-action](https://github.com/errata-ai/vale-action) in the new documentation site engine.
 
-Also, for the time being, I have adopted the [Google Style Guide](https://google.github.io/styleguide/) because my main motivation is to integrate the Vale GitHub Action into the docs engine. Yeah, I think we can have a separate discussion about which style guide to follow or we can have our custom style guide as well.
+Also, for the time being, I have adopted the [Google Style Guide](https://google.github.io/styleguide/) because my main motivation is to integrate the Vale GitHub Action into the new documentation site engine. We can easily switch to another standard style guide or a custom style guide in the future.
 
-One of the limitations of Vale is that we have to update things in `vocab.txt` which is required for false positives. Some keywords, and names (e.g. `Keptn`, `KEP` etc) are considered as `vale.Spelling` errors, so we have to add them inside `vocab.txt` file. We can list all unique words which are considered errors in `vocab.txt` using the below command.
+One of the limitations of Vale is that we have to update things in `vocab.txt` which is required for false positives. Some keywords, and names (e.g. `Keptn`, `KEP` etc) that are not included in standard dictionaries and so would be treated as `vale.Spelling` errors, so we have to add them inside `vocab.txt` file.
+
+Use the following command to list all unique words which are considered errors and write them to the `vocab.txt` file:
 
 ```shell
 yarn run lint:docs | grep -o "'[a-z A-Z]*'" | grep -o "[a-z A-Z]*" | sort | uniq > .github/styles/vocab.txt
 ```
 
-Now we have to manually validate all words listed in `vocab.txt`, discard which are invalid and correct them in the file where they were located.
-
-Now we have to manually validate all words listed in `vocab.txt`, discard which are invalid and correct them in the file where they were located.
+We must then edit that file to remove the genuine spelling errors and only leave the Keptn terms that should be recognized as proper words.
 
 > PR related to adding Vale linter can be found here [https://github.com/keptn-sandbox/new-keptn-docs-engine/issues/19](https://github.com/keptn-sandbox/new-keptn-docs-engine/issues/19)
 
@@ -246,7 +253,7 @@ Issue link: [https://github.com/keptn-sandbox/new-keptn-docs-engine/issues/19](h
 To set up the GitHub action, all we need to do is install our dependencies (e.g. `yarn install`), run our format script (e.g. `yarn format`), and then commit any changes if necessary.
 
 By utilizing Prettier with GitHub Actions, we can ensure that our code is formatted consistently and without any issues.
-It also helps to reduce manual work when formatting code.
+It also helps to reduce manual work when formatting code. Currently, we are running prettier checks for `docs/**/*.{md,mdx}` files only.
 
 > PR related to adding Prettier GitHub Action can be found here [https://github.com/keptn-sandbox/new-keptn-docs-engine/pull/25](https://github.com/keptn-sandbox/new-keptn-docs-engine/pull/25)
 
@@ -279,10 +286,11 @@ Issue link: [https://github.com/keptn-sandbox/new-keptn-docs-engine/issues/27](h
 - Implementing all SEO approaches listed in [https://docusaurus.io/docs/seo](https://docusaurus.io/docs/seo) like adding metadata in site configuration, adding metadata for all single pages, adding metadata in the front matter of all markdown files, etc.
 
   > This will take some time to implement as we will be adding metadata in the front matter of all files and will be implementing slowly as we still moving the content to the new documentation site engine.
+  > Adding metadata will help in SEO like we can provide a better description of the page, a title for the page, keywords for the page, etc. If we don’t proper metadata then the search engine will not be able to understand what the page is about and will not be able to rank it properly.
 
 ## Future Work to be done
 
-These are work that was part of this proposal but was partially implemented or not implemented at all like:
+The following work items were part of this proposal but were either partially implemented or not implemented at all:
 
 - Adding Multiple repository docs support feature.
 
@@ -341,7 +349,7 @@ I am deeply grateful to my mentors [Indermohan Singh](https://github.com/imsingh
 - [https://keptn-docusaurus-poc.vercel.app/](https://keptn-docusaurus-poc.vercel.app/)
 - [https://keptn.sh/](https://keptn.sh/)
 - [Meetings](https://docs.google.com/document/d/1pgI0XW3T9wIix70OZsQ2F-9cGtLmXH1jkyhXm4v-RV0/edit#heading=h.xbcx68nc01mi)
-- [New Documentation Site Engine commmon Issue](https://github.com/keptn-sandbox/new-keptn-docs-engine/issues/1#phase-2)
+- [New Documentation Site Engine common Issue](https://github.com/keptn-sandbox/new-keptn-docs-engine/issues/1#phase-2)
 - [New Documentation Site Engine Issue link](https://github.com/keptn/keptn.github.io/issues/994)
 - [Project detail at Keptn Community repository](https://github.com/keptn/community/tree/main/mentorship/gsoc/2022/projects/new-docs-site-engine)
 - [Project page at GSoC 2022 website](https://summerofcode.withgoogle.com/programs/2022/projects/whEHkPZx)
