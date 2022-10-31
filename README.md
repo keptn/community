@@ -20,12 +20,16 @@ See also the community page on [**keptn.sh/community**](https://keptn.sh/communi
 
 ## Roles and Groups
 
+* [Governance Document](./governance/) - Open Governance in Keptn
 * [Community Membership Ladder](./COMMUNITY_MEMBERSHIP.md) - Community membership: roles, responsibilities and application guidelines.
+* [Maintainers](./MAINTAINERS.md) - List of maintainers with special permissions in the core parts of the project.
 * [Keptn Advisory Board](./governance/advisory-board.md) - 
 group of industry leaders and visionaries that provide advice to the Keptn project.
 * [Community Rockstars](./community-rockstar.md) -
 Award for top Keptn contributors and advocates,
 that is given on a quarterly basis.
+* [Contributors](./CONTRIBUTORS.md) - Self-maintained list of contributors to Keptn.
+* [Keptn Adopters](./ADOPTERS.md) - Companies that publicly shared that they use Keptn.
 
 ## Community resources
 

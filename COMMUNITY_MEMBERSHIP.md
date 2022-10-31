@@ -16,9 +16,9 @@ The Keptn maintainers own this document and process until delegated. They can be
 
 | **Role**   | **Responsibilities**                                  | **Requirements**                                             | **Defined by**                                               |
 | ---------- | ----------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Member     | Active contributor in the community and reviewer of PRs | Sponsored by 2 approvers or maintainers. Multiple (infrequent) contributions to the project. | [Members of the Keptn GitHub organization](https://github.com/orgs/keptn/teams/members) and [listed here](https://github.com/keptn/keptn/blob/master/MAINTAINERS)                          |
-| Approver   | Approve contributions                       | Sponsored by 2 maintainers. Highly experienced and active member with frequent contributions. | - [Approvers of the Keptn GitHub organization](https://github.com/orgs/keptn/teams/approvers) and [listed here](https://github.com/keptn/keptn/blob/master/MAINTAINERS) <br>- [CODEOWNERS](https://help.github.com/en/articles/about-code-owners) in [Keptn](https://github.com/keptn/keptn) |
-| Maintainer | Set direction and priorities for a subproject         | Sponsored by 2 maintainers. Demonstrates responsibility and excellent technical judgment for the whole project. | - [Maintainers of the Keptn GitHub organization](https://github.com/orgs/keptn/teams/maintainers) and [listed here](https://github.com/keptn/keptn/blob/master/MAINTAINERS)<br>- [CODEOWNERS](https://help.github.com/en/articles/about-code-owners) in [Keptn](https://github.com/keptn/keptn)<br> - Ownership of the GitHub repository |
+| Member     | Active contributor in the community and reviewer of PRs | Sponsored by 2 approvers or maintainers. Multiple (infrequent) contributions to the project. | [Members of the Keptn GitHub organization](https://github.com/orgs/keptn/teams/members) and [listed here](/MAINTAINERS.md)                          |
+| Approver   | Approve contributions                       | Sponsored by 2 maintainers. Highly experienced and active member with frequent contributions. | - [Approvers of the Keptn GitHub organization](https://github.com/orgs/keptn/teams/approvers) and [listed here](/MAINTAINERS.md) <br>- [CODEOWNERS](https://help.github.com/en/articles/about-code-owners) in [Keptn](https://github.com/keptn/keptn) |
+| Maintainer | Set direction and priorities for a subproject         | Sponsored by 2 maintainers. Demonstrates responsibility and excellent technical judgment for the whole project. | - [Maintainers of the Keptn GitHub organization](https://github.com/orgs/keptn/teams/maintainers) and [listed here](/MAINTAINERS.MD)<br>- [CODEOWNERS](https://help.github.com/en/articles/about-code-owners) in [Keptn](https://github.com/keptn/keptn)<br> - Ownership of the GitHub repository |
 
 **Note**: Links to *Members-, Approvers-, and Maintainers of the Keptn GitHub organization* are not publicly accessible.
 
@@ -45,7 +45,7 @@ Members are continuously active contributors in the community. They can have iss
   - Filing or commenting on issues on GitHub
   - Contributing to the main project, subprojects, or community discussions (e.g., meetings, chat, email, and discussion forums)
 - Joined the [Keptn Slack channel](https://slack.keptn.sh) 
-- Have read the [contributors guide](https://github.com/keptn/keptn/blob/master/CONTRIBUTING.md)
+- Have read the [Keptn Core contributors guide](https://github.com/keptn/keptn/blob/master/CONTRIBUTING.md)
 - Sponsored by 2 approvers. Consider the following requirements for sponsors:
   - Sponsors must have close interactions with the prospective member, e.g.,
     code/design/proposal review, coordinating on issues, etc.
@@ -60,7 +60,7 @@ Members are continuously active contributors in the community. They can have iss
     work on the project.
 - Have your sponsoring reviewers reply confirmation of sponsorship
 - Once your sponsors have responded, your request will be reviewed by the project maintainers. Any maintainer can review the requirements and add members to the GitHub organization. 
-- Add yourself to the list of [project members](https://github.com/keptn/keptn/blob/master/MAINTAINERS)
+- Add yourself to the list of [project members](/MAINTAINERS.md)
 
 ### Responsibilities and privileges
 
@@ -103,7 +103,7 @@ Approver status can be scoped to a part of the codebase. For example, critical c
     template](https://github.com/keptn/community/blob/master/.github/ISSUE_TEMPLATE/membership.md))
   - Make sure that the list of contributions included is representative of your
     work on the project.
-- Add yourself to the list of [project approvers](https://github.com/keptn/keptn/blob/master/MAINTAINERS)
+- Add yourself to the list of [project approvers](/MAINTAINERS.md)
 
 ### Responsibilities and privileges
 
@@ -149,7 +149,9 @@ The process for becoming a maintainer should be defined in the project or subpro
     template](https://github.com/keptn/community/blob/master/.github/ISSUE_TEMPLATE/membership.md))
   - Make sure that the list of contributions included is representative of your
     work on the project.
-- Add yourself to the list of [project members](https://github.com/keptn/keptn/blob/master/MAINTAINERS)
+- Add yourself to the list of [project members](/MAINTAINERS.md)
+
+
 ### Responsibilities and privileges
 
 *The following applies to the subproject for which one would be an owner:*
