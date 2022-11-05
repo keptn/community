@@ -31,6 +31,8 @@ Description of candidate
 
 #### Description of candidate ####
 
+---
+
 ### Alois Reitbauer
 
 <img src="static/alois-reitbauer-picture.png" alt="Alois Reitbauer" height="400" width="400">
@@ -42,7 +44,7 @@ Description of candidate
 
 #### Description of candidate ####
 
----
+
 
 ### Andreas Grabner
 
