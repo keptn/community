@@ -20,6 +20,17 @@ Description of candidate
 ---
 -->
 
+### Alex Jones
+
+<img src="static/alex-jones-picture.png" alt="Alex Jones" height="400" width="400">
+
+- Company:
+- GitHub:
+- Twitter:
+- Personal Website:
+
+#### Description of candidate ####
+
 ### Alois Reitbauer
 
 <img src="static/alois-reitbauer-picture.png" alt="Alois Reitbauer" height="400" width="400">
