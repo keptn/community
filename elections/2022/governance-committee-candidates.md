@@ -3,7 +3,7 @@
 ## List of candidates
 
 In alphabetical order:
-
+- [Alex Jones](#alex-jones)
 - [Alois Reitbauer](#alois-reitbauer)
 - [Andreas Grabner](#andreas-grabner)
 - [Brad McCoy](#brad-mccoy)
@@ -37,7 +37,7 @@ Description of candidate
 
 <img src="static/alois-reitbauer-picture.png" alt="Alois Reitbauer" height="400" width="400">
 
-- Company: 
+- Company:
 - GitHub: 
 - Twitter: 
 - Personal Website:
@@ -88,7 +88,6 @@ Description of candidate
 ### Diego Braga
 
 <img src="static/diego-braga-picture.png" alt="Diego Braga" height="400" width="400">
-
 - Company:
 - GitHub:
 - Twitter:
