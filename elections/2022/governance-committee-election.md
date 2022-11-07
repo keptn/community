@@ -51,6 +51,8 @@ All [members of the Keptn Organization (Members, Approvers, Maintainers)](https:
 
 Everyone with voting rights may log into [Helios Voting](https://vote.heliosvoting.org/helios/e/keptn-gb-2022) using their GitHub account. Voting will be approval voting, where each voter may select up to three candidates. The three candidates with the most votes win the election. The three winners must be from different organizations, therefore only the highest ranked nominee from each organization will be elected. Nevertheless, it is possible to vote three nominees from the same organization.
 
+If there is a draw between the third and the lower ranked candidates, there will be a runoff election between the tied candidates. The runoff election will be held within 48 hours of the original election. The runoff election will be a simple majority vote, and the candidate with the most votes will be elected.
+
 Per Helios, voting is entirely private: nobody will know any individual's vote.
 
 # Results
