@@ -88,6 +88,7 @@ Description of candidate
 ### Diego Braga
 
 <img src="static/diego-braga-picture.png" alt="Diego Braga" height="400" width="400">
+
 - Company:
 - GitHub:
 - Twitter:
