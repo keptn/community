@@ -49,7 +49,7 @@ All [members of the Keptn Organization (Members, Approvers, Maintainers)](https:
 
 # Vote
 
-Everyone with voting rights may log into [Helios Voting](https://vote.heliosvoting.org/helios/e/keptn-gb-2022) using their GitHub account. Voting will be approval voting, where each voter may select up to three candidates. The three candidates with the most votes win the election.
+Everyone with voting rights may log into [Helios Voting](https://vote.heliosvoting.org/helios/e/keptn-gb-2022) using their GitHub account. Voting will be approval voting, where each voter may select up to three candidates. The three candidates with the most votes win the election. The three winners must be from different organizations, therefore only the highest ranked nominee from each organization will be elected. Nevertheless, it is possible to vote three nominees from the same organization.
 
 Per Helios, voting is entirely private: nobody will know any individual's vote.
 
