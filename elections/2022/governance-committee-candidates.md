@@ -48,16 +48,15 @@ Description of candidate
 
 ### Andreas Grabner
 
-<img src="static/andreas-grabner-picture.png" alt="Andreas Grabner" height="400" width="400">
+<img src="https://pbs.twimg.com/profile_images/466782458868805632/0dloOCFt_400x400.jpeg" alt="Andreas Grabner" height="200" width="200">
 
-- Company:
-- GitHub:
-- Twitter:
-- Personal Website:
+- Company: Dynatrace
+- GitHub: https://github.com/grabnerandi
+- Twitter: https://twitter.com/grabnerandi
 
 #### Description of candidate ####
 
----
+Andreas is a DevOps activist at Dynatrace. He has over 20 years of experience as a software developer, tester and architect, and is an advocate for high-performing cloud operations. As a champion of DevOps initiatives, Andreas is dedicated to helping developers, testers and operations teams become more efficient in their jobs with Dynatrace’s software intelligence platform
 
 ### Brad McCoy
 
