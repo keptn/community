@@ -87,7 +87,7 @@ Description of candidate
 
 ### Diego Braga
 
-<img src="static/diego-braga-picture.png" alt="Diego Braga" height="400" width="400">
+<img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_250,q_auto:good,w_250/v1/gcs/platform-data-cncf/avatars/diego_braga.jpg" alt="Diego Braga" height="400" width="400">
 
 - Company: Krateo PlatformOps
 - GitHub: https://github.com/braghettos
