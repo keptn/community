@@ -86,14 +86,16 @@ Andreas is a DevOps activist at Dynatrace. He has over 20 years of experience as
 
 ### Diego Braga
 
-<img src="static/diego-braga-picture.png" alt="Diego Braga" height="400" width="400">
+<img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_250,q_auto:good,w_250/v1/gcs/platform-data-cncf/avatars/diego_braga.jpg" alt="Diego Braga" height="400" width="400">
 
-- Company:
-- GitHub:
-- Twitter:
-- Personal Website:
+- Company: Krateo PlatformOps
+- GitHub: https://github.com/braghettos
+- Twitter: https://twitter.com/braghettos
+- Personal Website: https://www.linkedin.com/in/diegobraga86/
 
 #### Description of candidate ####
+
+Diego Braga is Product Manager at Krateo PlatformOps. Diego has spent last 10 years building open source architectures for customers, from embedded devices to large scale distributed systems. Most recently he has been focused on the open cloud infrastructure space, and in emerging patterns for cloud native applications.
 
 ---
 
