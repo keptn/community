@@ -48,7 +48,7 @@ Description of candidate
 
 ### Andreas Grabner
 
-<img src="static/andreas-grabner-picture.png" alt="Andreas Grabner" height="400" width="400">
+<img src="https://pbs.twimg.com/profile_images/466782458868805632/0dloOCFt_400x400.jpeg" alt="Andreas Grabner" height="200" width="200">
 
 - Company: Dynatrace
 - GitHub: https://github.com/grabnerandi
