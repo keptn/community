@@ -45,7 +45,7 @@ The Pull Request will not be merged until the candidate has confirmed their desi
 
 # Voter Eligibility
 
-All [members of the Keptn Organization (Members, Approvers, Maintainers)](https://github.com/keptn/keptn/blob/main/MAINTAINERS.md) will automatically be eligible to vote.
+All [members of the Keptn Organization (Members, Approvers, Maintainers)](https://github.com/keptn/keptn/blob/master/MAINTAINERS) will automatically be eligible to vote.
 
 # Vote
 
