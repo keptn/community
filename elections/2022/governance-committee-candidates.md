@@ -22,14 +22,17 @@ Description of candidate
 
 ### Alex Jones
 
-<img src="static/alex-jones-picture.png" alt="Alex Jones" height="400" width="400">
+<img src="https://i.ibb.co/M5SLpD0/KC-CNC-NA-headshot-221027-Alex-Jones-2215.jpg" height="200" />
 
-- Company:
-- GitHub:
-- Twitter:
-- Personal Website:
+- Company: Canonical
+- GitHub: https://github.com/AlexsJones
+- Twitter: https://twitter.com/AlexJonesax
+- Personal Website: https://www.cloudnativeskunkworks.io/
 
 #### Description of candidate ####
+
+Alex works as both a contributor and end-user of cloud-native technology. 
+When not working as Kubernetes Engineering Director at Canonical; he contributes to CNCF TAG App Delivery as Tech Lead and to the Open Feature project on the governing board. He also maintains several other popular community projects.
 
 ---
 
