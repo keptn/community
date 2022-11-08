@@ -22,7 +22,7 @@ Description of candidate
 
 ### Alex Jones
 
-<img src="static/alex-jones-picture.png" alt="Alex Jones" height="400" width="400">
+<img src="https://i.ibb.co/M5SLpD0/KC-CNC-NA-headshot-221027-Alex-Jones-2215.jpg" height="200" />
 
 - Company: Canonical
 - GitHub: https://github.com/AlexsJones
