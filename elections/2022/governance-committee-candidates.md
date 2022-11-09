@@ -35,7 +35,7 @@ Description of candidate
 
 ### Alois Reitbauer
 
-<img src="static/alois-reitbauer-picture.png" alt="Alois Reitbauer" height="400" width="400">
+<img src="https://engineering.dynatrace.com/_next/image?url=https%3A%2F%2Fbackend.engineering.dynatrace.com%2Fimg%2Fresized%2F291%3Fwidth%3D220&w=3840&q=90" alt="Alois Reitbauer" height="400" width="400">
 
 - Company: Dynatrace
 - GitHub: https://github.com/aloisreitbauer
