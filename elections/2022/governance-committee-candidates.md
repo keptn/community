@@ -38,16 +38,15 @@ When not working as Kubernetes Engineering Director at Canonical; he contributes
 
 ### Alois Reitbauer
 
-<img src="static/alois-reitbauer-picture.png" alt="Alois Reitbauer" height="400" width="400">
+<img src="https://engineering.dynatrace.com/_next/image?url=https%3A%2F%2Fbackend.engineering.dynatrace.com%2Fimg%2Fresized%2F291%3Fwidth%3D220&w=3840&q=90" alt="Alois Reitbauer" height="400" width="400">
 
-- Company:
-- GitHub: 
-- Twitter: 
-- Personal Website:
+- Company: Dynatrace
+- GitHub: https://github.com/aloisreitbauer
+- Twitter: https://twitter.com/aloisreitbauer
 
 #### Description of candidate ####
 
-
+Alois works as Chief Technology Strategist at Dynatrace, where he leads all open source and research efforts. He is also co-chair of TAG App Delivery in the CNCF and contributor and maintainer to several other open source projects like OpenFeature and OpenTelemetry. Alois is the initial creator of the Keptn project and was driving most of the conceptual over the last couple of years. He is also a co-creator of the application lifecycle toolkit for Keptn. 
 
 ### Andreas Grabner
 
