@@ -114,9 +114,9 @@ Diego Braga is Product Manager at Krateo PlatformOps. Diego has spent last 10 ye
 
 #### Description of candidate ####
 
-When not working on maintaining Acquia's internal Kubernetes as a Service platform, I contribute to Keptn and other open source projects. I believe in open communication, transparency, fact-based decision making and try-fail-learn loop. As someone who has made contributions to both Keptn code and community, here's some of the things I can offer:
-1. Strive for what's best for Keptn i.e., do whatever it takes to help get the project to that next level
+When not working on maintaining Acquia's internal Kubernetes as a Service platform, I contribute to Keptn and other open source projects. I believe in open communication, transparency, fact-based decision making and try-fail-learn loop. As someone who has made contributions to both Keptn code and community, here are some of the things I can offer:
+1. Strive for what is best for Keptn i.e., do whatever it takes to help get the project to that next level
 2. Ask (often difficult) questions
-3. Act as a neutral party because my company has no vested interest in Keptn
+3. Act as a neutral party (my company has no vested interests in Keptn)
 
 I try to be honest about what I don't know and I am always open to feedback.
