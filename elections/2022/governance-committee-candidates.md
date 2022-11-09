@@ -108,8 +108,8 @@ Diego Braga is Product Manager at Krateo PlatformOps. Diego has spent last 10 ye
 
 
 - Company: Acquia
-- GitHub: [vadasambar](github.com/vadasambar)
-- Twitter: [@_vadasambar](twitter.com/_vadasambar)
+- GitHub: [vadasambar](https://github.com/vadasambar)
+- Twitter: [@_vadasambar](https://twitter.com/_vadasambar)
 - Personal Website: https://vadasambar.com
 
 #### Description of candidate ####
