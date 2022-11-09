@@ -103,11 +103,19 @@ Diego Braga is Product Manager at Krateo PlatformOps. Diego has spent last 10 ye
 
 ### Suraj Banakar
 
-<img src="static/suraj-banakar-picture.png" alt="Suraj Banakar" height="400" width="400">
+<img src="https://user-images.githubusercontent.com/34534103/200751308-1aaa381e-c6fb-4773-9699-ed46b36594d3.png" alt="Suraj Banakar" height="400" width="400">
 
-- Company:
-- GitHub:
-- Twitter:
-- Personal Website:
+
+- Company: Acquia
+- GitHub: [vadasambar](https://github.com/vadasambar)
+- Twitter: [@_vadasambar](https://twitter.com/_vadasambar)
+- Personal Website: https://vadasambar.com
 
 #### Description of candidate ####
+
+When not working on maintaining Acquia's internal Kubernetes as a Service platform, I contribute to Keptn and other open source projects. I believe in open communication, transparency, fact-based decision making and try-fail-learn loop. As someone who has made contributions to both Keptn code and community, here are some of the things I can offer:
+1. Strive for what is best for Keptn i.e., do whatever it takes to help get the project to that next level
+2. Ask (often difficult) questions
+3. Act as a neutral party (my company has no vested interests in Keptn)
+
+I try to be honest about what I don't know and I am always open to feedback.
