@@ -62,14 +62,16 @@ Andreas is a DevOps activist at Dynatrace. He has over 20 years of experience as
 
 ### Brad McCoy
 
-<img src="static/brad-mccoy-picture.png" alt="Brad McCoy" height="400" width="400">
+<img src="https://media-exp1.licdn.com/dms/image/C5603AQFH5usLz1hISg/profile-displayphoto-shrink_800_800/0/1614619219183?e=1673481600&v=beta&t=CgPi55H9TB4k09uwuRnGoT0_gKrR9lrvS8ZOHS8Dx7M" alt="Brad McCoy" height="200" width="200">
 
-- Company:
-- GitHub:
-- Twitter:
-- Personal Website:
+- Company: Basiq
+- GitHub: https://github.com/bradmccoydev
+- Twitter: https://twitter.com/bradmccoydev
+- Personal Website: https://blog.bradmccoy.io
 
 #### Description of candidate ####
+
+Brad is a CNCF Ambassador and contributes to projects and programs in the CNCF and the CDF.  He spends a lot of his time mentoring engineers in the community.  He started his journey with Keptn by seeing the value of the project so adopted it, and started contributing to it and advocating it.  He works as Head of Plaform Engineering by day.
 
 ---
 
