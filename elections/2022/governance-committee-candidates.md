@@ -5,6 +5,7 @@
 In alphabetical order:
 - [Alex Jones](#alex-jones)
 - [Alois Reitbauer](#alois-reitbauer)
+- [Ana Margarita Medina](#ana-margarita-medina)
 - [Andreas Grabner](#andreas-grabner)
 - [Brad McCoy](#brad-mccoy)
 - [David Hirsch](#david-hirsch)
@@ -47,6 +48,21 @@ When not working as Kubernetes Engineering Director at Canonical; he contributes
 #### Description of candidate ####
 
 Alois works as Chief Technology Strategist at Dynatrace, where he leads all open source and research efforts. He is also co-chair of TAG App Delivery in the CNCF and contributor and maintainer to several other open source projects like OpenFeature and OpenTelemetry. Alois is the initial creator of the Keptn project and was driving most of the conceptual over the last couple of years. He is also a co-creator of the application lifecycle toolkit for Keptn. 
+
+---
+
+### Ana Margarita Medina
+![AnaM](https://avatars.githubusercontent.com/u/3894791)
+- Company: Lightstep
+- GitHub: [AnaMMedina21](https://github.com/AnaMMedina21)
+- Twitter [@Ana_M_Medina](https://twitter.com/Ana_M_Medina)
+- LinkedIn [Ana Margarita Medina](https://www.linkedin.com/in/anammedina/)
+
+#### Description of candidate ####
+Ana Margarita is a Staff Developer Advocate at Lightstep and focuses on helping companies be more reliable by leveraging Observability and Incident Response practices. She is also on the Kubernetes Release Team (v1.25 - v1.26) and has been advising CNCF's Keptn project since 2019. Before Lightstep, she was a Senior Chaos Engineer at Gremlin and helped companies avoid outages by running proactive chaos engineering experiments. She has also worked at various-sized companies including Google, Uber, SFEFCU, and Miami-based startups. Ana is an internationally recognized speaker and has presented at: AWS re:Invent, KubeCon, DockerCon, DevOpDays, AllDayDevOps, Write/Speak/Code, and many others. Catch her tweeting at @Ana_M_Medina about traveling, diversity in tech, and mental health.
+
+---
+
 
 ### Andreas Grabner
 
