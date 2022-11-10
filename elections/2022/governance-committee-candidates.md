@@ -38,7 +38,7 @@ When not working as Kubernetes Engineering Director at Canonical; he contributes
 
 ### Alois Reitbauer
 
-<img src="https://engineering.dynatrace.com/_next/image?url=https%3A%2F%2Fbackend.engineering.dynatrace.com%2Fimg%2Fresized%2F291%3Fwidth%3D220&w=3840&q=90" alt="Alois Reitbauer" height="400" width="400">
+<img src="https://engineering.dynatrace.com/_next/image?url=https%3A%2F%2Fbackend.engineering.dynatrace.com%2Fimg%2Fresized%2F291%3Fwidth%3D220&w=3840&q=90" alt="Alois Reitbauer" height="200" width="200">
 
 - Company: Dynatrace
 - GitHub: https://github.com/aloisreitbauer
@@ -77,7 +77,7 @@ Brad is a CNCF Ambassador and contributes to projects and programs in the CNCF a
 
 ### David Hirsch
 
-<img src="static/david-hirsch-picture.png" alt="David Hirsch" height="400" width="400">
+<img src="static/david-hirsch-picture.png" alt="David Hirsch" height="200" width="200">
 
 - Company:
 - GitHub:
@@ -90,7 +90,7 @@ Brad is a CNCF Ambassador and contributes to projects and programs in the CNCF a
 
 ### Diego Braga
 
-<img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_250,q_auto:good,w_250/v1/gcs/platform-data-cncf/avatars/diego_braga.jpg" alt="Diego Braga" height="400" width="400">
+<img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_250,q_auto:good,w_250/v1/gcs/platform-data-cncf/avatars/diego_braga.jpg" alt="Diego Braga" height="200" width="200">
 
 - Company: Krateo PlatformOps
 - GitHub: https://github.com/braghettos
@@ -105,7 +105,7 @@ Diego Braga is Product Manager at Krateo PlatformOps. Diego has spent last 10 ye
 
 ### Suraj Banakar
 
-<img src="https://user-images.githubusercontent.com/34534103/200751308-1aaa381e-c6fb-4773-9699-ed46b36594d3.png" alt="Suraj Banakar" height="400" width="400">
+<img src="https://user-images.githubusercontent.com/34534103/200751308-1aaa381e-c6fb-4773-9699-ed46b36594d3.png" alt="Suraj Banakar" height="200" width="200">
 
 
 - Company: Acquia
