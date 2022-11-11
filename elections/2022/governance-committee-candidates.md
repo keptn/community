@@ -52,7 +52,9 @@ Alois works as Chief Technology Strategist at Dynatrace, where he leads all open
 ---
 
 ### Ana Margarita Medina
+
 <img src="https://avatars.githubusercontent.com/u/3894791" alt="Ana Margarita Medina" height="200" width="200">
+
 - Company: Lightstep
 - GitHub: [AnaMMedina21](https://github.com/AnaMMedina21)
 - Twitter [@Ana_M_Medina](https://twitter.com/Ana_M_Medina)
