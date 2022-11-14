@@ -23,7 +23,7 @@ for a two years term.
 Current Keptn Advisory Board members:
 
 - [Alex Jones](https://twitter.com/AlexJonesax) - Canonical, CNCF TAG AppDelivery
-- [Ana Medina](https://www.anammedina.com/) - Gremlin
+- [Ana Medina](https://www.anammedina.com/) - Lightstep
 - [Alois Reitbauer](https://twitter.com/AloisReitbauer) - Dynatrace, CNCF TAG AppDelivery
 - [Andreas Grabner](https://twitter.com/grabnerandi) - Dynatrace
 - [Diane Mueller](https://twitter.com/pythondj) - Red Hat, CNCF Ambassador
@@ -31,6 +31,7 @@ Current Keptn Advisory Board members:
 - [Katie Gamanji](https://kgamanji.medium.com/) - Apple, CNCF Ambassador
 - [Lei Zhang (Harry)](https://twitter.com/resouer) - CNCF TOC
 - [Mark Tomlinson](https://twitter.com/m3tomlins) - PerfBytes
+- [Max Körbächer]() - Liquid Reply
 
 ## Alumni
 
