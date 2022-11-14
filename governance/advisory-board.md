@@ -31,7 +31,7 @@ Current Keptn Advisory Board members:
 - [Katie Gamanji](https://kgamanji.medium.com/) - Apple, CNCF Ambassador
 - [Lei Zhang (Harry)](https://twitter.com/resouer) - CNCF TOC
 - [Mark Tomlinson](https://twitter.com/m3tomlins) - PerfBytes
-- [Max Körbächer]() - Liquid Reply
+- [Max Körbächer](https://twitter.com/mkoerbi) - Liquid Reply
 
 ## Alumni
 
