@@ -8,7 +8,6 @@ In alphabetical order:
 - [Ana Margarita Medina](#ana-margarita-medina)
 - [Andreas Grabner](#andreas-grabner)
 - [Brad McCoy](#brad-mccoy)
-- [David Hirsch](#david-hirsch)
 - [Diego Braga](#diego-braga)
 - [Suraj Banakar](#suraj-banakar)
 
@@ -90,19 +89,6 @@ Andreas is a DevOps activist at Dynatrace. He has over 20 years of experience as
 #### Description of candidate ####
 
 Brad is a CNCF Ambassador and contributes to projects and programs in the CNCF and the CDF.  He spends a lot of his time mentoring engineers in the community.  He started his journey with Keptn by seeing the value of the project so adopted it, and started contributing to it and advocating it.  He works as Head of Plaform Engineering by day.
-
----
-
-### David Hirsch
-
-<img src="static/david-hirsch-picture.png" alt="David Hirsch" height="200" width="200">
-
-- Company:
-- GitHub:
-- Twitter:
-- Personal Website:
-
-#### Description of candidate ####
 
 ---
 
