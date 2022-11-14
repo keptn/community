@@ -22,20 +22,23 @@ Description of candidate
 
 ### Alex Jones
 
-<img src="static/alex-jones-picture.png" alt="Alex Jones" height="400" width="400">
+<img src="https://i.ibb.co/M5SLpD0/KC-CNC-NA-headshot-221027-Alex-Jones-2215.jpg" height="200" />
 
-- Company:
-- GitHub:
-- Twitter:
-- Personal Website:
+- Company: Canonical
+- GitHub: https://github.com/AlexsJones
+- Twitter: https://twitter.com/AlexJonesax
+- Personal Website: https://www.cloudnativeskunkworks.io/
 
 #### Description of candidate ####
+
+Alex works as both a contributor and end-user of cloud-native technology. 
+When not working as Kubernetes Engineering Director at Canonical; he contributes to CNCF TAG App Delivery as Tech Lead and to the Open Feature project on the governing board. He also maintains several other popular community projects.
 
 ---
 
 ### Alois Reitbauer
 
-<img src="static/alois-reitbauer-picture.png" alt="Alois Reitbauer" height="400" width="400">
+<img src="https://engineering.dynatrace.com/_next/image?url=https%3A%2F%2Fbackend.engineering.dynatrace.com%2Fimg%2Fresized%2F291%3Fwidth%3D220&w=3840&q=90" alt="Alois Reitbauer" height="400" width="400">
 
 - Company: Dynatrace
 - GitHub: https://github.com/aloisreitbauer
@@ -100,11 +103,19 @@ Diego Braga is Product Manager at Krateo PlatformOps. Diego has spent last 10 ye
 
 ### Suraj Banakar
 
-<img src="static/suraj-banakar-picture.png" alt="Suraj Banakar" height="400" width="400">
+<img src="https://user-images.githubusercontent.com/34534103/200751308-1aaa381e-c6fb-4773-9699-ed46b36594d3.png" alt="Suraj Banakar" height="400" width="400">
 
-- Company:
-- GitHub:
-- Twitter:
-- Personal Website:
+
+- Company: Acquia
+- GitHub: [vadasambar](https://github.com/vadasambar)
+- Twitter: [@_vadasambar](https://twitter.com/_vadasambar)
+- Personal Website: https://vadasambar.com
 
 #### Description of candidate ####
+
+When not working on maintaining Acquia's internal Kubernetes as a Service platform, I contribute to Keptn and other open source projects. I believe in open communication, transparency, fact-based decision making and try-fail-learn loop. As someone who has made contributions to both Keptn code and community, here are some of the things I can offer:
+1. Strive for what is best for Keptn i.e., do whatever it takes to help get the project to that next level
+2. Ask (often difficult) questions
+3. Act as a neutral party (my company has no vested interests in Keptn)
+
+I try to be honest about what I don't know and I am always open to feedback.
