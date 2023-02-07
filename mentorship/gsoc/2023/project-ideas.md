@@ -47,7 +47,7 @@ Future Work:
 - Slack channel for technical discussion: `#keptn-lifecycle-toolkit-dev` (CNCF Slack)
 - Areas to study/improve: Golang, observability, Kubernetes
 - Project size: 175 hours
-- Potential mentor(s): Thomas Schuetz (@thschue)
+- Potential mentor(s): [Thomas Schuetz](https://github.com/thschue)
 
 <a name="keptn-metrics-timeframes"></a>
 ### Timeframes for Metrics
@@ -66,7 +66,7 @@ Future Work:
 - Slack channel for technical discussion: `#keptn-lifecycle-toolkit-dev` (CNCF Slack)
 - Areas to study/improve: Golang, observability, Kubernetes
 - Project size: 175 hours
-- Potential mentor(s): Thomas Schuetz (@thschue), Florian Bacher (@bacherfl)
+- Potential mentor(s): [Thomas Schuetz](https://github.com/thschue), [Florian Bacher](https://github.com/bacherfl)
 
 <a name="keptn-website"></a>
 ### Revamp the content and the aesthetics of the keptn.sh website
