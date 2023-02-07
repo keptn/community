@@ -32,32 +32,41 @@ e.g. implemented on the top of the Cloud Events / CDEvents standard.
 - Potential mentor(s): Brad McCoy
 
 <a name="keptn-additional-metrics"></a>
-### Create additional metrics operators for KLT
+### Create additional metrics providers for KLT
+The main idea of this project is to add additional metrics providers to the metrics controller. 
 
-Expose additional Observability Platform metrics into K8s as custom metrics
+Proposed Outcome:
+* Define metric providers which should be implemented
+* Implement the proposed metric providers
+* Test and document the usage of these metric providers
 
-This idea consists of two components, a metrics-operator, and a metrics-adapter. The metrics operator manages CRDs for Metrics and Providers, similar to the approach we used in evaluations. The adapter can query these metrics and present them via the Kubernetes Metrics API.
-
-Outcome:
-
-Metrics and Providers can be specified via CRs
-The values for the metrics are stored in the status of the CRs
-The metrics adapter is able to fetch these metrics and provide them
-Limitations:
-
-Currently, this approach seems to work only in a namespaced way, therefore metrics have to be provided per namespace (not sure about specifying them on a cluster level)
-There is no history of the metrics available
-Further options:
-
-We could define an SLO resource that utilizes metrics
-As this provides a very simple, unified way to present metrics in Kubernetes, we could also provide plugins for Argo and Flagger to query the resources
-Keptn Evaluations could also use these metrics
-
-- More info: https://github.com/keptn/lifecycle-toolkit/issues/525 
-- Slack channel for technical discussion: `#keptn-integrations`
+Future Work:
+* There might be an SLO resource that utilizes metrics (when the SLO is based on a metric and timeframes are supported). 
+  
+- More info: https://github.com/keptn/lifecycle-toolkit/issues/745 
+- Slack channel for technical discussion: `#keptn-lifecycle-toolkit-dev` (CNCF Slack)
 - Areas to study/improve: Golang, observability, Kubernetes
 - Project size: 175 hours
-- Potential mentor(s): Thomas Schuetz
+- Potential mentor(s): Thomas Schuetz (@thschue)
+
+<a name="keptn-metrics-timeframes"></a>
+### Timeframes for Metrics
+The main idea of this proposal is to make it possible to define timeframes for metrics and get standardized aggregated results for this timeframe.
+
+Proposed Outcome:
+* Propose a solution for this feature
+* Define a metric based on a query and a timeframe
+* Get the aggregated result for this timeframe and write the values to the status of the metric
+* Also calculate min, max, avg, p25 and p75 for the metric
+* Test and document the usage of this feature
+
+Future Work:
+* There might be an SLO resource that utilizes metrics (when the SLO is based on a metric and timeframes are supported).
+
+- Slack channel for technical discussion: `#keptn-lifecycle-toolkit-dev` (CNCF Slack)
+- Areas to study/improve: Golang, observability, Kubernetes
+- Project size: 175 hours
+- Potential mentor(s): Thomas Schuetz (@thschue), Florian Bacher @bacherfl)
 
 <a name="keptn-website"></a>
 ### Revamp the content and the aesthetics of the keptn.sh website
