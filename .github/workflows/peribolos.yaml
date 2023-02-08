@@ -1,0 +1,26 @@
+
+name: Peribolos
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the master branch
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Generating Peribolos configuration
+        run: cd tools && go run peribolosbuilder.go -config=../config > ../peribolos.yaml && cd ..
+      - name: Printing configuration for safety
+        run: cat peribolos.yaml
+      - name: Preparing credentials
+        run: echo ${{ secrets.PERIBOLOS_GH_TOKEN }} >> github-token # a secret with the user token to be used for execution
+      - name: Run Peribolos
+        uses: docker://ghcr.io/dynatrace-innovationlab/peribolos:v0
+        with:
+          args: --fix-org --fix-org-members --fix-team-members --fix-teams --github-token-path github-token --min-admins=3 --config-path peribolos.yaml

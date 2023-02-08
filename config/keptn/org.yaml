@@ -1,0 +1,17 @@
+
+# org settings
+company: foo
+email: foo
+name: foo
+description: foo
+has_organization_projects: true
+has_repository_projects: true
+default_repository_permission: read
+members_can_create_repositories: false
+
+# org member settings
+members:
+- anne
+- bob
+admins:
+- carl
