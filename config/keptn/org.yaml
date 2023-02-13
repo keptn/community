@@ -15,3 +15,11 @@ members:
 - bob
 admins:
 - carl
+
+
+teams:
+  - maintainers:
+      members: []
+
+  - approvers:
+      members: []
