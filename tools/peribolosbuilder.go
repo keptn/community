@@ -1,5 +1,13 @@
 package main
 
+/*
+This file is heavily inspired from:
+https://github.com/kubernetes/org/blob/main/cmd/merge/main.go
+
+It was the basis for this merger, and some code parts are similar,
+but the general approach differs.
+*/
+
 import (
 	"flag"
 	"fmt"
