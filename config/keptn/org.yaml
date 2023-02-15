@@ -13,13 +13,14 @@ members_can_create_repositories: false
 members:
 - anne
 - bob
+
 admins:
 - carl
 
 
 teams:
-  - maintainers:
-      members: []
+  maintainers:
+    members: []
 
-  - approvers:
-      members: []
+  approvers:
+    members: []
