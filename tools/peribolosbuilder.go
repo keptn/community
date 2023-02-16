@@ -23,6 +23,7 @@ import (
 )
 
 const (
+	Admins      string = "admins"
 	Maintainers string = "maintainers"
 	Approvers   string = "approvers"
 )
@@ -32,6 +33,7 @@ type options struct {
 }
 type Group struct {
 	Repos       []string `json:"repos,omitempty"`
+	Admins      []string `json:"admins,omitempty"`
 	Maintainers []string `json:"maintainers,omitempty"`
 	Approvers   []string `json:"approvers,omitempty"`
 }
@@ -96,7 +98,6 @@ func loadOrgs(o options) (map[string]org.Config, error) {
 			cfg.Teams = map[string]org.Team{}
 		}
 		prefix := filepath.Dir(path)
-		allRepos := map[string]bool{}
 		err = filepath.Walk(prefix, func(path string, info os.FileInfo, err error) error {
 			switch {
 			case path == prefix:
@@ -107,28 +108,30 @@ func loadOrgs(o options) (map[string]org.Config, error) {
 			case !info.IsDir() && filepath.Dir(path) == prefix:
 				return nil // Ignore prefix/foo files
 			case filepath.Base(path) == "teams.yaml":
-				teams, repos, err := generateGroupConfig(path)
+				teams, err := generateGroupConfig(path)
 
 				if err != nil {
 					return err
 				}
 
 				maps.Copy(cfg.Teams, teams)
-				maps.Copy(allRepos, repos)
 			}
 			return nil
 		})
 		if err != nil {
 			return nil, fmt.Errorf("merge teams %s: %v", path, err)
 		}
+		admins := getGlobalTeam(cfg, Admins)
 		maintainers := getGlobalTeam(cfg, Maintainers)
 		approvers := getGlobalTeam(cfg, Approvers)
 
-		for name := range allRepos {
+		for name := range cfg.Repos {
+			admins.Repos[name] = github.Admin
 			maintainers.Repos[name] = github.Maintain
 			approvers.Repos[name] = github.Triage
 		}
 
+		cfg.Teams[Admins] = admins
 		cfg.Teams[Maintainers] = maintainers
 		cfg.Teams[Approvers] = approvers
 		config[name] = *cfg
@@ -147,12 +150,16 @@ func getGlobalTeam(cfg *org.Config, teamName string) org.Team {
 	return team
 }
 
-func generateGroupConfig(path string) (map[string]org.Team, map[string]bool, error) {
+func generateGroupConfig(path string) (map[string]org.Team, error) {
 	groupCfg, err := unmarshalGroup(path)
 	if err != nil {
-		return nil, nil, fmt.Errorf("error in %s: %v", path, err)
+		return nil, fmt.Errorf("error in %s: %v", path, err)
 	}
 
+	admins := org.Team{
+		Members: groupCfg.Admins,
+		Repos:   map[string]github.RepoPermissionLevel{},
+	}
 	maintainers := org.Team{
 		Members: groupCfg.Maintainers,
 		Repos:   map[string]github.RepoPermissionLevel{},
@@ -162,18 +169,17 @@ func generateGroupConfig(path string) (map[string]org.Team, map[string]bool, err
 		Repos:   map[string]github.RepoPermissionLevel{},
 	}
 
-	groupRepos := map[string]bool{}
-
 	// adding repos to the all repos list
 	for _, repo := range groupCfg.Repos {
+		admins.Repos[repo] = github.Admin
 		maintainers.Repos[repo] = github.Maintain
 		approvers.Repos[repo] = github.Triage
-		groupRepos[repo] = true
 	}
 
 	group := filepath.Base(filepath.Dir(path))
 	teams := map[string]org.Team{}
+	teams[group+"-"+Admins] = admins
 	teams[group+"-"+Maintainers] = maintainers
 	teams[group+"-"+Approvers] = approvers
-	return teams, groupRepos, nil
+	return teams, nil
 }

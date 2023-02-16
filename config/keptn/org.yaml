@@ -1,26 +1,273 @@
-
 # org settings
-company: foo
-email: foo
-name: foo
-description: foo
+company: ""
+email: hello@keptn.sh
+billing_email: keptn@dynatrace.com
+name: keptn
+description: Data-driven control plane for continuous delivery and operations
 has_organization_projects: true
 has_repository_projects: true
 default_repository_permission: read
 members_can_create_repositories: false
 
+admins:
+  - AloisReitbauer
+  - caniszczyk
+  - DavidPHirsch
+  - jetzlstorfer
+  - johannes-b
+  - keptn-bot
+  - thelinuxfoundation
+  - thisthat
 # org member settings
 members:
-- anne
-- bob
-
-admins:
-- carl
-
+  - aepfli
+  - afzal442
+  - agardnerIT
+  - agrimmer
+  - alipatton10
+  - arthurpitman
+  - bacherfl
+  - bradmccoydev
+  - checkelmann
+  - christian-kreuzberger-dtx
+  - ermin-muratovic
+  - eysk-io
+  - grabnerandi
+  - heinzburgstaller
+  - iamrajiv
+  - imsingh
+  - j-poecher
+  - jainammm
+  - jules1091
+  - Kavindu-Dodan
+  - Kirdock
+  - kristofre
+  - laneli
+  - martinhellwagner
+  - mehabhalodiya
+  - mowies
+  - nicoblak
+  - odubajDT
+  - oleg-nenashev
+  - pchila
+  - philipp-hinteregger
+  - ppcano
+  - Raffy23
+  - RealAnna
+  - renepanzar
+  - robertjahn
+  - sarahhuber001
+  - StackScribe
+  - TannerGabriel
+  - TannerGilbert
+  - telltale00
+  - thschue
+  - vadasambar
+  - warber
 
 teams:
+  admins:
+    members: [ ]
+
   maintainers:
-    members: []
+    members: [ ]
 
   approvers:
-    members: []
+    members: [ ]
+
+repos:
+  .github:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    default_branch: main
+    description: Global defaults and templates for the Keptn GitHub organization
+    has_projects: true
+    has_wiki: false
+  community:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    default_branch: main
+    description: 'Keptn community content: governance, community management, project
+      infrastructure etc.'
+    has_projects: true
+    has_wiki: false
+    homepage: https://keptn.sh/community
+  dns.keptn.sh:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    archived: true
+    description: Just like nip.io or xip.io, dns.keptn.sh is a magic domain name that
+      provides wildcard DNS for any IP address
+    has_issues: false
+    has_projects: true
+    homepage: https://keptn.sh
+  enhancement-proposals:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    default_branch: main
+    description: Keptn Enhancement Proposals
+    has_projects: true
+    has_wiki: false
+  examples:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    description: Examples for demonstrating keptn use cases
+    has_projects: true
+    has_wiki: false
+  get.keptn.sh:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    has_projects: false
+    has_wiki: false
+  gh-action-build-docker-image:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    description: GH Action to Build Docker Images with some Keptn-internal improvements
+    has_projects: true
+  gh-action-ci-prepare-keptn-cluster:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    default_branch: main
+    description: GH Action to install a Keptn on a Kubernetes cluster
+    has_projects: true
+  gh-action-extract-branch-name:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    default_branch: main
+    description: GH Action to extract branch name for commits and PRs
+    has_projects: false
+    has_wiki: false
+  gh-action-send-event:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    default_branch: main
+    description: GH Action to send an event to a Keptn installation
+    has_projects: true
+  gh-automation:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    default_branch: main
+    description: This repo is the single source of truth for pipelines that are shared
+      across Keptn repos
+    has_projects: false
+    has_wiki: false
+  go-utils:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    description: Keptn util library for golang
+    has_projects: true
+    has_wiki: false
+    homepage: https://keptn.sh
+  helm-charts:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    default_branch: main
+    has_projects: true
+  helm-charts-dev:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    default_branch: main
+    has_issues: false
+    has_projects: false
+    has_wiki: false
+  helmify:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    default_branch: main
+    description: Creates Helm chart from Kubernetes yaml
+    has_issues: false
+    has_projects: false
+    has_wiki: false
+  integrations:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    default_branch: main
+    description: Lists Keptn Integrations and ideas for new ones
+    has_projects: false
+    has_wiki: false
+  keptn:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    description: Cloud-native application life-cycle orchestration. Keptn automates
+      your SLO-driven multi-stage delivery and operations & remediation of your applications.
+    has_projects: true
+    homepage: https://keptn.sh
+  keptn.github.io:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    description: Keptn website and documentation portal
+    has_projects: true
+    has_wiki: false
+    homepage: https://keptn.sh
+  kubernetes-utils:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    archived: true
+    has_projects: true
+  lifecycle-toolkit:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    default_branch: main
+    description: Toolkit for cloud-native application lifecycle management
+    has_projects: true
+  lifecycle-toolkit-charts:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    default_branch: main
+    has_issues: false
+    has_projects: false
+    has_wiki: false
+  spec:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    description: 'Contains Keptn specifications: CloudEvents, Shipyard, Uniform, SLI/SLO,
+      Remediation'
+    has_projects: true
+    homepage: https://github.com/keptn/spec
+  toc:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    archived: true
+    description: Technical Oversight Committee (TOC)
+    has_issues: false
+    has_projects: true
+    has_wiki: false
+    homepage: https://cncf.io/
+  tutorials:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    description: Keptn tutorials site
+    has_projects: true
+    homepage: https://tutorials.keptn.sh/
+  wg-app-lifecycle:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    default_branch: main
+    description: Application Lifecycle Working group in Keptn
+    has_projects: true
+    has_wiki: false
