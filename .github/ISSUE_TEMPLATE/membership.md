@@ -70,8 +70,8 @@ Please remember, it is an applicant's responsibility to get their sponsors' conf
 - Issues responded to
 - SIG projects I am involved with
 
-## References
 
-- [Community Membership Guidelines]: https://github.com/keptn/community/blob/master/COMMUNITY_MEMBERSHIP.md
-- [Peribolos Configuration]: ./config/keptn/org.yaml
-- [Peribolos Configuration Directory]: ./config/keptn/
+[Community Membership Guidelines]: https://github.com/keptn/community/blob/master/COMMUNITY_MEMBERSHIP.md
+[Peribolos Configuration]: ./config/keptn/org.yaml
+[Peribolos Configuration Directory]: ./config/keptn/
+
