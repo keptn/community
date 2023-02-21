@@ -13,13 +13,18 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v3
+      
       - name: Generating Peribolos configuration
         run: cd tools && go run peribolosbuilder.go -config=../config > ../peribolos.yaml && cd ..
+        
       - name: Printing configuration for safety
         run: cat peribolos.yaml
+        
       - name: Preparing credentials
         run: echo ${{ secrets.PERIBOLOS_GH_TOKEN }} >> github-token # a secret with the user token to be used for execution
+        
       - name: Run Peribolos
         uses: docker://ghcr.io/dynatrace-innovationlab/peribolos:v0
         with:
