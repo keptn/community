@@ -187,7 +187,7 @@ Maintainers are the technical authority for all subprojects within the Keptn pro
 
 ### Requirements
 
-As `Maintainer` has the same requirements as a `subproject Maintainer` but those apply on a global-level.
+As `Maintainer` has the same requirements as a `subproject Maintainer` but those apply on a global level.
 
 - Deep understanding of the technical goals and direction of the subprojects
 - Deep understanding of the technical domain (specifically the language) of the subprojects
