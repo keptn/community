@@ -11,12 +11,9 @@ admins:
 
 # Maintainers have maintain access to the repo
 maintainers:
-  - thisthat
   - bacherfl
   - RealAnna
   - odubajDT
-  - thschue
-  - mowies
 
 # Approvers have write access to the repo, the scope is limited in CODEOWNERS
 approvers:

@@ -147,6 +147,9 @@ func getGlobalTeam(cfg *org.Config, teamName string) org.Team {
 	if team.Repos == nil {
 		team.Repos = map[string]github.RepoPermissionLevel{}
 	}
+	if team.Children == nil {
+		team.Children = map[string]org.Team{}
+	}
 	return team
 }
 
@@ -156,6 +159,7 @@ func generateGroupConfig(path string) (map[string]org.Team, error) {
 		return nil, fmt.Errorf("error in %s: %v", path, err)
 	}
 
+	group := filepath.Base(filepath.Dir(path))
 	admins := org.Team{
 		Members: groupCfg.Admins,
 		Repos:   map[string]github.RepoPermissionLevel{},
@@ -163,10 +167,16 @@ func generateGroupConfig(path string) (map[string]org.Team, error) {
 	maintainers := org.Team{
 		Members: groupCfg.Maintainers,
 		Repos:   map[string]github.RepoPermissionLevel{},
+		Children: map[string]org.Team{
+			group + "-" + Admins: admins,
+		},
 	}
 	approvers := org.Team{
 		Members: groupCfg.Approvers,
 		Repos:   map[string]github.RepoPermissionLevel{},
+		Children: map[string]org.Team{
+			group + "-" + Maintainers: maintainers,
+		},
 	}
 
 	// adding repos to the all repos list
@@ -176,10 +186,7 @@ func generateGroupConfig(path string) (map[string]org.Team, error) {
 		approvers.Repos[repo] = github.Triage
 	}
 
-	group := filepath.Base(filepath.Dir(path))
 	teams := map[string]org.Team{}
-	teams[group+"-"+Admins] = admins
-	teams[group+"-"+Maintainers] = maintainers
 	teams[group+"-"+Approvers] = approvers
 	return teams, nil
 }
