@@ -1,0 +1,10 @@
+
+repos:
+  - keptn.github.io
+  - tutorials
+
+approvers: []
+
+maintainers:
+  - StackScribe
+  - aepfli

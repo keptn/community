@@ -23,4 +23,4 @@ jobs:
       - name: Run Peribolos
         uses: docker://ghcr.io/dynatrace-innovationlab/peribolos:v0
         with:
-          args: --fix-org --fix-org-members --fix-team-members --fix-teams --github-token-path github-token --min-admins=3 --config-path peribolos.yaml
+          args: --fix-org --fix-org-members --fix-repos --fix-team-members --fix-teams --github-token-path github-token --min-admins=3 --config-path peribolos.yaml

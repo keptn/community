@@ -10,16 +10,24 @@ default_repository_permission: read
 members_can_create_repositories: false
 
 admins:
+  # governance committee
+  - AlexsJones
+  - AnaMMedina21
   - AloisReitbauer
+  # CNCF
+  - thelinuxfoundation
   - caniszczyk
+  # emeritus
   - DavidPHirsch
   - jetzlstorfer
   - johannes-b
-  - keptn-bot
-  - thelinuxfoundation
   - thisthat
+  # peribolos
+  - keptn-bot
 # org member settings
 members:
+  - AlexsJones
+  - AnaMMedina21
   - aepfli
   - afzal442
   - agardnerIT
@@ -67,13 +75,40 @@ members:
 
 teams:
   admins:
-    members: [ ]
+    members:
+      - mowies
+      - thisthat
 
   maintainers:
-    members: [ ]
+    members: []
 
   approvers:
-    members: [ ]
+    members: []
+
+  technical-steering-committee:
+    members: []
+
+  governance-committee:
+    members:
+      - AloisReitbauer
+      - AlexsJones
+      - AnaMMedina21
+
+  gsoc-2022:
+    members:
+      - ppcano
+      - imsingh
+      - oleg-nenashev
+      - StackScribe
+      - afzal442
+      - bradmccoydev
+      - agardnerIT
+      - jainammm
+      - vadasambar
+      - thschue
+      - iamrajiv
+      - eysk-io
+      - mehabhalodiya
 
 repos:
   .github:
