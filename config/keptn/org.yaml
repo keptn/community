@@ -80,7 +80,9 @@ teams:
       - thisthat
 
   maintainers:
-    members: []
+    members:
+      - mowies
+      - thisthat
 
   approvers:
     members: []
