@@ -180,7 +180,7 @@ The process for becoming a maintainer should be defined in the project or subpro
 
 ## Maintainer
 
-Maintainers are the technical authority for all subprojects within the Keptn project. They *MUST* have demonstrated both good judgment and responsibility towards the health of the Keptn project. Maintainers *MUST* set technical direction and make or approve design decisions for those subproject; either directly or through delegation of these responsibilities.
+Maintainers are the technical authority for all subprojects within the Keptn project. They *MUST* have demonstrated both good judgment and responsibility towards the health of the Keptn project. Maintainers *MUST* set technical direction and make or approve design decisions for the overall project; either directly or through delegation of these responsibilities.
 
 *Defined by:*
 * [Maintainers of the Keptn GitHub organization](https://github.com/orgs/keptn/teams/maintainers) and listed within [Peribolos Configuration][Peribolos Configuration] maintainer team
