@@ -46,3 +46,10 @@ There are also some resources stored in this repository or elsewhere:
 Any contributions to the Keptn community will be appreciated!
 See the [Keptn Contributing Guidelines](https://keptn.sh/community/contributing/) and the [Contributing FAQ](https://keptn.sh/community/faq/).
 
+## Contributors
+
+<a href="https://github.com/keptn/community/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=keptn/community" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
