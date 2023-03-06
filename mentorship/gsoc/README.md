@@ -10,6 +10,10 @@ to work well-defined projects to improve or enhance the Keptn project and its ec
 In exchange, numerous community members volunteer as "mentors" for GSoC contributors 
 to help integrate them into the open source community and succeed in completing their projects.
 
+## GSoC Programs
+* [2023](./2023/README.md)
+* [2022](./2022/README.md)
+
 ## Participate
 
 We invite GSoC contributors to submit project proposal applications in relation to the [2023 Project ideas](https://github.com/cncf/mentoring/blob/main/summerofcode/2023.md#keptn).
