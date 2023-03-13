@@ -1,3 +1,7 @@
+---
+linktitle: Governance Committee Candidates
+---
+
 # 2022 Keptn Bootstrap Governance Committee Candidates
 
 ## List of candidates

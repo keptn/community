@@ -1,4 +1,9 @@
-# Community Rockstar 🚀
+---
+title: Keptn Community Rockstars
+linktitle: Rockstart
+description: Our Honored Members
+hide: true
+---
 
 The Keptn community is growing and we are awarding individuals that help us in this mission!
 
