@@ -1,35 +1,49 @@
-# Keptn Community membership
-
-**Last updated:** 2021-08-26
+# Contributor Ladder
 
 **Disclaimer:** This document borrows heavily from the [Community Membership of OpenTelemetry](https://github.com/open-telemetry/community/blob/3f44aedd70334999b8a63586cf44f747776bddd3/community-membership.md).
 
-This document outlines the various responsibilities of contributor roles in Keptn. 
-The Keptn project consists of:
-  * one **main project** with the [core services of Keptn](https://github.com/keptn/keptn)
-  * **Keptn-contrib** that contains [integrations and contributions](https://github.com/keptn-contrib) for Keptn
-  * **Keptn-sandbox** that new [contributions to Keptn by the community](https://github.com/keptn-sandbox) and not maintained by Keptn core maintainers 
+**Ownership:** This document is owned by the Governance committee, Technichal committee and community manager [ADD LINK TO GOVERNACE AND TC]().
 
-Responsibilities for the roles in this document are scoped to the *main project* and *Keptn contrib*.
+Hello! We are excited that you want to learn more about our project contributor ladder! This contributor ladder outlines the different contributor roles within the project, along with the responsibilities and privileges that come with them. Community members generally start at the first levels of the "ladder" and advance up it as their involvement in the project grows. Our project members are happy to help you advance along the contributor ladder.
 
-The Keptn maintainers own this document and process until delegated. They can be reached via e-mail at keptn@dynatrace.com.
+Each of the roles is organized into lists of three types of things. "Responsibilities" are things that a contributor is expected to do. "Requirements" are qualifications a person needs to meet to be in that role, and "Privileges" are things contributors on that level are entitled to.
 
-| **Role**   | **Responsibilities**                                  | **Requirements**                                             | **Defined by**                                               |
-| ---------- | ----------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Member     | Active contributor in the community and reviewer of PRs | Sponsored by 2 approvers or maintainers. Multiple (infrequent) contributions to the project. | [Members of the Keptn GitHub organization](https://github.com/orgs/keptn/teams/members) and [listed here](https://github.com/keptn/keptn/blob/master/MAINTAINERS)                          |
-| Approver   | Approve contributions                       | Sponsored by 2 maintainers. Highly experienced and active member with frequent contributions. | - [Approvers of the Keptn GitHub organization](https://github.com/orgs/keptn/teams/approvers) and [listed here](https://github.com/keptn/keptn/blob/master/MAINTAINERS) <br>- [CODEOWNERS](https://help.github.com/en/articles/about-code-owners) in [Keptn](https://github.com/keptn/keptn) |
-| Maintainer | Set direction and priorities for a subproject         | Sponsored by 2 maintainers. Demonstrates responsibility and excellent technical judgment for the whole project. | - [Maintainers of the Keptn GitHub organization](https://github.com/orgs/keptn/teams/maintainers) and [listed here](https://github.com/keptn/keptn/blob/master/MAINTAINERS)<br>- [CODEOWNERS](https://help.github.com/en/articles/about-code-owners) in [Keptn](https://github.com/keptn/keptn)<br> - Ownership of the GitHub repository |
+## Community Participant
 
-**Note**: Links to *Members-, Approvers-, and Maintainers of the Keptn GitHub organization* are not publicly accessible.
+A Community Participant engages with the project and its community, contributing their time, thoughts, etc. Community participants are usually users who have stopped being anonymous and started being active in project discussions.
 
+- Responsibilities:
+  - Must follow the [CNCF CoC](https://github.com/cncf/foundation/blob/main/code-of-conduct.md)
+- How users can get involved with the community:
+  - Participating in community discussions
+  - Submitting bug reports
+  - Commenting on issues
+  - Trying out new releases
+  - Attending community events
+  - Reviewing pull requests
 
-## New contributors
+## Contributor
 
-New contributors are welcomed to the community by existing members, helped with PR workflow, and directed to relevant documentation and communication channels.
+A Contributor contributes directly to the project and adds value to it. Contributions need not be code. People at the Contributor level may be new contributors, or they may only contribute occasionally.
 
-## Established community members
+- Responsibilities include:
+  - Follow the [CNCF CoC](https://github.com/cncf/foundation/blob/main/code-of-conduct.md)
+  - Follow the project contributing guide
+- Requirements (one or several of the below):
+  - Report and sometimes resolve issues
+  - Occasionally submit PRs
+  - Contribute to the documentation
+  - Show up at meetings, takes notes
+  - Answer questions from other community members
+  - Submit feedback on issues and PRs
+  - Test releases and patches and submit reviews
+  - Run or helps run events
+  - Promote the project in public
+  - Help run the project infrastructure
+- Privileges:
+  - Invitations to contributor events
+  - Eligible to become an Organization Member
 
-Established community members are expected to demonstrate their adherence to the principles in this document, familiarity with project organization, roles, policies, procedures, conventions, and technical and writing ability. Role-specific expectations, responsibilities, and requirements are enumerated below.
 
 ## Member
 
