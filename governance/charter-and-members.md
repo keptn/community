@@ -120,6 +120,6 @@ See [Community membership](./COMMUNITY_MEMBERSHIP.md) for additional information
 
 
 
-and hence an organization can have only up to three seats.
+An organization can have only up to three seats.
 The project maintainers are also responsible to review their nominations with the community,
 and to do the best effort to address any feedback/concerns.
