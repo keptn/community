@@ -4,7 +4,7 @@ Last update: March 2023
 
 ## Overview
 
-This document describes the process for the OpenTelemetry Governance Committee.
+This document describes the process for the Keptn Governance Committee.
 It describes the formation of the initial governance committee and its core responsibilities.
 This includes its governance processes and processes to reform itself as necessary.
 
