@@ -1,0 +1,11 @@
+---
+CheckDoctype: false
+IgnoreDirs:
+  - favicons
+  - readme
+  - mentorship
+IgnoreURLs:
+  - "linkedin.com"
+  - "localhost"
+  - "canva.com"
+StripQueryString: false

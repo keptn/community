@@ -1,3 +1,7 @@
+---
+linktitle: Advisory Board
+---
+
 # Keptn Advisory Board
 
 > :warning: This document is a **draft**.
@@ -60,7 +64,7 @@ The term can be prolonged indefinitely based on community approval.
 
 Advisory board members can step down at any moment.
 In exceptional situations,
-for example severe [Code of Conduct](./CODE_OF_CONDUCT.md) violations,
+for example severe [Code of Conduct](../../code_of_conduct/) violations,
 members can be removed from the Advisory Board
 after a decision made by the community.
 

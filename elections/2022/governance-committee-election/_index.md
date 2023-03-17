@@ -1,6 +1,10 @@
+---
+linktitle: Governance Committee election
+---
+
 # Keptn 2022 Bootstrap Governance Committee election
 
-Please see **[the list of candidates running in the election here](./governance-committee-candidates.md)**.
+Please see **[the list of candidates running in the election here](../governance-committee-candidates/)**.
 
 This election should fill three seats.
 
@@ -33,7 +37,7 @@ Helios voting also allows us to add GitHub handles to the list of voters in addi
 
 # Nominations
 
-Anybody is eligible to run for the Governance Committee. During the "call for nomination" period, people can be nominated or nominate themselves by expressing their interest in [this issue](https://github.com/keptn/community/issues/184) a Pull Request adding said candidate to the [governance-committee-candidates.md](https://github.com/keptn/community/blob/main/elections/2022/governance-committee-candidates.md) file in the Keptn community repository. The template in that file includes the following columns:
+Anybody is eligible to run for the Governance Committee. During the "call for nomination" period, people can be nominated or nominate themselves by expressing their interest in [this issue](https://github.com/keptn/community/issues/184) a Pull Request adding said candidate to the [governance-committee-candidates.md](../governance-committee-candidates/) file in the Keptn community repository. The template in that file includes the following columns:
 
 * Full name
 * GitHub alias

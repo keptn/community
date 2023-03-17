@@ -1,4 +1,8 @@
-# Keptn Incubation in the CNCF
+---
+linktitle: CNCF Incubation
+---
+
+# CNCF Incubation
 
 In June 2021 the Keptn project applied for the incubation status in the
 [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/).

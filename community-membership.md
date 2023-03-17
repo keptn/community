@@ -1,8 +1,12 @@
-# Keptn Community membership
+---
+title: Keptn Community membership
+linktitle: Membership
+description: Roles and Responsibilities of Community Members
+---
 
 **Last updated:** 2021-08-26
 
-**Disclaimer:** This document borrows heavily from the [Community Membership of OpenTelemetry](https://github.com/open-telemetry/community/blob/3f44aedd70334999b8a63586cf44f747776bddd3/community-membership.md).
+**Disclaimer:** This document borrows heavily from the [Community Membership of OpenTelemetry](https://github.com/open-telemetry/community/blob/3f44aedd70334999b8a63586cf44f747776bddd3/community-membership).
 
 This document outlines the various responsibilities of contributor roles in Keptn. 
 The Keptn project consists of:
