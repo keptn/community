@@ -2,7 +2,7 @@
 title: Community
 linktitle: Community
 type: docs
-description: Learn how to use Keptn.vasdfasdfsadf
+description: Learn how to use Keptn.
 cascade:
   type: docs
 menu:
