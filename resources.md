@@ -1,4 +1,7 @@
-# Keptn blogs, videos and other resources
+---
+title: Keptn blogs, videos and other resources
+linktitle: Resources
+---
 
 ## Blogs
 

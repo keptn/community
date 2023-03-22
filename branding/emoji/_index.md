@@ -1,3 +1,7 @@
+---
+linktitle: Emoji
+---
+
 # Keptn Emoji
 
 We use custom Keptn emoji on Slack and other channels.
