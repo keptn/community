@@ -1,7 +1,11 @@
+---
+title: New Documentation Site Engine
+linktitle: New Documentation Site Engine
+---
 <div align="center">
-<img src="https://raw.githubusercontent.com/iamrajiv/GSoC-2022/main/assets/gsoc-2022-1.svg" height="auto" width="600" />
+<img data-proofer-ignore src="https://raw.githubusercontent.com/iamrajiv/GSoC-2022/main/assets/gsoc-2022-1.svg" height="auto" width="600" />
 <br />
-<img src="https://raw.githubusercontent.com/iamrajiv/GSoC-2022/main/assets/gsoc-2022-2.svg" height= "auto" width="400" />
+<img data-proofer-ignore src="https://raw.githubusercontent.com/iamrajiv/GSoC-2022/main/assets/gsoc-2022-2.svg" height= "auto" width="400" />
 <br />
 <h1>Keptn</h1>
 <h3>
@@ -137,7 +141,7 @@ Some reasons why we want the Multiple repository docs support feature:
 For the current documentation site engine, we generate docs using the Keptn CLI
 The source for the Keptn CLI reference pages is moved from the software repository to the docs repository as a batch process (using the `keptn generate docs` command).
 
-But that doesn't actually generate the docs -- it just copies the source for those pages to the doc repo and then the pages are generated each time the docs are rebuilt. For example, for the 0.18.x release, the source for the CLI reference pages is in https://github.com/keptn/keptn.github.io/tree/master/content/docs/0.18.x/reference/cli/commands and one can go in and modify those pages and instantly change what is built for the doc site. Of course, those changes get overwritten the next time we pull the source from keptn/keptn so we shouldn't be modifying it.
+But that doesn't actually generate the docs -- it just copies the source for those pages to the doc repo and then the pages are generated each time the docs are rebuilt. For example, for the 0.18.x release, the source for the CLI reference pages is in <https://github.com/keptn/keptn.github.io/tree/master/content/docs/0.18.x/reference/cli/commands> and one can go in and modify those pages and instantly change what is built for the doc site. Of course, those changes get overwritten the next time we pull the source from keptn/keptn so we shouldn't be modifying it.
 
 - The source for the Keptn CLI reference pages is moved from the software repository to the docs repository as a batch job. As of now, we run it in GitHub action [here](https://github.com/keptn/keptn.github.io/blob/9c649b434c9081028e0cc3535c9fa3a4217941fb/.github/workflows/auto-update.yml#L72) to populate our docs repo with CLI docs. We must achieve at least this functionality under Docusaurus. Ideally, we would enhance it so that a change to the source in the software repository would immediately trigger a PR to the docs repository so that the docs are constantly up-to-date and batch processing for a new release is not required.
 - If we look at the architecture doc [here](https://keptn.sh/docs/concepts/architecture/), the Keptn control plan consists of multiple services which have their READMEs in the main Keptn repository ([example](https://github.com/keptn/keptn/tree/master/jmeter-service)). Just look for any directory with `service` in [https://github.com/keptn/keptn](https://github.com/keptn/keptn), we can see individual READMEs for all such services. It's a good idea to move these READMEs to the docs site because the people who develop and maintain these services are responsible for updating the READMEs. Having them in a single place just makes it easier to update the READMEs and read them later as well. We have other files in the software repositories that should be imported to the documentation, such as the `values.yaml` files that configure Helm charts. We need to define all such entities and then devise schemes that allow us to author content in the software repository but build an integrated doc set with that content.
@@ -356,5 +360,5 @@ I am deeply grateful to my mentors [Indermohan Singh](https://github.com/imsingh
 - [Restructure documentation](https://docs.google.com/document/d/12xVgFSV5Q7keDXOqVFE8pqY0Qkhq--nKsP-7NkVuyjA/edit#heading=h.vm22oe3mkivh)
 
 <div align="right">
-<img src="https://raw.githubusercontent.com/iamrajiv/GSoC-2022/main/assets/gsoc-2022-3.svg" height="auto" width="100" />
+<img src="https://raw.githubusercontent.com/iamrajiv/GSoC-2022/main/assets/gsoc-2022-3.svg" height="auto" width="100" data-proofer-ignore />
 </div>

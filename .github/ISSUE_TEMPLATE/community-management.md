@@ -13,7 +13,6 @@ assignees: ''
 
 ### References
 
-
 ### Sponsors
 
 <!-- Mention Keptn maintainer sponsors here, if any -->

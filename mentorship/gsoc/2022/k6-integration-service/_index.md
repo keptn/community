@@ -1,7 +1,12 @@
+---
+title: K6 Integration Service
+linktitle: K6 Integration Service
+---
+
 <div align="center">
-<img src="https://raw.githubusercontent.com/iamrajiv/GSoC-2022/main/assets/gsoc-2022-1.svg" height="auto" width="600" />
+<img data-proofer-ignore src="https://raw.githubusercontent.com/iamrajiv/GSoC-2022/main/assets/gsoc-2022-1.svg" height="auto" width="600" />
 <br />
-<img src="https://raw.githubusercontent.com/iamrajiv/GSoC-2022/main/assets/gsoc-2022-2.svg" height= "auto" width="400" />
+<img data-proofer-ignore src="https://raw.githubusercontent.com/iamrajiv/GSoC-2022/main/assets/gsoc-2022-2.svg" height= "auto" width="400" />
 <br />
 <h1>Keptn</h1>
 <h3>
@@ -17,12 +22,13 @@ K6 Integration Service
 - [Work Summary](#work-summary)
   - [Run Standard K6](#run-standard-k6)
   - [Support for K6 extensions](#support-for-k6-extensions)
-  - [Quality Gates Evaluation](#quality-gates-Evaluation)
+  - [Quality Gates Evaluation](#quality-gates-evaluation)
   - [Tutorials](#tutorials)
 - [Challenges](#challenges)
 - [Acknowledgments](#acknowledgments)
 - [Project Resources](#project-resources)
 - [References](#references)
+
 ## Introduction
 
 K6 is an open-source tool widely used for load testing.
@@ -46,13 +52,14 @@ Further goals include adding SLI and SLO compliance using Prometheus which K6 su
 
 ## Project Details
 
-Support for K6 will help extend Keptn community users to switch/use it as performance testing tool. 
-K6 is considered to be a modern tool for DevOps like Keptn, so the community might be inclined towards using it. 
+Support for K6 will help extend Keptn community users to switch/use it as performance testing tool.
+K6 is considered to be a modern tool for DevOps like Keptn, so the community might be inclined towards using it.
 
-Some of the features of K6 include: 
-* It has good resource utilization and one load generator can simulate tens of thousands of virtual users
-* It is code-driven, with JavaScript as scripting language
-* K6 has native support for Prometheus
+Some of the features of K6 include:
+
+- It has good resource utilization and one load generator can simulate tens of thousands of virtual users
+- It is code-driven, with JavaScript as scripting language
+- K6 has native support for Prometheus
 
 Thresholds in K6 are used for some specific pass/fail criteria. This feature is very commonly used. Based on passed/failed of Thresholds results, we'll return the state to the Keptn control plane.
 
@@ -60,12 +67,13 @@ The K6 service will suscribe to the `sh.keptn.event.test.triggered` CloudEvent a
 
 ## Work Summary
 
-The three major milestones of this project were as follows: 
+The three major milestones of this project were as follows:
+
 1. Run standard K6
 2. Support K6 extensions
 3. Use the metrics exported by K6 Extension for Keptn's Quality Gate evaluations
 
-All the three milestones were achieved. 
+All the three milestones were achieved.
 
 ### Run Standard K6
 
@@ -86,21 +94,21 @@ The tutorials have been kept in 3 parts in the main project repository: [keptn-s
 ## Challenges
 
 Various challenges were faced during the project. Some are
-* Job Executor Service and Keptn setup
-* Communication from K6 extension running in JES and Prometheus
-* Docker images for K6 extension not published officially
-* Unique identifier for the K6 metrics in Prometheus based on project, stage and service
+
+- Job Executor Service and Keptn setup
+- Communication from K6 extension running in JES and Prometheus
+- Docker images for K6 extension not published officially
+- Unique identifier for the K6 metrics in Prometheus based on project, stage and service
 
 ## Acknowledgments
 
-I would like to thank [Adam Gardner](https://github.com/agardnerit/) and [Pepe Cano](https://github.com/ppcano/) for mentoring me through the GSOC period and helping me learn lot of cool things. I'd also like to thank [Oleg Nenashev](https://github.com/oleg-nenashev) and [Keptn](https://github.com/keptn/keptn) Community for providing me this opportunity. 
-
+I would like to thank [Adam Gardner](https://github.com/agardnerit/) and [Pepe Cano](https://github.com/ppcano/) for mentoring me through the GSOC period and helping me learn lot of cool things. I'd also like to thank [Oleg Nenashev](https://github.com/oleg-nenashev) and [Keptn](https://github.com/keptn/keptn) Community for providing me this opportunity.
 
 ## Project Resources
 
-* [Repository](https://github.com/keptn-sandbox/k6-service)
-* [SCRUM Board](https://github.com/keptn-sandbox/k6-service/projects/1)
-* [Meeting Minutes](https://docs.google.com/document/d/1A3gbtQ6-YOTpO3v_ltBgHWTODFt93zByHXWVJ6r0jcg/edit?usp=sharing)
+- [Repository](https://github.com/keptn-sandbox/k6-service)
+- [SCRUM Board](https://github.com/keptn-sandbox/k6-service/projects/1)
+- [Meeting Minutes](https://docs.google.com/document/d/1A3gbtQ6-YOTpO3v_ltBgHWTODFt93zByHXWVJ6r0jcg/edit?usp=sharing)
 
 <!-- * Meeting Schedule [No Longer Scheduled]
   * Every Thursday @ 8:30 UTC
@@ -108,13 +116,11 @@ I would like to thank [Adam Gardner](https://github.com/agardnerit/) and [Pepe C
 
 ## References
 
-* [Project page at GSoC website](https://summerofcode.withgoogle.com/programs/2022/projects/0xICJhw8)
-* [Contributor Proposal Link](https://docs.google.com/document/d/1wG8Mobj5Hpa6x82KN7VdXqDwC_kBEHes/edit?usp=sharing&ouid=110707808117776486784&rtpof=true&sd=true)
-* [https://github.com/keptn](https://github.com/keptn)
-* [https://github.com/grafana/k6](https://github.com/grafana/k6)
-
-
+- [Project page at GSoC website](https://summerofcode.withgoogle.com/programs/2022/projects/0xICJhw8)
+- [Contributor Proposal Link](https://docs.google.com/document/d/1wG8Mobj5Hpa6x82KN7VdXqDwC_kBEHes/edit?usp=sharing&ouid=110707808117776486784&rtpof=true&sd=true)
+- [https://github.com/keptn](https://github.com/keptn)
+- [https://github.com/grafana/k6](https://github.com/grafana/k6)
 
 <div align="right">
-<img src="https://raw.githubusercontent.com/iamrajiv/GSoC-2022/main/assets/gsoc-2022-3.svg" height="auto" width="100" />
+<img src="https://raw.githubusercontent.com/iamrajiv/GSoC-2022/main/assets/gsoc-2022-3.svg" height="auto" width="100" data-proofer-ignore/>
 </div>

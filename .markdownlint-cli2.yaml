@@ -1,0 +1,15 @@
+config:
+  line-length: false
+  no-inline-html:
+    allowed_elements:
+      - details
+      - summary
+  github-admonition: true
+  max-one-sentence-per-line: true
+
+ignores:
+  - "CHANGELOG.md"
+  - "node_modules"
+  - "tmp"
+  - "mentorship/gsoc/2022"
+  - "elections/2022"

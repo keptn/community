@@ -1,3 +1,6 @@
+---
+linktitle: 2022
+---
 # Keptn in GSoD 2022 - Project description
 
 This document presents the Google Season of Docs project
@@ -33,10 +36,10 @@ Technical writers should focus on 2-3 deliverables from the list below:
 
 Create and test installation instructions for creating a k8s cluster on which Keptn can be installed for demo and evaluation purposes.
 Create excellent instructions for installing Keptn CLI and Keptn on this new cluster.
-Confirm that one set of instructions works for all k8s implementations and all “Keptn curious” projects we provide. 
+Confirm that one set of instructions works for all k8s implementations and all “Keptn curious” projects we provide.
 If necessary, create multiple instruction sets, clearly defining when each is appropriate.
 
-Also, we propose to create and test instructions for installing a Keptn “playground” in an existing k8s cluster for study and demos. 
+Also, we propose to create and test instructions for installing a Keptn “playground” in an existing k8s cluster for study and demos.
 The goal here is to provide an environment where someone can try Keptn out with their existing data without risking damage to an existing production system (such as Prometheus, Dynatrace, DataDog, etc.)
 
 For this deliverable, instructions should be pedagogical rather than a pure cookbook:
@@ -45,8 +48,8 @@ Include information for verifying each step and some troubleshooting information
 
 #### New example projects
 
-Create 5-6 projects that introduce key Keptn capabilities for the Keptn curious to explore. 
-We have some existing tutorials to use as starters or inspiration. 
+Create 5-6 projects that introduce key Keptn capabilities for the Keptn curious to explore.
+We have some existing tutorials to use as starters or inspiration.
 Note that many of the existing tutorials use the [sockshop project](https://github.com/keptn-demo/sockshop) as a base;
 and some updates will be needed there.
 
@@ -58,7 +61,7 @@ Each project should include:
 
 #### Separate guides for roles
 
-We want to introduce separate documentation for different Keptn user roles: 
+We want to introduce separate documentation for different Keptn user roles:
 administrators, end-users, and developers.
 We suggest working together to regroup the content so that the new structure is introduced.
 
@@ -90,7 +93,7 @@ This project would assess the Keptn documentation, to help us come up with a pla
 - More info: [tech docs](https://github.com/cncf/techdocs/blob/main/assessments/howto.md) and [criteria](https://github.com/cncf/techdocs/blob/main/assessments/criteria.md)
 - Slack channel for technical discussion: `#keptn-docs`
 - Areas to study/improve: Technical writing, Documentation, English, Git
-- Project size: 
+- Project size:
 - Difficulty: Easy
 - Potential mentor(s): Meg McRoberts
 
@@ -98,7 +101,7 @@ This project would assess the Keptn documentation, to help us come up with a pla
 
 Architect information about how to contribute to Keptn
 (and potentially related projects),
-get community approval for the proposal, then implement it. 
+get community approval for the proposal, then implement it.
 For some preliminary notes about what is currently there and issues, see
 [this proposal](https://docs.google.com/document/d/10rhdsh3E-d4zYq1jJzS6cJM78x1ViyPvRZVkn-h4HgY/edit?usp=sharing).
 

@@ -31,14 +31,14 @@ linktitle: Resources
 | [Scaling Continuous Delivery and Runbook Automation via Tool Interoperability Interfaces](https://medium.com/keptn/scaling-continuous-delivery-and-runbook-automation-via-tool-interoperability-interfaces-5ded97eceb3b?source=friends_link&sk=7d3da49609717585b4aeabe6ba114667) | Andreas | generic
 | [Reduce risk with Feature Toggle service and Keptn](https://www.unleash-hosted.com/articles/reduce-risk-with-feature-toggles-and-keptn) | EXTERNAL | 0.6.0 |
 | [Implementing SLI/SLO based Continuous Delivery Quality Gates using Prometheus](https://medium.com/keptn/implementing-sli-slo-based-continuous-delivery-quality-gates-using-prometheus-9e17ec18ca36?source=friends_link&sk=22e163eb22df2d4a3c8e49d5e06d3802) | Jürgen | 0.6.x / generic |
-| [Using AI and automation to build resiliency into Bitbucket pipelines](https://community.atlassian.com/t5/Marketplace-Apps-Integrations/Using-AI-and-automation-to-build-resiliency-into-Bitbucket/ba-p/1343165) | Rob | 0.6.x | 
+| [Using AI and automation to build resiliency into Bitbucket pipelines](https://community.atlassian.com/t5/Marketplace-Apps-Integrations/Using-AI-and-automation-to-build-resiliency-into-Bitbucket/ba-p/1343165) | Rob | 0.6.x |
 | [Advanced production support with Keptn 0.7](https://medium.com/keptn/advanced-production-support-with-keptn-0-7-d24f9cac8805?source=friends_link&sk=34e91da71f19eb783c2634717b9cf91d) | Johannes | 0.7.0 |
 | [Micro operations — A new operations model for the micro services age](https://medium.com/@alois.reitbauer_97826/micro-operations-a-new-operations-model-for-the-micro-services-age-e29cd1bbd0cd) | Alois | generic |
-| [Overcoming scalability issues in your Prometheus ecosystem](https://medium.com/keptn/overcoming-scalability-issues-in-your-prometheus-ecosystem-4430cea6472f?source=friends_link&sk=edf9a96ff81721c290e005fc7b4b9bfb) | Jürgen | generic | 
+| [Overcoming scalability issues in your Prometheus ecosystem](https://medium.com/keptn/overcoming-scalability-issues-in-your-prometheus-ecosystem-4430cea6472f?source=friends_link&sk=edf9a96ff81721c290e005fc7b4b9bfb) | Jürgen | generic |
 | [ERT Helps Medical Researchers Accelerate Clinical Trials with AI-Assistance from Dynatrace](https://www.oaoa.com/news/business/article_bb7a6c86-e06c-535d-bf22-52c5110a1daf.html) | EXTERNAL | generic |
-| [Closed-loop Remediation with custom Integrations](https://medium.com/keptn/closed-loop-remediation-with-custom-integrations-43bde377b796?sk=e029f50a75f7d5e6be09571b1f1c6250) | Johannes | 0.7.0 | 
-| [Multi-stage continuous delivery with Keptn on Civo - Leveling up your CD!](https://www.civo.com/blog/civo-community-meetup-3) | EXTERNAL | 0.7.x | 
-| [Automate Test Analysis with a custom Keptn SLI Provider](https://www.neotys.com/blog/neotyspac-automate-test-analysis-custom-keptn-sli-provider-andreas-grabner/) | EXTERNAL | 0.7.x | 
+| [Closed-loop Remediation with custom Integrations](https://medium.com/keptn/closed-loop-remediation-with-custom-integrations-43bde377b796?sk=e029f50a75f7d5e6be09571b1f1c6250) | Johannes | 0.7.0 |
+| [Multi-stage continuous delivery with Keptn on Civo - Leveling up your CD!](https://www.civo.com/blog/civo-community-meetup-3) | EXTERNAL | 0.7.x |
+| [Automate Test Analysis with a custom Keptn SLI Provider](https://www.neotys.com/blog/neotyspac-automate-test-analysis-custom-keptn-sli-provider-andreas-grabner/) | EXTERNAL | 0.7.x |
 | [Automated Quality Gates in Performance Testing](https://www.neotys.com/blog/automated-quality-gates-in-performance-testing/) | EXTERNAL | 0.7.x |
 | [Distributed Load Testing Using Argo + Keptn in Kubernetes ( Distro )](https://sumitnagal.medium.com/distributed-load-testing-using-argo-in-kubernetes-distro-132c350f8733) | EXTERNAL | generic |
 | [Evaluating Resiliency with Keptn and LitmusChaos](https://dev.to/ksatchit/part-1-evaluating-resiliency-with-keptn-and-litmuschaos-30jo) | EXTERNAL | generic |
@@ -48,34 +48,33 @@ linktitle: Resources
 
 | Event | Recording |
 | ---   | --- |
-| Cloud Native London Meetup, July 2019 | https://skillsmatter.com/skillscasts/14095-continuous-deployment-and-operations-on-kubernetes-with-keptn |
-| Cloud Native Meetup Silicon Valley, Dec 12, 2019 | https://www.altoros.com/blog/automating-event-based-continuous-delivery-on-kubernetes-with-keptn/ (embedded at the bottom of the page) |
-| Seattle SRE Meetup, April 2020 | https://www.youtube.com/watch?v=qJXeDHfJkIU |
-| Cloud Native Meetup Manchester, June 2020 | https://www.youtube.com/watch?v=5sEahc9dQkc |
-| ScaleUp 360° Continuous Delivery Europe, June 2020 | https://vimeo.com/429239811/ca5681199e | 
-| Cloud Native PDX, June 2020 | https://www.youtube.com/watch?v=Fu-7U0GopSM | 
-| Cloud Native London, July 2020 | https://www.youtube.com/watch?v=YzsKp6Je8eY | 
-| Cloud Native Night Munich, July 2020 | https://www.youtube.com/watch?v=nXS2kCLqPzk [(mirror)](https://youtu.be/RbAp5YuPjZI) | 
-| Cloud Native Berlin, September 2020 | https://www.youtube.com/watch?v=3QQtP8PtO1s&feature=youtu.be |
-| Cloud Native Madison, September 2020 | https://www.youtube.com/watch?v=8E0tAp0F6BU | 
-| DevOps Stage, October 2020 | [YouTube playlist](https://www.youtube.com/playlist?list=PL2DFnm8LBPXrCYIr4IXr3BrMDuqJ83GJo&utm_source=eSputnik-promo&utm_medium=email&utm_campaign=%F0%9F%91%80Records_DevOps_Stage_conference&utm_content=913910151) | 
+| Cloud Native London Meetup, July 2019 | <https://skillsmatter.com/skillscasts/14095-continuous-deployment-and-operations-on-kubernetes-with-keptn> |
+| Cloud Native Meetup Silicon Valley, Dec 12, 2019 | <https://www.altoros.com/blog/automating-event-based-continuous-delivery-on-kubernetes-with-keptn/> (embedded at the bottom of the page) |
+| Seattle SRE Meetup, April 2020 | <https://www.youtube.com/watch?v=qJXeDHfJkIU> |
+| Cloud Native Meetup Manchester, June 2020 | <https://www.youtube.com/watch?v=5sEahc9dQkc> |
+| ScaleUp 360° Continuous Delivery Europe, June 2020 | <https://vimeo.com/429239811/ca5681199e> |
+| Cloud Native PDX, June 2020 | <https://www.youtube.com/watch?v=Fu-7U0GopSM> |
+| Cloud Native London, July 2020 | <https://www.youtube.com/watch?v=YzsKp6Je8eY> |
+| Cloud Native Night Munich, July 2020 | <https://www.youtube.com/watch?v=nXS2kCLqPzk> [(mirror)](https://youtu.be/RbAp5YuPjZI) |
+| Cloud Native Berlin, September 2020 | <https://www.youtube.com/watch?v=3QQtP8PtO1s&feature=youtu.be> |
+| Cloud Native Madison, September 2020 | <https://www.youtube.com/watch?v=8E0tAp0F6BU> |
+| DevOps Stage, October 2020 | [YouTube playlist](https://www.youtube.com/playlist?list=PL2DFnm8LBPXrCYIr4IXr3BrMDuqJ83GJo&utm_source=eSputnik-promo&utm_medium=email&utm_campaign=%F0%9F%91%80Records_DevOps_Stage_conference&utm_content=913910151) |
 | Neotys PAC, October 2020 | [Automate Test Analysis with a custom Keptn SLI Provider](https://www.youtube.com/watch?v=yWPZBp9Fy_Q&feature=youtu.be) + [all assets from Andi Grabner on PAC events](https://www.neotys.com/performance-advisory-council/andreas-grabner?j) |
 | Neotys PAC, October 2020 | [YT: Automated Quality Gates in Performance Testing - triscon](https://www.youtube.com/watch?v=lxn-H2F2vY0) + [all assets](https://www.neotys.com/performance-advisory-council/roman-ferstl) |
 | App-Delivery SIG Meeting, November 2020 | [Evaluating resiliency with LitmusChaos + Keptn](https://youtu.be/veFLF8OLym0?t=1449) |
 | Cloud Native Madison, November 2020 | [Introduction to ChaosEngineering with LitmusChaos + Keptn](https://www.youtube.com/watch?v=wRLKiMXbBbo) |
 | Dynatrace Amplify, November 2020 | [YT: Automated Quality Gates with Keptn - triscon](https://www.youtube.com/watch?v=OYSFBR0dX0I) |
-| Cloud Native Bern, January 2021 | [ Automating SLI/SLO based build validation with Keptn](https://www.youtube.com/watch?v=coupAc7TmWM&feature) |
-
+| Cloud Native Bern, January 2021 | [Automating SLI/SLO based build validation with Keptn](https://www.youtube.com/watch?v=coupAc7TmWM&feature) |
 
 ## Webinars
 
-Find all our Keptn webinars on our 
-[YouTube channel](https://www.youtube.com/c/keptn) in the [webinar playlist](https://www.youtube.com/watch?v=ZuTr_enelM0&list=PL6i801Rjt9DahPufDQ05rUwRDEVthWxVh). 
+Find all our Keptn webinars on our
+[YouTube channel](https://www.youtube.com/c/keptn) in the [webinar playlist](https://www.youtube.com/watch?v=ZuTr_enelM0&list=PL6i801Rjt9DahPufDQ05rUwRDEVthWxVh).
 
 ## Videos
 
 - Find all video content on our official [Keptn YouTube channel](https://www.youtube.com/c/keptn)
-  - [Keptn Tutorials](https://www.youtube.com/playlist?list=PL6i801Rjt9Da8CC0iQVSYf3OJVwglRfJl) 
+  - [Keptn Tutorials](https://www.youtube.com/playlist?list=PL6i801Rjt9Da8CC0iQVSYf3OJVwglRfJl)
   - [Keptn Community Meetings](https://www.youtube.com/playlist?list=PL6i801Rjt9DZLOPyNbHTDQur_QmMx98ak)
   - [Keptn Developer Meetings](https://www.youtube.com/playlist?list=PL6i801Rjt9DakR1wOVkSY-uSH2kMpBFKX)
 
