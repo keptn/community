@@ -88,55 +88,89 @@ func loadOrgs(o options) (map[string]org.Config, error) {
 		return nil, fmt.Errorf("error in %s: %v", o.config, err)
 	}
 	for _, entry := range entries {
-		name := entry.Name()
-		path := o.config + "/" + name + "/org.yaml"
-		cfg, err := unmarshal(path)
-		if err != nil {
-			return nil, fmt.Errorf("error in %s: %v", path, err)
-		}
-		if cfg.Teams == nil {
-			cfg.Teams = map[string]org.Team{}
-		}
-		prefix := filepath.Dir(path)
-		err = filepath.Walk(prefix, func(path string, info os.FileInfo, err error) error {
-			switch {
-			case path == prefix:
-				return nil // Skip base dir
-			case info.IsDir() && filepath.Dir(path) != prefix:
-				logrus.Infof("Skipping %s and its children", path)
-				return filepath.SkipDir // Skip prefix/foo/bar/ dirs
-			case !info.IsDir() && filepath.Dir(path) == prefix:
-				return nil // Ignore prefix/foo files
-			case filepath.Base(path) == "teams.yaml":
-				teams, err := generateGroupConfig(path)
-
-				if err != nil {
-					return err
-				}
-
-				maps.Copy(cfg.Teams, teams)
+		if entry.IsDir() {
+			name := entry.Name()
+			path := o.config + "/" + name + "/org.yaml"
+			cfg, err := unmarshal(path)
+			if err != nil {
+				return nil, fmt.Errorf("error in %s: %v", path, err)
 			}
-			return nil
-		})
-		if err != nil {
-			return nil, fmt.Errorf("merge teams %s: %v", path, err)
-		}
-		admins := getGlobalTeam(cfg, Admins)
-		maintainers := getGlobalTeam(cfg, Maintainers)
-		approvers := getGlobalTeam(cfg, Approvers)
+			if cfg.Teams == nil {
+				cfg.Teams = map[string]org.Team{}
+			}
+			prefix := filepath.Dir(path)
+			err = filepath.Walk(prefix, func(path string, info os.FileInfo, err error) error {
+				switch {
+				case path == prefix:
+					return nil // Skip base dir
+				case info.IsDir() && filepath.Dir(path) != prefix:
+					logrus.Infof("Skipping %s and its children", path)
+					return filepath.SkipDir // Skip prefix/foo/bar/ dirs
+				case !info.IsDir() && filepath.Dir(path) == prefix:
+					return nil // Ignore prefix/foo files
+				case filepath.Base(path) == "workgroup.yaml":
+					teams, err := generateGroupConfig(path)
 
-		for name := range cfg.Repos {
-			admins.Repos[name] = github.Admin
-			maintainers.Repos[name] = github.Maintain
-			approvers.Repos[name] = github.Triage
-		}
+					if err != nil {
+						return err
+					}
 
-		cfg.Teams[Admins] = admins
-		cfg.Teams[Maintainers] = maintainers
-		cfg.Teams[Approvers] = approvers
-		config[name] = *cfg
+					maps.Copy(cfg.Teams, teams)
+				}
+				return nil
+			})
+			if err != nil {
+				return nil, fmt.Errorf("merge teams %s: %v", path, err)
+			}
+			admins := getGlobalTeam(cfg, Admins)
+			maintainers := getGlobalTeam(cfg, Maintainers)
+			approvers := getGlobalTeam(cfg, Approvers)
+
+			for name := range cfg.Repos {
+				admins.Repos[name] = github.Admin
+				maintainers.Repos[name] = github.Maintain
+				approvers.Repos[name] = github.Triage
+			}
+
+			cfg.Teams[Admins] = admins
+			cfg.Teams[Maintainers] = maintainers
+			cfg.Teams[Approvers] = approvers
+			config[name] = *cfg
+		}
 	}
 	return config, nil
+}
+
+
+func applyRepoDefaults(cfg *org.Config, repoName string) org.Repo {
+	repo := cfg.Repos[repoName]
+	true := true
+	falsy := false
+
+	if repo.HasProjects == nil {
+		repo.HasProjects = &true
+	}
+	if repo.HasWiki == nil {
+		repo.HasWiki = &falsy
+	}
+
+	if repo.Archived != nil && *repo.Archived {
+		repo.AllowSquashMerge = &falsy
+		repo.AllowMergeCommit = &falsy
+		repo.AllowRebaseMerge = &falsy
+	} else {
+		if repo.AllowSquashMerge == nil {
+			repo.AllowSquashMerge = &true
+		}
+		if repo.AllowRebaseMerge == nil {
+			repo.AllowRebaseMerge = &falsy
+		}
+		if repo.AllowMergeCommit == nil {
+			repo.AllowMergeCommit = &falsy
+		}
+	}
+
+	return repo
 }
 
 func getGlobalTeam(cfg *org.Config, teamName string) org.Team {
@@ -184,6 +218,8 @@ func generateGroupConfig(path string) (map[string]org.Team, error) {
 		admins.Repos[repo] = github.Admin
 		maintainers.Repos[repo] = github.Maintain
 		approvers.Repos[repo] = github.Triage
+
+		cfg.Repos[name] = applyRepoDefaults(cfg, name)
 	}
 
 	teams := map[string]org.Team{}

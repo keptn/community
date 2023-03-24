@@ -1,20 +1,14 @@
 
-name: Organization Configuration
+name: Peribolos
 
 on:
   push:
     branches: [ main ]
-  # TODO REMOVE BEFORE MERGE
   pull_request:
     branches: [ main ]
-    paths:
-      - 'tools/**'
-      - 'config/**'
-  schedule:
-    - cron: "0 0 * * *"
 
 env:
-  PERIBOLOS_ARGS: "--fix-org --fix-org-members --fix-repos --fix-team-members --fix-teams --min-admins=2"
+  PERIBOLOS_ARGS: "--fix-org --fix-org-members --fix-repos --fix-teams --fix-team-members --fix-team-repos --github-allowed-burst=300 --github-hourly-tokens=1000"
 
 jobs:
   build:
