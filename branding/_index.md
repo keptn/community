@@ -35,7 +35,7 @@ Against dark backgrounds, use the white versions of the logo and the wordmark.
 
 > Some of Keptn Open Graph Images are managed as Google Slides [here](https://docs.google.com/presentation/d/1VZu_PkqQldmlAJuGhZQOdFmBPvhG5AaZ9RV1GL6w3Vw/edit?usp=sharing).
 > Feel free to reuse this content or suggest changes.
-
+>
 > For some other Open Graph Images, [Canva](https://www.canva.com/en_gb/) is used.
 > If you would like to get access or get an image created,
 > contact [Giulia Di Pietro](https://github.com/Giulia-dipietro) or [Oleg Nenashev](https://github.com/oleg-nenashev/).

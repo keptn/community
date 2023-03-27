@@ -1,9 +1,21 @@
-GSoC 2022 - Entity Custom Resource Definitions for Keptn GitOps
-==========
+---
+title: Entity Custom Resource Definitions for Keptn GitOps
+linktitle: Entity Custom Resource Definitions for Keptn GitOps
+---
+<div align="center">
+<img data-proofer-ignore src="https://raw.githubusercontent.com/iamrajiv/GSoC-2022/main/assets/gsoc-2022-1.svg" height="auto" width="600" />
+<br />
+<img data-proofer-ignore src="https://raw.githubusercontent.com/iamrajiv/GSoC-2022/main/assets/gsoc-2022-2.svg" height= "auto" width="400" />
+<br />
+<h1>Keptn</h1>
+<h3>
+Entity Custom Resource Definitions for Keptn GitOps
+</h3>
+</div>
 
 This project implements the remaining Keptn entities as Kubernetes Custom Resource Definitions
 to shift more of Keptn's components towards a GitOps workflow.
-As a result, users will be able to configure these entities 
+As a result, users will be able to configure these entities
 via PRs to a configuration repository or manage them directly using the Kubernetes APIs.
 
 ## Project team
@@ -22,6 +34,7 @@ Afzal Ansari
 ## Details
 
 There has been significant progress towards a fully GitOps approach for Keptn through the implementation of the [Keptn Gitops Operator Prototype](https://github.com/keptn-sandbox/keptn-gitops-operator). In fact, it is already possible to configure Keptn by merging pull requests to a configuration repository and by application of the following [Kubernetes Custom Resources (CRs)](https://github.com/keptn-sandbox/keptn-gitops-operator#custom-resources):
+
 - KeptnInstance
 - KeptnProject
 - KeptnService
@@ -30,21 +43,23 @@ There has been significant progress towards a fully GitOps approach for Keptn th
 - KeptnServiceDeployment
 
 Along with this progress, there are additional possible enhancements discussed in [discussions/5296](https://github.com/keptn/keptn/discussions/5296) to achieve a Keptn workflow that includes configuration via the Kubernetes API and less frequent communication with the Keptn upstream repository. Specifically, this project will implement the outstanding Keptn entity CRs not currently included in the prototype:
+
 - SLI configs
 - SLO configs
 - Remediation configs
 - Webhook configs
 
 As a result, in addition to bringing Keptn closer to achieving a GitOps workflow, users will benefit as a result of:
+
 - Improved performance due to less frequent communication with the Keptn Git repository (as already mentioned)
 - Added ability to manage Keptn entities directly using kubectl
 
 ## References
 
-* [Project repository](https://github.com/keptn-sandbox/keptn-gitops-operator)
-* [Project page on the GSoC website](https://summerofcode.withgoogle.com/programs/2022/projects/yd9z3DBo)
-* [Project daily asynchronous standups](https://github.com/keptn-sandbox/keptn-gitops-operator/wiki/GSoC-22:-Entity-CRDs-Asynchronous-Daily-Standups)
-* [Keptn community calendar](https://calendar.google.com/calendar/u/0/embed?src=dynatrace.com_abjrh1ukf18ih477tb1ekag2ag@group.calendar.google.com)
-    * [Project weekly meeting minutes](https://docs.google.com/document/d/11bA3hswCThFNZKFGFN5XMyPDvAjpVW3nBvzAw-CXSS4)
-    * [Project weekly meeting recordings](https://www.youtube.com/playlist?list=PL6i801Rjt9DaX77b9w_Sn9aIaisRZdbNi)
-* [Project timeline & issues](https://github.com/keptn-sandbox/keptn-gitops-operator/projects/1)
+- [Project repository](https://github.com/keptn-sandbox/keptn-gitops-operator)
+- [Project page on the GSoC website](https://summerofcode.withgoogle.com/programs/2022/projects/yd9z3DBo)
+- [Project daily asynchronous standups](https://github.com/keptn-sandbox/keptn-gitops-operator/wiki/GSoC-22:-Entity-CRDs-Asynchronous-Daily-Standups)
+- [Keptn community calendar](https://calendar.google.com/calendar/u/0/embed?src=dynatrace.com_abjrh1ukf18ih477tb1ekag2ag@group.calendar.google.com)
+  - [Project weekly meeting minutes](https://docs.google.com/document/d/11bA3hswCThFNZKFGFN5XMyPDvAjpVW3nBvzAw-CXSS4)
+  - [Project weekly meeting recordings](https://www.youtube.com/playlist?list=PL6i801Rjt9DaX77b9w_Sn9aIaisRZdbNi)
+- [Project timeline & issues](https://github.com/keptn-sandbox/keptn-gitops-operator/projects/1)

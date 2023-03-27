@@ -1,3 +1,6 @@
+---
+linktitle: Google Season of Docs
+---
 # Keptn in Google Season of Docs
 
 [![Channel on Slack](https://img.shields.io/badge/Slack-%23keptn--docs-green)](https://keptn.sh/community/#slack)
@@ -10,7 +13,7 @@ Season of Docs provides support for open source projects to improve their docume
 > :warning: The Keptn project was not accepted to GSoD 2022.
 > We will try again next time!
 
-- [2022 Projects](./2022/project-ideas.md)
+- [2022 Projects](./2022)
 - [Google Season of Docs website](https://developers.google.com/season-of-docs)
 - [GSoD Timeline](https://developers.google.com/season-of-docs/docs/timeline)
 
@@ -20,7 +23,7 @@ We are looking for technical writers and mentors
 interested in contributing to the project's documentation.
 
 1. Join the `#keptn-docs` channel on [Keptn Slack](https://keptn.sh/community/#slack).
-   Introduce yourself there.   
+   Introduce yourself there.
 2. Explore the suggested project,
    discuss it with the community and potential mentors.
 3. Try contributing to the project's documentation.

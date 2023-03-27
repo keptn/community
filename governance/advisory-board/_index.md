@@ -68,4 +68,4 @@ for example severe [Code of Conduct](../../code_of_conduct/) violations,
 members can be removed from the Advisory Board
 after a decision made by the community.
 
-- 
+-

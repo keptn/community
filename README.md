@@ -4,9 +4,9 @@
 [![GitHub Discussions](https://img.shields.io/github/discussions/keptn/keptn)](https://github.com/keptn/keptn/discussions)
 [![Community Roadmap](https://img.shields.io/badge/Community-roadmap-yellow)](https://github.com/orgs/keptn/projects/1?card_filter_query=label%3Acommunity)
 
-👋 Welcome to the Keptn community! 
+👋 Welcome to the Keptn community!
 This repository is used for community management related issue tracking,
-including but not limited to community programs, enhancement ideas, memberships and permissions. 
+including but not limited to community programs, enhancement ideas, memberships and permissions.
 See also the community page on [**keptn.sh/community**](https://keptn.sh/community/).
 
 ## References
@@ -35,9 +35,9 @@ There are also some resources stored in this repository or elsewhere:
 * [Community Roadmap](https://github.com/orgs/keptn/projects/1?card_filter_query=label%3Acommunity) - Major community initiatives
   as a part of the Keptn roadmap.
 * [Mentorship and Outreach programs](./mentorship/) -
-  programs we participate in. 
+  programs we participate in.
 * [Artwork](./branding/) - Keptn logos and artwork.
-* [Keptn Project Infrastructure](./project-infrastructure/) - 
+* [Keptn Project Infrastructure](./project-infrastructure/) -
   Documentation and notes regarding the project infrastructure being used by the project:
   website, delivery infrastructure, repositories and services, etc.
 * [Keptn incubation in the CNCF](./governance/cncf-incubation/) - Materials related to Keptn application for the incubation in the Cloud Native Computing Foundation.
@@ -49,8 +49,10 @@ See the [Keptn Contributing Guidelines](https://keptn.sh/community/contributing/
 
 ## Contributors
 
+<!-- markdownlint-disable MD033-->
 <a href="https://github.com/keptn/community/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=keptn/community" alt="Contributors"/>
 </a>
+<!-- markdownlint-enable MD033-->
 
 Made with [contrib.rocks](https://contrib.rocks).

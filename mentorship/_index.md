@@ -12,9 +12,8 @@ to participate in one of these programs.
 
 Examples of programs we've participated in:
 
-- [LFX Mentorship / CommunityBridge](./lfx-mentorship)
+- [LFX Mentorship / CommunityBridge](./lfx-mentorship/)
 - [Google Summer of Code](./gsoc/)
 - [Google Season of Docs](./gsod)
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 - Bug Bash at Kubecon conferences
-

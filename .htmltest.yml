@@ -3,9 +3,15 @@ CheckDoctype: false
 IgnoreDirs:
   - favicons
   - readme
-  - mentorship
 IgnoreURLs:
   - "linkedin.com"
   - "localhost"
   - "canva.com"
-StripQueryString: false
+  - "https://github.com/open-telemetry/community/blob"
+  - "https://raw.githubusercontent.com/iamrajiv"
+  - "https://summerofcode.withgoogle.com"
+  - "https://www.oaoa.com"
+  - "engineering.dynatrace.com"
+  - "media-exp1.licdn.com"
+  - "https://contrib.rocks"
+  - "https://github.com/eyskim"

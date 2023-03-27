@@ -16,19 +16,20 @@ e.g. (at)example_user
 
 ### Membership level
 
-Membership level according to https://github.com/keptn/community/blob/master/COMMUNITY_MEMBERSHIP.md
+Membership level according to <https://github.com/keptn/community/blob/master/COMMUNITY_MEMBERSHIP.md>
 
 member | approver | maintainer
 
 ### Requirements (for member)
 
-- [ ] I have reviewed the community membership guidelines (https://github.com/keptn/community/blob/master/COMMUNITY_MEMBERSHIP.md)
-- [ ] I have enabled 2FA on my GitHub account. See https://github.com/settings/security
+- [ ] I have reviewed the community membership guidelines (<https://github.com/keptn/community/blob/master/COMMUNITY_MEMBERSHIP.md>)
+- [ ] I have enabled 2FA on my GitHub account. See <https://github.com/settings/security>
 - [ ] I have subscribed to the [Keptn Slack channel](http://slack.keptn.sh/)
 - [ ] I am actively contributing to 1 or more Keptn subprojects
 - [ ] I have two sponsors that meet the sponsor requirements listed in the community membership guidelines. Among other requirements, sponsors must be approvers or maintainers of at least one repository in the organization and not both affiliated with the same company
 - [ ] I have spoken to 2 sponsors (approvers or maintainers) ahead of this application, and they have agreed to sponsor my application
 - [ ] I have filed a PR to add myself as [project member](https://github.com/keptn/keptn/blob/master/MAINTAINERS) and referenced this issue in the PR
+
 ### Requirements (for approver, if applicable)
 
 - [ ] I am a reviewer of the codebase for at least 1 month
@@ -48,7 +49,6 @@ member | approver | maintainer
 - [ ] I am aligning with the overall project goals, specifications, and design principles. I am bringing general questions and requests to the discussions as part of the specifications project.
 - [ ] I have spoken to 2 sponsors (maintainers) ahead of this application, and they have agreed to sponsor my application
 - [ ] I have filed a PR to add myself as [project maintainer](https://github.com/keptn/keptn/blob/master/MAINTAINERS) and referenced this issue in the PR
-
 
 ### Sponsors
 

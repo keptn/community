@@ -25,6 +25,6 @@ languages:
     contentDir: "./"
 
 ignoreFiles:
-  - "mentorship/gsoc"
   - "public"
+  - "node_modules"
   - "tmp"

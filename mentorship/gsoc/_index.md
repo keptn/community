@@ -1,3 +1,7 @@
+---
+linktitle: Google Summer of Code
+---
+
 # Google Summer of Code in Keptn
 
 Google Summer of Code (GSoC) is a global, online program focused on
@@ -7,12 +11,13 @@ summer programming project under the guidance of mentors.
 
 GSoC contributors accepted into the program receive a stipend, paid by Google,
 to work well-defined projects to improve or enhance the Keptn project and its ecosystem.
-In exchange, numerous community members volunteer as "mentors" for GSoC contributors 
+In exchange, numerous community members volunteer as "mentors" for GSoC contributors
 to help integrate them into the open source community and succeed in completing their projects.
 
 ## GSoC Programs
-* [2023](./2023/README.md)
-* [2022](./2022/README.md)
+
+* [2023](./2023/)
+* [2022](./2022/)
 
 ## Participate
 
@@ -26,7 +31,7 @@ Original ideas will be welcome and appreciated too.
    and the `#gsoc` channel there.
 3. Join the [Keptn chapter on the CNCF Community Portal](https://community.cncf.io/keptn-community/).
    We use it to announce project meetings and other community events.
-5. Explore the project ideas and find one or two that interest you.
+4. Explore the project ideas and find one or two that interest you.
    Notify us in the chat.
 5. Join one of our [community or developer meetings](https://keptn.sh/community/meetings/).
 6. Try contributing to Keptn. Some project ideas include references to newcomer friendly issues. You can also find links to the generic contributing guide [here](https://keptn.sh/community/contributing/).
