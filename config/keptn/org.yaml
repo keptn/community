@@ -2,7 +2,7 @@
 company: ""
 email: hello@keptn.sh
 billing_email: keptn@dynatrace.com
-name: keptn
+name: Keptn
 description: Data-driven control plane for continuous delivery and operations
 has_organization_projects: true
 has_repository_projects: true
@@ -26,8 +26,6 @@ admins:
   - keptn-bot
 # org member settings
 members:
-  - AlexsJones
-  - AnaMMedina21
   - aepfli
   - afzal442
   - agardnerIT
@@ -138,7 +136,9 @@ repos:
       provides wildcard DNS for any IP address
     homepage: https://keptn.sh
   docs-tooling:
-    description: Tools for keptn documentation
+    description: Tooling around the documentation of Keptn
+    default_branch: main
+    has_issues: false
   enhancement-proposals:
     default_branch: main
     description: Keptn Enhancement Proposals
@@ -168,6 +168,7 @@ repos:
     homepage: https://keptn.sh
   helm-charts:
     default_branch: main
+    homepage: https://charts.keptn.sh
   helm-charts-dev:
     default_branch: main
     has_issues: false
@@ -185,6 +186,7 @@ repos:
     description: Cloud-native application life-cycle orchestration. Keptn automates
       your SLO-driven multi-stage delivery and operations & remediation of your applications.
     homepage: https://keptn.sh
+    has_wiki: true
   keptn.github.io:
     description: Keptn website and documentation portal
     homepage: https://keptn.sh
@@ -197,6 +199,7 @@ repos:
     default_branch: main
     has_issues: false
     has_projects: false
+    homepage: https://charts.lifecycle.keptn.sh
   spec:
     description: 'Contains Keptn specifications: CloudEvents, Shipyard, Uniform, SLI/SLO,
       Remediation'
