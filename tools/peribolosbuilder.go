@@ -130,6 +130,7 @@ func loadOrgs(o options) (map[string]org.Config, error) {
 				admins.Repos[name] = github.Admin
 				maintainers.Repos[name] = github.Maintain
 				approvers.Repos[name] = github.Triage
+				cfg.Repos[name] = applyRepoDefaults(cfg, name)
 			}
 
 			cfg.Teams[Admins] = admins
@@ -140,7 +141,6 @@ func loadOrgs(o options) (map[string]org.Config, error) {
 	}
 	return config, nil
 }
-
 
 func applyRepoDefaults(cfg *org.Config, repoName string) org.Repo {
 	repo := cfg.Repos[repoName]
@@ -218,8 +218,6 @@ func generateGroupConfig(path string) (map[string]org.Team, error) {
 		admins.Repos[repo] = github.Admin
 		maintainers.Repos[repo] = github.Maintain
 		approvers.Repos[repo] = github.Triage
-
-		cfg.Repos[name] = applyRepoDefaults(cfg, name)
 	}
 
 	teams := map[string]org.Team{}
