@@ -137,6 +137,8 @@ repos:
     description: Just like nip.io or xip.io, dns.keptn.sh is a magic domain name that
       provides wildcard DNS for any IP address
     homepage: https://keptn.sh
+  docs-tooling:
+    description: Tools for keptn documentation
   enhancement-proposals:
     default_branch: main
     description: Keptn Enhancement Proposals

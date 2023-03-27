@@ -1,6 +1,6 @@
 # Community Configuration
 
-As handling permissions, assignments, etc. gets more and more complicated, the bigger a community gets, 
+As handling permissions, assignments, etc. gets more and more complicated, the bigger a community gets,
 we decided to opt-in for a GitOps approach for community management.
 
 We are using [Peribolos](https://docs.prow.k8s.io/docs/components/cli-tools/peribolos/) which is developed and maintained by Kubernetes.
@@ -30,6 +30,7 @@ Those teams are represented with their subfolder (the name of the team) containi
 The `org.yaml` follows the default peribolos configuration format.
 
 It will be used to:
+
 - define members and admins of the organization
 - define default settings for the organization such as:
   - members allowed to create repositories
@@ -49,6 +50,7 @@ Those are
 Each workgroup represents an organizational unit, which needs to work on the same repositories.
 
 A workgroup consists of following roles:
+
 - approvers (triage permission)
 - maintainers (maintain permission)
 - admins (admin permission)
@@ -74,7 +76,7 @@ Repositories are not mutually exclusive to workgroups.
 Hence, multiple workgroups can have access to the same repositories.
 
 > **Note**
-> Use admins carefully and only when it is really needed. 
+> Use admins carefully and only when it is really needed.
 > Admins can change secrets etc.
 
 Based on this configuration we will generate 3 teams:
@@ -111,8 +113,7 @@ Following Teams will be generated, with the respective permissions for the repos
 - workgroup-maintainers: maintain
 - workgroup-admins: admin
 
-
-## How to ...
+## How to
 
 ### ... add a member to the organization?
 
@@ -146,7 +147,7 @@ admins:
 
 > **Warning**
 > First discuss this with the community and the member you want to set to emiritus state.
- 
+
 Remove the member from all `workgroup.yaml` files, and other teams within the `org.yaml`.
 
 If the user used to be an Admin of the organization moves them from `admins` to `members` in the `org.yaml`.
@@ -164,5 +165,26 @@ repos:
   peribolos-test:
     description: "my peribolos test"
   # ...
-
 ```
+
+## Execution locally
+
+1. Generate a config
+
+    ```console
+    cd tools && go run peribolosbuilder.go -config=../config > ../peribolos.yaml && cd ..
+    ```
+
+2. Generate a Token with repo, user and org:admin permissions and save it in a file called `github-token`
+
+3. Run following command to test our configuration
+
+    ```console
+    docker run --rm -v $(pwd)/github-token:/github-token -v $(pwd)/peribolos.yml:/peribolos.yml ghcr.io/dynatrace-innovationlab/peribolos:latest --github-token-path github-token --fix-org --fix-org-members --fix-repos --fix-teams --fix-team-members --fix-team-repos --github-allowed-burst=300 --github-hourly-tokens=1000 --config-path peribolos.yml
+    ```
+
+    You can even skip some of the commands to test certain functionalities, eg. only run `--fix-org --fix-org-member`.
+
+> **Warning**
+> Per default peribolos runs without applying changes.
+> If you provide the flag `--confirm` it will apply the changes.

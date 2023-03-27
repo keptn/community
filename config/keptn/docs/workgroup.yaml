@@ -2,6 +2,7 @@
 repos:
   - keptn.github.io
   - tutorials
+  - docs-tooling
 
 approvers: []
 
