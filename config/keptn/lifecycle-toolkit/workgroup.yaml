@@ -6,6 +6,8 @@ repos:
 
 # Admins have admin access to the repo
 admins:
+  - mowies
+  - thisthat
   - thschue
 
 # Maintainers have maintain access to the repo
@@ -18,4 +20,3 @@ maintainers:
 # Approvers have write access to the repo, the scope is limited in CODEOWNERS
 approvers:
   - StackScribe
-

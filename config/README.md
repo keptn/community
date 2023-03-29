@@ -172,7 +172,7 @@ repos:
 1. Generate a config
 
     ```console
-    cd tools && go run peribolosbuilder.go -config=../config > ../peribolos.yaml && cd ..
+    cd tools && go run peribolosbuilder.go -config=../config > ../peribolos.yml && cd ..
     ```
 
 2. Generate a Token with repo, user and org:admin permissions and save it in a file called `github-token`
