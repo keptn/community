@@ -72,6 +72,9 @@ members:
   - warber
 
 teams:
+  emeriti:
+    members: []
+
   admins:
     members:
       - mowies
