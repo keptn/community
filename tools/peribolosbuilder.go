@@ -29,7 +29,8 @@ const (
 )
 
 type options struct {
-	config string
+	config       string
+	teamsVisible bool
 }
 type Group struct {
 	Repos       []string `json:"repos,omitempty"`
@@ -41,6 +42,7 @@ type Group struct {
 func main() {
 	o := options{}
 	flag.StringVar(&o.config, "config", "config", "")
+	flag.BoolVar(&o.teamsVisible, "teams visible", true, "")
 	flag.Parse()
 
 	cfg, err := loadOrgs(o)
@@ -82,6 +84,14 @@ func unmarshalGroup(path string) (*Group, error) {
 }
 
 func loadOrgs(o options) (map[string]org.Config, error) {
+	var privacy org.Privacy
+
+	if o.teamsVisible {
+		privacy = org.Closed
+	} else {
+		privacy = org.Secret
+	}
+
 	config := map[string]org.Config{}
 	entries, err := os.ReadDir(o.config)
 	if err != nil {
@@ -136,6 +146,15 @@ func loadOrgs(o options) (map[string]org.Config, error) {
 			cfg.Teams[Admins] = admins
 			cfg.Teams[Maintainers] = maintainers
 			cfg.Teams[Approvers] = approvers
+
+			for name := range cfg.Teams {
+				team := cfg.Teams[name]
+				if team.Privacy == nil {
+					team.Privacy = &privacy
+					cfg.Teams[name] = team
+				}
+			}
+
 			config[name] = *cfg
 		}
 	}
@@ -194,6 +213,7 @@ func generateGroupConfig(path string) (map[string]org.Team, error) {
 	}
 
 	group := filepath.Base(filepath.Dir(path))
+
 	admins := org.Team{
 		Members: groupCfg.Admins,
 		Repos:   map[string]github.RepoPermissionLevel{},
