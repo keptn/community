@@ -6,6 +6,8 @@ on:
     branches: [ main ]
   pull_request:
     branches: [ main ]
+  schedule:
+    - cron: "0 0 * * *"
 
 env:
   PERIBOLOS_ARGS: "--fix-org --fix-org-members --fix-repos --fix-teams --fix-team-members --fix-team-repos --allow-repo-publish --allow-repo-archival --github-allowed-burst=300 --github-hourly-tokens=1000"
