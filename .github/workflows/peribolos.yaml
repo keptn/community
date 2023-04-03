@@ -6,11 +6,11 @@ on:
     branches: [ main ]
   pull_request:
     branches: [ main ]
+  schedule:
+    - cron: "0 0 * * *"
 
 env:
-  # Second step:
-  # PERIBOLOS_ARGS: "--fix-org --fix-org-members --fix-repos --fix-teams --fix-team-members --fix-team-repos --allow-repo-publish --allow-repo-archival --github-allowed-burst=300 --github-hourly-tokens=1000"
-  PERIBOLOS_ARGS: "--fix-org --fix-org-members --fix-repos --allow-repo-publish --allow-repo-archival --github-allowed-burst=300 --github-hourly-tokens=1000"
+  PERIBOLOS_ARGS: "--fix-org --fix-org-members --fix-repos --fix-teams --fix-team-members --fix-team-repos --allow-repo-publish --allow-repo-archival --github-allowed-burst=300 --github-hourly-tokens=1000"
 
 jobs:
   build:
@@ -29,7 +29,7 @@ jobs:
         run: echo ${{ secrets.PERIBOLOS_GH_TOKEN }} >> github-token # a secret with the user token to be used for execution
 
       - name: Run Peribolos Configuration Verification
-        if: github.event_name == 'pull_request'
+        if: github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name == github.repository
         uses: docker://ghcr.io/dynatrace-innovationlab/peribolos:v0
         with:
           args: ${{ env.PERIBOLOS_ARGS }} --github-token-path github-token --config-path peribolos.yaml
