@@ -96,6 +96,9 @@ teams:
       - AloisReitbauer
       - AlexsJones
       - AnaMMedina21
+    repos:
+      community: admin
+      enhancement-proposals: admin
 
   gsoc-2022:
     members:
