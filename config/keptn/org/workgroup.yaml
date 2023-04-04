@@ -1,0 +1,11 @@
+repos:
+  - enhancement-proposals
+  - community
+  - .github
+  - toc
+
+approvers: []
+
+maintainers: []
+
+admins: []

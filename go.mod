@@ -1,4 +1,4 @@
-module github.com/aepfli/community
+module github.com/keptn/community
 
 go 1.19
 

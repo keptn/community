@@ -1,0 +1,223 @@
+# org settings
+company: ""
+email: hello@keptn.sh
+billing_email: keptn@dynatrace.com
+name: Keptn
+description: Data-driven control plane for continuous delivery and operations
+has_organization_projects: true
+has_repository_projects: true
+default_repository_permission: read
+members_can_create_repositories: false
+
+admins:
+  # governance committee
+  - AlexsJones
+  - AnaMMedina21
+  - AloisReitbauer
+  # CNCF
+  - thelinuxfoundation
+  - caniszczyk
+  # emeritus
+  - DavidPHirsch
+  - jetzlstorfer
+  - johannes-b
+  - thisthat
+  # peribolos
+  - keptn-bot
+# org member settings
+members:
+  - aepfli
+  - afzal442
+  - agardnerIT
+  - agrimmer
+  - alipatton10
+  - arthurpitman
+  - bacherfl
+  - bradmccoydev
+  - checkelmann
+  - christian-kreuzberger-dtx
+  - ermin-muratovic
+  - eysk-io
+  - grabnerandi
+  - heinzburgstaller
+  - iamrajiv
+  - imsingh
+  - j-poecher
+  - jainammm
+  - jules1091
+  - Kavindu-Dodan
+  - Kirdock
+  - kristofre
+  - laneli
+  - martinhellwagner
+  - mehabhalodiya
+  - mowies
+  - nicoblak
+  - odubajDT
+  - oleg-nenashev
+  - pchila
+  - philipp-hinteregger
+  - ppcano
+  - Raffy23
+  - RealAnna
+  - renepanzar
+  - robertjahn
+  - sarahhuber001
+  - StackScribe
+  - TannerGabriel
+  - TannerGilbert
+  - telltale00
+  - thschue
+  - vadasambar
+  - warber
+
+teams:
+  emeriti:
+    members: []
+
+  admins:
+    members:
+      - mowies
+      - thisthat
+
+  maintainers:
+    members:
+      - mowies
+      - thisthat
+
+  approvers:
+    members: []
+
+  technical-steering-committee:
+    members: []
+
+  governance-committee:
+    members:
+      - AloisReitbauer
+      - AlexsJones
+      - AnaMMedina21
+    repos:
+      community: admin
+      enhancement-proposals: admin
+
+  gsoc-2022:
+    members:
+      - ppcano
+      - imsingh
+      - oleg-nenashev
+      - StackScribe
+      - afzal442
+      - bradmccoydev
+      - agardnerIT
+      - jainammm
+      - vadasambar
+      - thschue
+      - iamrajiv
+      - eysk-io
+      - mehabhalodiya
+repos:
+  # Template for adding a new project
+  # mandatory:
+  #
+  # <name>:
+  #   description: <description>
+  #
+  # optional:
+  #   archived: <true|false> - defaults to false
+  #   private: <true|false> - defaults to false
+  #   has_issues: <true|false> - defaults to true
+  #   has_projects: <true|false> - defaults to true
+  #   has_wiki: <true|false> - defaults to false
+  .github:
+    default_branch: main
+    description: Global defaults and templates for the Keptn GitHub organization
+  community:
+    default_branch: main
+    description: 'Keptn community content: governance, community management, project
+      infrastructure etc.'
+    homepage: https://keptn.sh/community
+  dns.keptn.sh:
+    archived: true
+    description: Just like nip.io or xip.io, dns.keptn.sh is a magic domain name that
+      provides wildcard DNS for any IP address
+    homepage: https://keptn.sh
+  docs-tooling:
+    description: Tooling around the documentation of Keptn
+    default_branch: main
+    has_issues: false
+  enhancement-proposals:
+    default_branch: main
+    description: Keptn Enhancement Proposals
+  examples:
+    description: Examples for demonstrating keptn use cases
+  get.keptn.sh:
+    has_projects: false
+  gh-action-build-docker-image:
+    description: GH Action to Build Docker Images with some Keptn-internal improvements
+  gh-action-ci-prepare-keptn-cluster:
+    default_branch: main
+    description: GH Action to install a Keptn on a Kubernetes cluster
+  gh-action-extract-branch-name:
+    default_branch: main
+    description: GH Action to extract branch name for commits and PRs
+    has_projects: false
+  gh-action-send-event:
+    default_branch: main
+    description: GH Action to send an event to a Keptn installation
+  gh-automation:
+    default_branch: main
+    description: This repo is the single source of truth for pipelines that are shared
+      across Keptn repos
+    has_projects: false
+  go-utils:
+    description: Keptn util library for golang
+    homepage: https://keptn.sh
+  helm-charts:
+    default_branch: main
+    homepage: https://charts.keptn.sh
+  helm-charts-dev:
+    default_branch: main
+    has_issues: false
+    has_projects: false
+  helmify:
+    default_branch: main
+    description: Creates Helm chart from Kubernetes yaml
+    has_issues: false
+    has_projects: false
+  integrations:
+    default_branch: main
+    description: Lists Keptn Integrations and ideas for new ones
+    has_projects: false
+  keptn:
+    description: Cloud-native application life-cycle orchestration. Keptn automates
+      your SLO-driven multi-stage delivery and operations & remediation of your applications.
+    homepage: https://keptn.sh
+    has_wiki: true
+  keptn.github.io:
+    description: Keptn website and documentation portal
+    homepage: https://keptn.sh
+  kubernetes-utils:
+    archived: true
+  lifecycle-toolkit:
+    default_branch: main
+    description: Toolkit for cloud-native application lifecycle management
+  lifecycle-toolkit-charts:
+    default_branch: main
+    has_issues: false
+    has_projects: false
+    homepage: https://charts.lifecycle.keptn.sh
+  spec:
+    description: 'Contains Keptn specifications: CloudEvents, Shipyard, Uniform, SLI/SLO,
+      Remediation'
+    homepage: https://github.com/keptn/spec
+  toc:
+    archived: true
+    description: Technical Oversight Committee (TOC)
+    has_issues: false
+    homepage: https://cncf.io/
+  tutorials:
+    description: Keptn tutorials site
+    homepage: https://tutorials.keptn.sh/
+  wg-app-lifecycle:
+    default_branch: main
+    description: Application Lifecycle Working group in Keptn

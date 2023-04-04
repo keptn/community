@@ -1,0 +1,13 @@
+repos:
+  - gh-action-extract-branch-name
+  - gh-action-send-event
+  - gh-action-build-docker-image
+  - gh-action-ci-prepare-keptn-cluster
+
+approvers: []
+
+maintainers:
+  - grabnerandi
+  - agardnerIT
+
+admins: []
