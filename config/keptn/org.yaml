@@ -91,6 +91,7 @@ teams:
   technical-steering-committee:
     members:
       - thisthat
+      - bradmccoydev
     repos:
       community: write
 
