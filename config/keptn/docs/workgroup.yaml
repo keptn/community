@@ -3,6 +3,7 @@ repos:
   - keptn.github.io
   - tutorials
   - docs-tooling
+  - killercoda
 
 approvers: []
 
