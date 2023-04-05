@@ -89,7 +89,8 @@ teams:
     members: []
 
   technical-steering-committee:
-    members: []
+    members:
+      - thisthat
     repos:
       community: write
 
