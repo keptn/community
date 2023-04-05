@@ -89,7 +89,11 @@ teams:
     members: []
 
   technical-steering-committee:
-    members: []
+    members:
+      - thisthat
+      - bradmccoydev
+    repos:
+      community: write
 
   governance-committee:
     members:
