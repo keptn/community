@@ -90,6 +90,8 @@ teams:
 
   technical-steering-committee:
     members: []
+    repos:
+      community: write
 
   governance-committee:
     members:
