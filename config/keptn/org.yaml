@@ -92,6 +92,7 @@ teams:
     members:
       - thisthat
       - bradmccoydev
+      - thschue
     repos:
       community: write
 
