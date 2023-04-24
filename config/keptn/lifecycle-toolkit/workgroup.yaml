@@ -20,3 +20,5 @@ maintainers:
 # Approvers have write access to the repo, the scope is limited in CODEOWNERS
 approvers:
   - StackScribe
+  - agardnerIT
+  - aepfli

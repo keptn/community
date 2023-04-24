@@ -59,11 +59,13 @@ members:
   - philipp-hinteregger
   - ppcano
   - Raffy23
+  - rakshitgondwal
   - RealAnna
   - renepanzar
   - robertjahn
   - sarahhuber001
   - StackScribe
+  - SuperAayush
   - TannerGabriel
   - TannerGilbert
   - telltale00
@@ -89,7 +91,12 @@ teams:
     members: []
 
   technical-steering-committee:
-    members: []
+    members:
+      - thisthat
+      - bradmccoydev
+      - thschue
+    repos:
+      community: write
 
   governance-committee:
     members:
@@ -196,6 +203,8 @@ repos:
   keptn.github.io:
     description: Keptn website and documentation portal
     homepage: https://keptn.sh
+  killercoda:
+    description: Killercoda tutorials for Keptn
   kubernetes-utils:
     archived: true
   lifecycle-toolkit:

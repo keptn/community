@@ -1,11 +1,14 @@
 
 repos:
   - keptn.github.io
+  - lifecycle-toolkit
   - tutorials
   - docs-tooling
+  - killercoda
 
 approvers: []
 
 maintainers:
   - StackScribe
   - aepfli
+  - agardnerIT
