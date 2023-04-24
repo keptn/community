@@ -1,6 +1,7 @@
 
 repos:
   - keptn.github.io
+  - lifecycle-toolkit
   - tutorials
   - docs-tooling
 
