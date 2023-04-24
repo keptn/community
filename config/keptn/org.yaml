@@ -203,6 +203,8 @@ repos:
   keptn.github.io:
     description: Keptn website and documentation portal
     homepage: https://keptn.sh
+  killercoda:
+    description: Killercoda tutorials for Keptn
   kubernetes-utils:
     archived: true
   lifecycle-toolkit:

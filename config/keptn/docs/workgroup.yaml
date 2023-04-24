@@ -4,6 +4,7 @@ repos:
   - lifecycle-toolkit
   - tutorials
   - docs-tooling
+  - killercoda
 
 approvers: []
 
