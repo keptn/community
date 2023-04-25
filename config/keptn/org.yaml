@@ -97,6 +97,7 @@ teams:
       - thschue
     repos:
       community: write
+      enhancement-proposals: write
 
   governance-committee:
     members:
