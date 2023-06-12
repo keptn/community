@@ -20,7 +20,7 @@ See also the community page on [**keptn.sh/community**](https://keptn.sh/communi
 
 ## Roles and Groups
 
-* [Community Membership Ladder](./community-membership/) -
+* [Community Membership Ladder](./community-membership.md) -
   Community membership: roles, responsibilities and application guidelines.
 * [Keptn Advisory Board](./governance/advisory-board/) -
   Group of industry leaders and visionaries that provide advice to the Keptn project.
