@@ -89,7 +89,8 @@
  _Approver_,
  _Maintainer_,
  _Technical Committee Member_,
- _Governance Committee Member_.
+ _Governance Committee Member_,
+ _Emeritus_.
  These roles are defined below.
 
  See [Community membership](./COMMUNITY_MEMBERSHIP.md) for additional information.
