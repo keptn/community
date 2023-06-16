@@ -20,7 +20,7 @@ See also the community page on [**keptn.sh/community**](https://keptn.sh/communi
 
 ## Roles and Groups
 
-* [Community Membership Ladder](./community-membership/) -
+* [Community Membership Ladder](./community-membership.md) -
   Community membership: roles, responsibilities and application guidelines.
 * [Keptn Advisory Board](./governance/advisory-board/) -
   Group of industry leaders and visionaries that provide advice to the Keptn project.
@@ -46,8 +46,8 @@ There are also some resources stored in this repository or elsewhere:
 
 Name|Meeting Time|Meeting Notes|Discussions
 ----|------------|-------------|-----------
-Keptn Community - APAC/EMEA |Every Other Wednesday at 10:00 AM CEST|[Google Doc](https://docs.google.com/document/d/1y7a6uaN8fwFJ7IRnvtxSfgz-OGFq6u7bKN6F7NDxKPg/edit)|[Zoom](https://zoom.us/my/keptnproject)
-Keptn Community - US/EMEA |Every Other Wednesday at 3:30 PM CEST|[Google Doc](https://docs.google.com/document/d/1y7a6uaN8fwFJ7IRnvtxSfgz-OGFq6u7bKN6F7NDxKPg/edit)|[Zoom](https://zoom.us/my/keptnproject)
+Keptn Community - APAC/EMEA |Every Other Wednesday at 10:00 AM CEST|[Google Doc](https://docs.google.com/document/d/1y7a6uaN8fwFJ7IRnvtxSfgz-OGFq6u7bKN6F7NDxKPg/edit)|[Zoom](https://zoom.us/j/98318320875?pwd=QVZqR1BJc2ZUb1RzVWdpdWtZVGRwQT09)
+Keptn Community - US/EMEA |Every Other Wednesday at 3:30 PM CEST|[Google Doc](https://docs.google.com/document/d/1y7a6uaN8fwFJ7IRnvtxSfgz-OGFq6u7bKN6F7NDxKPg/edit)|[Zoom](https://zoom.us/j/91225371301?pwd=T2ZjRDN4Z215MHQwSWh2cXJKT3l0dz09)
 Keptn Backlog Refinement |Every Tuesday at 1:30 PM CEST|[Google Doc](https://docs.google.com/document/d/10Fig1eYFZ9iQFSYWkz0c4eTwzgJiPtQI5IsczbvLsuE/edit)|[Zoom](https://zoom.us/j/99348600892?pwd=bGZhTEhEYnM3cXZPdkE1MVU1Ly93Zz09)
 
  All meetings are also on the public calendar: [Calendar](https://calendar.google.com/calendar/u/0/embed?src=dynatrace.com_abjrh1ukf18ih477tb1ekag2ag@group.calendar.google.com&pli=1)

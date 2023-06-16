@@ -64,6 +64,7 @@ members:
   - renepanzar
   - robertjahn
   - sarahhuber001
+  - staceypotter
   - StackScribe
   - SuperAayush
   - TannerGabriel
@@ -97,6 +98,7 @@ teams:
       - thschue
     repos:
       community: write
+      enhancement-proposals: write
 
   governance-committee:
     members:
