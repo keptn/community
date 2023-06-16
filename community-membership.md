@@ -228,3 +228,29 @@ As `Maintainer` has the same requirements as a `subproject Maintainer` but those
 [Maintainer Issue Request]: https://github.com/keptn/community/issues/new?template=membership.md&title=REQUEST%3A%20Maintainer%20membership%20for%20%3Cyour-GH-handle%3E
 [Approver Issue Request]: https://github.com/keptn/community/issues/new?template=membership.md&title=REQUEST%3A%20Approver%20membership%20for%20%3Cyour-GH-handle%3E
 [Member Issue Request]: https://github.com/keptn/community/issues/new?template=membership.md&title=REQUEST%3A%New%20=membership%20for%20%3Cyour-GH-handle%3E
+
+
+## Inactivity
+
+It is important for contributors to be and stay active to set an example and show commitment to the project. Inactivity is harmful to the project as it may lead to unexpected delays, contributor attrition, and a loss of trust in the project.
+
+- Inactivity is measured by:
+  - Periods of no contributions for longer than 3 months
+  - Periods of no communication for longer than 3 months
+- Consequences of being inactive include:
+  - Involuntary removal or demotion
+  - Being asked to move to Emeritus status
+
+## Involuntary Removal or Demotion
+
+Involuntary removal/demotion of a contributor happens when responsibilities and requirements aren't being met. This may include repeated patterns of inactivity, extended periods of inactivity, a period of failing to meet the requirements of your role, and/or a violation of the Code of Conduct. This process is important because it protects the community and its deliverables while also opening up opportunities for new contributors to step in.
+
+Involuntary removal or demotion is handled through a vote by a majority of the current Maintainers.
+
+## Stepping Down/Emeritus Process
+
+If and when contributors' commitment levels change, contributors can consider stepping down (moving down the contributor ladder) vs moving to emeritus status (completely stepping away from the project).
+
+Contact the Maintainers about changing to Emeritus status, or reducing your contributor level.
+
+When a contributor returns to being more active, they may be promoted back to their previous position at the discretion of the current maintainers by opening a PR. If the current maintainers do not agree to restoring the previous responsibilities, they should follow the contributor ladder steps.
