@@ -40,7 +40,6 @@
  - Company: Canonical
  - GitHub: https://github.com/AlexsJones
  - Twitter: https://twitter.com/AlexJonesax
- - Personal Website: https://www.cloudnativeskunkworks.io/
 
  ---
 
