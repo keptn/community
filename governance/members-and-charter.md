@@ -70,9 +70,8 @@
  ### TC Members
  
  @thisthat
- 
  @bradmccoydev 
-@thschue 
+ @thschue 
 
 
  ### TC Charter
