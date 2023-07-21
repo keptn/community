@@ -48,7 +48,7 @@ Name|Meeting Time|Meeting Notes|Join Link
 ----|------------|-------------|-----------
 Keptn Community - APAC/EMEA |Every Other Wednesday at 10:00 AM CET|[Google Doc](https://docs.google.com/document/d/1y7a6uaN8fwFJ7IRnvtxSfgz-OGFq6u7bKN6F7NDxKPg/edit)|[Zoom](https://zoom.us/j/98318320875?pwd=QVZqR1BJc2ZUb1RzVWdpdWtZVGRwQT09)
 Keptn Community - US/EMEA |Every Other Wednesday at 10:30 AM ET (9:30 AM CT / 4:30 PM CET) |[Google Doc](https://docs.google.com/document/d/1y7a6uaN8fwFJ7IRnvtxSfgz-OGFq6u7bKN6F7NDxKPg/edit)|[Zoom](https://zoom.us/j/91225371301?pwd=T2ZjRDN4Z215MHQwSWh2cXJKT3l0dz09)
-Keptn New Contributors Meeting |Every 2nd Monday per Month at 11:00 AM ET (5:00 PM CET) |[Google Doc](https://docs.google.com/document/d/1rTwjhzoNiWRvNk7LdcADI50Kon9uTT8PtYPmYjiE_sQ) |[Zoom](https://zoom.us/j/94620164884?pwd=cndlRTY4RGRTcWRnQTlzTWtmYi9xQT09)
+Keptn New Contributors Meeting |Every 2nd Monday per Month at 10:30 AM ET (4:30 PM CET) |[Google Doc](https://docs.google.com/document/d/1rTwjhzoNiWRvNk7LdcADI50Kon9uTT8PtYPmYjiE_sQ) |[Zoom](https://zoom.us/j/94620164884?pwd=cndlRTY4RGRTcWRnQTlzTWtmYi9xQT09)
 
 All meetings are also on the public calendar: [Calendar](https://calendar.google.com/calendar/u/0/embed?src=dynatrace.com_abjrh1ukf18ih477tb1ekag2ag@group.calendar.google.com&pli=1)
 
