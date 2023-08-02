@@ -172,9 +172,6 @@ repos:
     default_branch: main
     description: GH Action to extract branch name for commits and PRs
     has_projects: false
-  gh-action-send-event:
-    default_branch: main
-    description: GH Action to send an event to a Keptn installation
   gh-automation:
     default_branch: main
     description: This repo is the single source of truth for pipelines that are shared
