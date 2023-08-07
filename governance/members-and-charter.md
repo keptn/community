@@ -1,6 +1,6 @@
 # Governance Charter
 
- Last update: March 2023
+ Last update: July 2023
 
  ## Overview
 
@@ -12,7 +12,7 @@
  ## Governance Committee Scope
 
 
- The Governance Committee has a set of rights and responsibilities including the following:
+ The Governance Committee has a set of rights and responsibilities, including the following:
 
  Charter for Technical Committee.
  Define, evolve, and defend a Code of Conduct, which must include a neutral, unbiased process for resolving conflicts.
@@ -23,8 +23,8 @@
  Maintain relationships with the CNCF. For instance, creating documents describing the project
  Define, evolve, and defend the vision, values, mission, and scope of the project - to establish and maintain Keptn.
  Decide how and when official releases of Keptn artifacts are made and what they include.
- Establish processes regarding, and provide a final escalation path for any contested Keptn related decision.
- Establish processes regarding other project resources/assets, including artifact repositories, build and test infrastructure, web sites and their domains, blogs, social-media accounts, etc.
+ Establish processes regarding, and provide a final escalation path for any contested Keptn-related decision.
+ Establish processes regarding other project resources/assets, including artifact repositories, build and test infrastructure, websites and their domains, blogs, social media accounts, etc.
  Request funds and other support from the CNCF (e.g. marketing, press, etc.).
  Delegate appropriate authority to trusted individuals.
  This work is to be handled by the Governance Committee or delegated to other project groups like the Technical Committee.
@@ -32,7 +32,7 @@
 
  ### Governance Committee Members
 
- The following Governance Committee's term goes from the December 1st 2022 until November 30th 2023.
+ The following Governance Committee's term goes from December 1st 2022 until November 30th 2023.
  You can find the election process detailed [here.](https://github.com/keptn/community/blob/main/elections/2022/governance-committee-election.md)
 
  ### Alex Jones
@@ -58,15 +58,9 @@
  - Twitter [@Ana_M_Medina](https://twitter.com/Ana_M_Medina)
  - LinkedIn [Ana Margarita Medina](https://www.linkedin.com/in/anammedina/)
 
+
+ ## Technical Committee (TC) 
  
- > NOTE:
- > In November 2022 we held our first elections.
-
- ## Technical Committee (TC) Scope
-
- Role and responsibilities
-
-
  ### TC Members
  
  @thisthat
@@ -77,12 +71,7 @@
  ### TC Charter
 
 
-
- ## Decision making
-
-
-
- ## Meetings
+ ## Community membership levels
  _Member_,
  _Approver_,
  _Maintainer_,
@@ -93,15 +82,3 @@
 
  See [Community membership](./COMMUNITY_MEMBERSHIP.md) for additional information.
 
-
-
-
-
- An organization can have only up to three seats.
- The project maintainers are also responsible to review their nominations with the community,
- and to do the best effort to address any feedback/concerns.
-
-
- ### Project roles
-
- The following project roles are defined at the moment:
