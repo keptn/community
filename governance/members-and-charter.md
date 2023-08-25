@@ -80,5 +80,5 @@
  _Emeritus_.
  These roles are defined below.
 
- See [Community membership](./COMMUNITY_MEMBERSHIP.md) for additional information.
+ See [Community membership](../community-membership.md) for additional information.
 
