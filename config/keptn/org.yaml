@@ -70,7 +70,6 @@ members:
   - TannerGabriel
   - TannerGilbert
   - telltale00
-  - thschue
   - vadasambar
   - warber
   - YashPimple
@@ -80,7 +79,8 @@ members:
 
 teams:
   emeriti:
-    members: []
+    members:
+      - thschue
 
   admins:
     members:
@@ -99,7 +99,6 @@ teams:
     members:
       - thisthat
       - bradmccoydev
-      - thschue
     repos:
       community: write
       enhancement-proposals: write
@@ -124,7 +123,6 @@ teams:
       - agardnerIT
       - jainammm
       - vadasambar
-      - thschue
       - iamrajiv
       - eysk-io
       - mehabhalodiya
