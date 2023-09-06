@@ -26,7 +26,6 @@ for a two years term.
 
 Current Keptn Advisory Board members:
 
-- [Alex Jones](https://twitter.com/AlexJonesax) - Canonical, CNCF TAG AppDelivery
 - [Ana Medina](https://www.anammedina.com/) - Lightstep
 - [Alois Reitbauer](https://twitter.com/AloisReitbauer) - Dynatrace, CNCF TAG AppDelivery
 - [Andreas Grabner](https://twitter.com/grabnerandi) - Dynatrace
