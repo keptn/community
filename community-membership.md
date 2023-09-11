@@ -10,7 +10,7 @@ description: Roles and Responsibilities of Community Members
 
 This document outlines the various responsibilities of contributor roles in Keptn. 
 The Keptn project consists of:
-  * one **main project** with the [core services of Keptn](https://github.com/keptn/keptn)
+  * one **main project** with the [core services of Keptn](https://github.com/keptn/lifecycle-toolkit)
   * **Keptn-contrib** that contains [integrations and contributions](https://github.com/keptn-contrib) for Keptn
   * **Keptn-sandbox** that new [contributions to Keptn by the community](https://github.com/keptn-sandbox) and not maintained by Keptn core maintainers 
 
