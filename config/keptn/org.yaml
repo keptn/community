@@ -11,7 +11,6 @@ members_can_create_repositories: false
 
 admins:
   # governance committee
-  - AlexsJones
   - AnaMMedina21
   - AloisReitbauer
   # CNCF
@@ -107,7 +106,6 @@ teams:
   governance-committee:
     members:
       - AloisReitbauer
-      - AlexsJones
       - AnaMMedina21
     repos:
       community: admin
