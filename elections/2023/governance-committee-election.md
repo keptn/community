@@ -2,7 +2,7 @@
 linktitle: Governance Committee election
 ---
 
-# Keptn 2022 Bootstrap Governance Committee election
+# Keptn 2023 Governance Committee election
 
 Please see **[the list of candidates running in the election here](../governance-committee-candidates/)**.
 
@@ -53,7 +53,7 @@ All members of the Keptn Organization (Members, Approvers, Maintainers) will aut
 
 # Vote
 
-Everyone with voting rights may log into [Helios Voting](https://vote.heliosvoting.org/helios/e/keptn-gb-2022) using their GitHub account. Voting will be approval voting, where each voter may select up to three candidates. The three candidates with the most votes win the election. The three winners must be from different organizations, therefore only the highest ranked nominee from each organization will be elected. Nevertheless, it is possible to vote three nominees from the same organization.
+Everyone with voting rights may log into [Helios Voting](https://vote.heliosvoting.org/helios/e/Keptn-2023) using their GitHub account. Voting will be approval voting, where each voter may select up to three candidates. The three candidates with the most votes win the election. The three winners must be from different organizations, therefore only the highest ranked nominee from each organization will be elected. Nevertheless, it is possible to vote three nominees from the same organization.
 
 If there is a draw between the third and the lower ranked candidates, there will be a runoff election between the tied candidates. The runoff election will be held within 48 hours of the original election. The runoff election will be a simple majority vote, and the candidate with the most votes will be elected.
 
@@ -61,4 +61,4 @@ Per Helios, voting is entirely private: nobody will know any individual's vote.
 
 # Results
 
-Voting will close on 17th December 2022 at 23:59 UTC. Nominees will be stack ranked. If a nominee becomes ineligible (for instance, if more than three topmost nominees work for the same company), the election committee will skip those nominees and pick the nominee with the next-highest score. The exact scores for each candidate will be public.
+Voting will close on 17th December 2023 at 23:59 UTC. Nominees will be stack ranked. If a nominee becomes ineligible (for instance, if more than three topmost nominees work for the same company), the election committee will skip those nominees and pick the nominee with the next-highest score. The exact scores for each candidate will be public.
