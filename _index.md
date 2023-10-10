@@ -8,6 +8,7 @@ cascade:
 menu:
   main:
     weight: 20
+hidechildren: true
 ---
 
 {{% readfile "README.md" %}}
