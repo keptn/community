@@ -13,7 +13,7 @@ Election schedule:
 * October 15th - November 15th 2023 - period to submit nominations
 * November 16th 2023 - official nominees list published
 * November 17th - December 17th 2023 - voting period
-* Decmber 18th 2023 - results announced
+* December 18th 2023 - results announced
 
 We highly encourage participation in this election cycle to ensure that the community is well-represented by the Governance Committee.
 
