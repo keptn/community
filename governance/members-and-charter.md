@@ -35,14 +35,6 @@
  The following Governance Committee's term goes from December 1st 2022 until November 30th 2023.
  You can find the election process detailed [here.](https://github.com/keptn/community/blob/main/elections/2022/governance-committee-election.md)
 
- ### Alex Jones
-
- - Company: Canonical
- - GitHub: https://github.com/AlexsJones
- - Twitter: https://twitter.com/AlexJonesax
-
- ---
-
  ### Alois Reitbauer
 
  - Company: Dynatrace
