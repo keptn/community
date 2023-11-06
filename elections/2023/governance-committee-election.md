@@ -4,7 +4,7 @@ linktitle: Governance Committee election
 
 # Keptn 2023 Governance Committee election
 
-Please see **[the list of candidates running in the election here](../governance-committee-candidates/)**.
+Please see **[the list of candidates running in the election here](https://github.com/keptn/community/blob/main/elections/2023/governance-committee-candidates.md)**.
 
 This election should fill three seats.
 
@@ -13,7 +13,7 @@ Election schedule:
 * October 15th - November 15th 2023 - period to submit nominations
 * November 16th 2023 - official nominees list published
 * November 17th - December 17th 2023 - voting period
-* Decmber 18th 2023 - results announced
+* December 18th 2023 - results announced
 
 We highly encourage participation in this election cycle to ensure that the community is well-represented by the Governance Committee.
 
@@ -37,7 +37,7 @@ Helios voting also allows us to add GitHub handles to the list of voters in addi
 
 # Nominations
 
-Anybody is eligible to run for the Governance Committee. During the "call for nomination" period, people can be nominated or nominate themselves by expressing their interest in [this issue](https://github.com/keptn/community/issues/312) a Pull Request adding said candidate to the [governance-committee-candidates.md](https://github.com/keptn/community/elections/2023/governance-committee-candidates) file in the Keptn community repository. The template in that file includes the following columns:
+Anybody is eligible to run for the Governance Committee. During the "call for nomination" period, people can be nominated or nominate themselves by expressing their interest in [this issue](https://github.com/keptn/community/issues/312) a Pull Request adding said candidate to the [governance-committee-candidates.md](https://github.com/keptn/community/blob/main/elections/2023/governance-committee-candidates.md) file in the Keptn community repository. The template in that file includes the following columns:
 
 * Full name
 * GitHub alias
