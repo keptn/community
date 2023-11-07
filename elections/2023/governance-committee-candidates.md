@@ -7,7 +7,10 @@ linktitle: Governance Committee Candidates
 ## List of candidates
 
 In alphabetical order:
-- 
+- David Hirsch
+- Company: Dynatrace
+- GitHub: [DavidPHirsch](https://github.com/DavidPHirsch)
+- Description: Open Source Program manager at Dynatrace and maintainer for Keptn and the OpenFeature        community Repositories, CNCF Ambassador.
 
 <!--
 ### Candidate 1
