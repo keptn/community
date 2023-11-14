@@ -12,6 +12,11 @@ In alphabetical order:
 - GitHub: [DavidPHirsch](https://github.com/DavidPHirsch)
 - Description: Open Source Program manager at Dynatrace and maintainer for Keptn and the OpenFeature        community Repositories, CNCF Ambassador.
 
+- Nagaraju Kancherla
+- Company: Free lancer
+- GitHub: [kancherlanagaraju](https://github.com/kancherlanagaraju)
+- Description: Perl monger, opensoure evangelist , interested to contribute to keptn leveraging my recent experience in devops,sre and observability experience.
+
 <!--
 ### Candidate 1
 ![Candidate Name](static/candidate-picture.png)
