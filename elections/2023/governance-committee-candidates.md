@@ -27,19 +27,6 @@ Open Source Program manager at Dynatrace and maintainer for Keptn and the OpenFe
 
 Thomas is a Lead Cloud Engineer and Community Lead at WhizUs and has a strong background in delivering software and infrastructure. He is a CNCF and CDF Ambassador as well as Co-Chair of the CNCF TAG App Delivery. He is one of the minds behind the Keptn Lifecycle Toolkit, and former member of the Keptn Technical Committee. Furthermore, he is teaching Cloud Native Technologies / Kubernetes and co-author of the Book "Strategizing Continuous Delivery in the Cloud".
 
-### Mauricio Salatino
-
-<img src="https://avatars.githubusercontent.com/u/271966?v=4" alt="Mauricio Salatino" height="200" width="200">
-
-- Company: Diagrid
-- GitHub: [salaboy](https://github.com/salaboy)
-- Twitter: [salaboy](https://twitter.com/salaboy)
-- LinkedIn: https://uk.linkedin.com/in/salaboy
-
-#### Description of candidate ####
-
-Mauricio is a Senior Software Engineer II at Diagrid. He contributed to several open source projects and is currently a Steering Committee member for Knative and Co-Leads the Working Group for Knative Functions. Mauricio has a deep knowledge of Platform Engineering and Kubernetes, which led him to write the book "Platform Engineering on Kubernetes" about the topic, which features Keptn. Furthermore, he's Ambassador and Chair of the SIG Best Practices of the Continous Delivery Foundation.
-
 <!--
 ### Candidate 1
 ![Candidate Name](static/candidate-picture.png)
