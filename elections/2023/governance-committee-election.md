@@ -10,17 +10,17 @@ This election should fill three seats.
 
 Election schedule:
 
-* October 15th - November 15th 2023 - period to submit nominations
-* November 16th 2023 - official nominees list published
-* November 17th - December 17th 2023 - voting period
-* December 18th 2023 - results announced
+* October 15th - November 30th 2023 - period to submit nominations
+* December 1st 2023 - official nominees list published
+* December 4th 2023 - January 8th 2024 - voting period
+* January 9th 2024 - results announced
 
 We highly encourage participation in this election cycle to ensure that the community is well-represented by the Governance Committee.
 
 # TL;DR
 
 * If you've been nominated or are willing to nominate yourself: express your interest in [this issue](https://github.com/keptn/community/issues/312)
-* Vote between 17 November 2023 00:00 UTC and 17 December 2023 23:59 UTC via the [voting link](https://vote.heliosvoting.org/helios/e/Keptn-2023)
+* Vote between 4 December 2023 00:00 UTC and 8 January 2024 23:59 UTC via the [voting link](https://vote.heliosvoting.org/helios/e/Keptn-2023)
 * Stay a Keptn and keep contributing to the project!
 
 # Vacancies
@@ -61,4 +61,4 @@ Per Helios, voting is entirely private: nobody will know any individual's vote.
 
 # Results
 
-Voting will close on 17th December 2023 at 23:59 UTC. Nominees will be stack ranked. If a nominee becomes ineligible (for instance, if more than three topmost nominees work for the same company), the election committee will skip those nominees and pick the nominee with the next-highest score. The exact scores for each candidate will be public.
+Voting will close on 8th January 2024 at 23:59 UTC. Nominees will be stack ranked. If a nominee becomes ineligible (for instance, if more than three topmost nominees work for the same company), the election committee will skip those nominees and pick the nominee with the next-highest score. The exact scores for each candidate will be public.
