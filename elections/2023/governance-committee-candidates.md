@@ -38,7 +38,7 @@ Thomas is a Lead Cloud Engineer and Community Lead at WhizUs and has a strong ba
 
 #### Description of candidate ####
 
-Mauricio is a Senior Software Engineer II at Diagrid. He contributed to several open source projects and is currently a Steering Committee member for Knative and Co-Leads the Working Group for Knative Functions. Mauricio has a deep knowledge of Platform Engineering and Kubernetes, which led him to write the book "Platform Engineering on Kubernetes" about the topic, which features Keptn. Furthermore, he's Ambassador and Chair of the SIG Best Practices of the Continous Delivery Foundation.
+Mauricio is a Senior Software Engineer II at Diagrid. He contributed to several open source projects and is currently a Steering Committee member for Knative and Co-Leads the Working Group for Knative Functions. Furthermore, he's Ambassador and Chair of the SIG Best Practices of the Continous Delivery Foundation. Mauricio contributed to Keptn around DORA metrics and Cloud Event support. He presented Keptn as the reference implementation for [Measuring Platforms](https://github.com/salaboy/platforms-on-k8s) in his book ["Platform Engineering on Kubernetes"](https://www.manning.com/books/platform-engineering-on-kubernetes).
 
 <!--
 ### Candidate 1
