@@ -7,6 +7,15 @@ linktitle: Governance Committee Candidates
 ## List of candidates
 
 In alphabetical order:
+### Ana Margarita Medina
+![Candidate Name](https://github.com/AnaMMedina21)
+- Company: Lightstep from ServiceNow
+- GitHub: [AnaMMedina21](https://github.com/AnaMMedina21)
+- Twitter: [ana_medina](https://twitter.com/ana_m_medina)
+- LinkedIn: https://linkedin.com/in/anammedina
+Ana Margarita Medina is a Staff Developer Advocate, she speaks on all things SRE, DevOps, and Reliability. She is a self-taught engineer with over 13 years of experience, focusing on cloud infrastructure and reliability. She has been part of the Kubernetes Release Team since v1.25, serves on the Kubernetes Code of Conduct Committee, and is on the GC for CNCF's Keptn project, When time permits, she leads efforts to dispel the stigma surrounding mental health and bring more Black and Latinx folks into tech.
+
+
 ### David Hirsch
 - Company: Dynatrace
 - GitHub: [DavidPHirsch](https://github.com/DavidPHirsch)
