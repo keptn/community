@@ -13,7 +13,7 @@ See also the community page on [**keptn.sh/community**](https://lifecycle.keptn.
 
 * [Keptn Community Page](https://lifecycle.keptn.sh/community/) - Community landing on the Keptn website, with information for users and contributors
 * [Keptn chapter on community.cncf.io](https://community.cncf.io/keptn-community/) - Project and user group meetings
-* Slack - Join us for realtime discussions and Q&A in the #ketpn channel on [CNCF Slack](cloud-native.slack.com) (if you're not in CNCF slack already, [invite yourself here](https://communityinviter.com/apps/cloud-native/cncf)
+* Slack - Join us for realtime discussions and Q&A in the [#keptn channel](https://cloud-native.slack.com/archives/C017GAX90GM) on [CNCF Slack](cloud-native.slack.com) (if you're not in CNCF slack already, [invite yourself here](https://communityinviter.com/apps/cloud-native/cncf)
 * [Keptn on GitHub Discussions](https://github.com/keptn/lifecycle-toolkit/discussions) - Additional resource for Q&A and discussing proposals
 * [Community Newsletter](https://keptn.sh/community/newsletter/) - Subscribe to get updates on the state of Keptn every two weeks!
 * Social media: [@keptnProject](https://twitter.com/keptnProject) on Twitter, [KeptnProject](https://www.linkedin.com/company/keptnproject) on LinkedIn
