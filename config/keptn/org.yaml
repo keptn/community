@@ -159,6 +159,7 @@ repos:
     default_branch: main
     description: Keptn Enhancement Proposals
   examples:
+    archived: true
     description: Examples for demonstrating keptn use cases
   get.keptn.sh:
     has_projects: false
@@ -177,12 +178,14 @@ repos:
       across Keptn repos
     has_projects: false
   go-utils:
+    archived: true
     description: Keptn util library for golang
     homepage: https://keptn.sh
   helm-charts:
     default_branch: main
     homepage: https://charts.keptn.sh
   helm-charts-dev:
+    archived: true
     default_branch: main
     has_issues: false
     has_projects: false
@@ -196,11 +199,13 @@ repos:
     description: Lists Keptn Integrations and ideas for new ones
     has_projects: false
   keptn:
+    archived: true
     description: Cloud-native application life-cycle orchestration. Keptn automates
       your SLO-driven multi-stage delivery and operations & remediation of your applications.
     homepage: https://keptn.sh
     has_wiki: true
   keptn.github.io:
+    archived: true
     description: Keptn website and documentation portal
     homepage: https://keptn.sh
   killercoda:
@@ -216,6 +221,7 @@ repos:
     has_projects: false
     homepage: https://charts.lifecycle.keptn.sh
   spec:
+    archived: true
     description: 'Contains Keptn specifications: CloudEvents, Shipyard, Uniform, SLI/SLO,
       Remediation'
     homepage: https://github.com/keptn/spec
@@ -225,6 +231,7 @@ repos:
     has_issues: false
     homepage: https://cncf.io/
   tutorials:
+    archived: true
     description: Keptn tutorials site
     homepage: https://tutorials.keptn.sh/
   wg-app-lifecycle:
