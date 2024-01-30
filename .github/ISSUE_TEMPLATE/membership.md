@@ -71,5 +71,5 @@ Please remember, it is an applicant's responsibility to get their sponsors' conf
 - SIG projects I am involved with
 
 [Community Membership Guidelines]: https://github.com/keptn/community/blob/main/community-membership.md
-[Peribolos Configuration]: ./config/keptn/org.yaml
-[Peribolos Configuration Directory]: ./config/keptn/
+[Peribolos Configuration]: https://github.com/keptn/community/tree/main/config/keptn/org.yaml
+[Peribolos Configuration Directory]: https://github.com/keptn/community/tree/main/config/keptn
