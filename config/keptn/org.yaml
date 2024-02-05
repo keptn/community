@@ -12,7 +12,8 @@ members_can_create_repositories: false
 admins:
   # governance committee
   - AnaMMedina21
-  - AloisReitbauer
+  - salaboy
+  - thschue
   # CNCF
   - thelinuxfoundation
   - caniszczyk
@@ -84,6 +85,7 @@ teams:
   emeriti:
     members:
       - thschue
+      - AloisReitbauer
 
   admins:
     members:
@@ -108,8 +110,9 @@ teams:
 
   governance-committee:
     members:
-      - AloisReitbauer
       - AnaMMedina21
+      - salaboy
+      - thschue
     repos:
       community: admin
       enhancement-proposals: admin
