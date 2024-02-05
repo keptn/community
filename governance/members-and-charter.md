@@ -1,6 +1,6 @@
 # Governance Charter
 
- Last update: July 2023
+ Last update: February 2024
 
  ## Overview
 
@@ -32,16 +32,8 @@
 
  ### Governance Committee Members
 
- The following Governance Committee's term goes from December 1st 2022 until November 30th 2023.
- You can find the election process detailed [here.](https://github.com/keptn/community/blob/main/elections/2022/governance-committee-election.md)
-
- ### Alois Reitbauer
-
- - Company: Dynatrace
- - GitHub: https://github.com/aloisreitbauer
- - Twitter: https://twitter.com/aloisreitbauer
-
- ---
+ The following Governance Committee's term goes from February 1st 2024 until January 31st 2025.
+ You can find the election process detailed [here.](https://github.com/keptn/community/blob/main/elections/2023/governance-committee-election.md)
 
  ### Ana Margarita Medina
 
@@ -50,6 +42,21 @@
  - Twitter [@Ana_M_Medina](https://twitter.com/Ana_M_Medina)
  - LinkedIn [Ana Margarita Medina](https://www.linkedin.com/in/anammedina/)
 
+ ### Mauricio Salatino
+
+ - Company: Diagrid
+ - GitHub: [Salaboy](https://github.com/salaboy)
+ - Twitter [@salaboy](https://twitter.com/salaboy)
+ - LinkedIn [Mauricio Salatino](https://www.linkedin.com/in/salaboy/)
+
+### Thomas Schuetz
+
+ - Company: WhizUs
+ - GitHub: [thschue](https://github.com/thschue)
+ - Twitter [@ThSchue](https://twitter.com/ThSchue)
+ - LinkedIn [Thomas Schuetz](https://www.linkedin.com/in/thschue/)
+   
+
 
  ## Technical Committee (TC) 
  
@@ -57,7 +64,6 @@
  
  @thisthat
  @bradmccoydev 
- @thschue 
 
 
  ### TC Charter
