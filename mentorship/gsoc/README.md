@@ -11,6 +11,8 @@ In exchange, numerous community members volunteer as "mentors" for GSoC contribu
 to help integrate them into the open source community and succeed in completing their projects.
 
 ## GSoC Programs
+
+* [2024](./2024/README.md)
 * [2023](./2023/README.md)
 * [2022](./2022/README.md)
 
