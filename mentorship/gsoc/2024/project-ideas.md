@@ -24,3 +24,28 @@ in GSoC are available on [this page](../README.md)
   - Ondrej Dubaj (@odubajDT, ondrej.dubaj@dynatrace.com) - primary
   - Florian Bacher (@bacherfl, florian.bacher@dynatrace.com)
 - Upstream Issue (URL): https://github.com/keptn/lifecycle-toolkit/issues/2823
+- [Create additional metrics operators for KLT](#keptn-additional-metrics)
+
+
+<a name="keptn-additional-metrics"></a>
+### Create additional metrics operators for KLT
+
+Expose additional Observability Platform metrics into K8s as custom metrics
+
+Enhance Keptn Lifecycle Toolkit's metric support by adding four new providers beyond Prometheus 
+and Dynatrace and Datadog. This expansion includes both open-source and commercial solutions, 
+increasing flexibility and appeal for organizations of diverse sizes.
+
+Outcome:
+
+Metrics and Providers can be specified via CRs
+The values for the metrics are stored in the status of the CRs
+The metrics adapter is able to fetch these metrics and provide them.
+
+- More info: 
+  - https://github.com/keptn/lifecycle-toolkit/issues/525 
+  - https://github.com/keptn/lifecycle-toolkit/issues/2850
+- Slack channel for technical discussion: `keptn-lifecycle-toolkit-dev`
+- Areas to study/improve: Golang, observability, Kubernetes
+- Project size: 175 hours
+
