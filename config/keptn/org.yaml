@@ -88,15 +88,14 @@ teams:
     members:
       - thschue
       - AloisReitbauer
+      - mowies
 
   admins:
     members:
-      - mowies
       - thisthat
 
   maintainers:
     members:
-      - mowies
       - thisthat
 
   approvers:
